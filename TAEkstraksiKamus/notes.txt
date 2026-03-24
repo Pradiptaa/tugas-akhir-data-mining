@@ -1,0 +1,137 @@
+Raw CSV JSON all Information
+1. Kamus Makasar-Indonesia (1995)-hasil
+10. Kamus Bahasa Indonesia-Dayak Deah Edisi I (2013)-hasil
+11. Kamus Suwawa-Indonesia (1985)-hasil
+12. Kamus Bahasa Indonesia-Kaidipang L-Z (2000)-hasil
+13. Kamus Bahasa Indonesia-Bahasa Sunda I (1993)-hasil
+14. Kamus Bahasa Indonesia-Bahasa Minangkabau II (1994)-hasil
+15. Kamus Bahasa Indonesia-Pasir (1997)-hasil
+16. Kamus Bahasa Indonesia Karo A-K (1998)-hasil
+17. Kamus Melayu Makasar-Indonesia (1985)-hasil
+18. Kamus Bahasa Jawa-Bahasa Indonesia I (1993)-hasil
+19. Kamus Bahasa Indoensia-Melayu Riau (1997)-hasil
+2. Kamus Melayu-Indonesia (1985)-hasil
+20. Kamus Bahasa Melayu Ambon-Indonesia (1998)-hasil
+21. Kamus Bahasa Indonesia-Sentani A-K (1999)-hasil
+22. Kamus Bahasa Gorontalo-Indonesia (1977)-hasil
+23. Kamus Dwibahasa Dayak Ngaju-Indonesia (2013)-hasil
+24. Kamus Minangkabau-Indonesia (1985)-hasil
+25. Kamus Bahasa Indonesia Jambi L-Z (1997)-hasil
+26. Kamus Bahasa Indonesia-Bahasa Tonsea II (1996)-hasil
+27. Kamus Bahasa Indonesia-Saluan (2012)-hasil
+28. Kamus Bahasa Kutai-Bahasa Indonesia (2013)-hasil
+29. Kata Tetun Indonesia (1985)-hasil
+3. Kamus Bahasa Gorontalo-Indonesia (2001)-hasil
+30. Glosarium Sastra (2002)-hasil
+31. Kamus Sumbawa-Indonesia (1985)-hasil
+32. Kamus Melayu Langkat-Indonesia (1985)-hasil
+33. Kamus Wolio Indonesia (1985)-hasil
+34. Kamus Bahasa Indonesia-Bali L-Z (1998)-hasil
+35. Kamus Bahasa Indonesia-Bahasa Gayo I (1996)-hasil
+36. Kamus Bahasa Indonesia-Kulawi (2012)-hasil
+37. Kamus Bahasa Indonesia Bakumpai II (1995)-hasil
+38. Kamus Bahasa Indonesia-Karo L-Z (1999)-hasil
+4. Kamus Bahasa Indonesia-Jambi A-K (1998)-hasil
+40. Kamus Sinonim-Antonim Bahasa Indonesia-Bahasa Melayu Dialek Sambas (2010)-hasil
+41. Kamus Bahasa Indonesia-Bali A-K (1997)-hasil
+42. Kamus Bahasa Indonesia-Bahasa Sunda II (1993)-hasil
+44. Kamus Melayu Deli-Indonesia (1985)-hasil
+46. Kamus Bahasa Banjar Dialek Hulu-Indonesia (2008)-hasil
+48. Kamus Muna-Indonesia (1985)-hasil
+49. Kamus Ungkapan Wolio-Indonesia (1992)-hasil
+5. Kamus Bahasa Indonesia-Bahasa Tonsea I (1996)-hasil
+50. Kamus Indonesia-Jawa Kuno (1992)-hasil
+51. Kamus Bahasa Bali Kuno-Indonesia (1985)-hasil
+52. Kamus Ogan-Indonesia (1985)-hasil
+54. Kamus Bahasa Indonesia Mentawai (1998)-hasil
+55. Kamus Bahasa Indonesia Bakumpai I (1995)-hasil
+56. Kamus Lampung-Indonesia (1985)-hasil
+58. Kamus Melayu Ketapang-Indonesia A-M (2010)-hasil
+6. Kata Sapaan Bahasa Minangkabau di Kabupaten Agam (2010)-hasil
+60. Kamus Sunda-Indonesia (1985)-hasil
+62. Kamus Umum Kerinci-Indonesia (1985)-hasil
+63. Kamus Bahasa Indonesia-Lampung Dialek A (1999)-hasil
+66. Kamus Melayu Bali-Indonesia (1985)-hasil
+67. Kamus Aceh Indonesia (A-L) (1985)-hasil
+68. Kamus Dwibahasa Bahasa Talaud - Bahasa Indonesia (2018)-hasil
+70. Kamus dwibahasa Hitu - Indonesia (2017)-hasil
+71. Kamus dwibahasa Bugis-Indonesia (2017)-hasil
+72. Kamus ungkapan Dayak Ngaju - Indonesia (1999)-hasil
+74. Kamus Bahasa Melayu Bangka-Indonesia (2018)-hasil
+76. Kamus kemaritiman Aceh - Indonesia (2021)-hasil
+78. Kamus Tolaki-Indonesia (1985)-hasil
+79. Kamus Bahasa Jawa-Bahasa Indonesia II (1993)-hasil
+8. Kamus Indonesia-Angkola (1995)-hasil
+82. Kamus dwibahasa Indonesia - Aceh (2011)-hasil
+83. Kamus dwibahasa Bahasa Indonesia - Dayak Halong (2017)-hasil
+84. Kamus Bahasa Biak - Indonesia (1977) -hasil
+85. Kamus Tondano-Indonesia (1985)-hasil
+87. Kamus Bahasa Indonesia-Kaidipang (A-K) (1999)-hasil
+89. Kamus Dwibahasa Bahasa Mooi-Bahasa Indonesia (2017)-hasil
+9. Kamus Manado-Indonesia (1985)-hasil
+91. Kamus Simalungun - Indonesia (edisi kedua) (2015)-hasil
+94. Kamus Bahasa Madura-Indonesia (1977)-hasil
+
+
+CSV JSON all Information - Final
+10. Kamus Bahasa Indonesia-Dayak Deah Edisi I (2013)-hasil-ekstraksi.csv
+11. Kamus Suwawa-Indonesia (1985)-hasil-ekstraksi.csv
+12. Kamus Bahasa Indonesia-Kaidipang L-Z (2000)-hasil-ekstraksi.csv
+13. Kamus Bahasa Indonesia-Bahasa Sunda I (1993)-hasil-ekstraksi.csv
+14. Kamus Bahasa Indonesia-Bahasa Minangkabau II (1994)-hasil-ekstraksi.csv
+15. Kamus Bahasa Indonesia-Pasir (1997)-hasil-ekstraksi.csv
+16. Kamus Bahasa Indonesia Karo A-K (1998)-hasil-ekstraksi.csv
+17. Kamus Melayu Makasar-Indonesia (1985)-hasil-ekstraksi.csv
+18. Kamus Bahasa Jawa-Bahasa Indonesia I (1993)-hasil-ekstraksi.csv
+19. Kamus Bahasa Indoensia-Melayu Riau (1997)-hasil-ekstraksi.csv
+2. Kamus Melayu-Indonesia (1985)-hasil-ekstraksi.csv
+20. Kamus Bahasa Melayu Ambon-Indonesia (1998)-hasil-ekstraksi.csv
+21. Kamus Bahasa Indonesia-Sentani A-K (1999)-hasil-ekstraksi.csv
+22. Kamus Bahasa Gorontalo-Indonesia (1977)-hasil-ekstraksi.csv
+23. Kamus Dwibahasa Dayak Ngaju-Indonesia (2013)-hasil-ekstraksi.csv
+24. Kamus Minangkabau-Indonesia (1985)-hasil-ekstraksi.csv
+25. Kamus Bahasa Indonesia Jambi L-Z (1997)-hasil-ekstraksi.csv
+26. Kamus Bahasa Indonesia-Bahasa Tonsea II (1996)-hasil-ekstraksi.csv
+27. Kamus Bahasa Indonesia-Saluan (2012)-hasil-ekstraksi.csv
+28. Kamus Bahasa Kutai-Bahasa Indonesia (2013)-hasil-ekstraksi.csv
+29. Kata Tetun Indonesia (1985)-hasil-ekstraksi.csv
+3. Kamus Bahasa Gorontalo-Indonesia (2001)-hasil-ekstraksi.csv
+31. Kamus Sumbawa-Indonesia (1985)-hasil-ekstraksi.csv
+32. Kamus Melayu Langkat-Indonesia (1985)-hasil-ekstraksi.csv
+33. Kamus Wolio Indonesia (1985)-hasil-ekstraksi.csv
+34. Kamus Bahasa Indonesia-Bali L-Z (1998)-hasil-ekstraksi.csv
+36. Kamus Bahasa Indonesia-Kulawi (2012)-hasil-ekstraksi.csv
+37. Kamus Bahasa Indonesia Bakumpai II (1995)-hasil-ekstraksi.csv
+38. Kamus Bahasa Indonesia-Karo L-Z (1999)-hasil-ekstraksi.csv
+4. Kamus Bahasa Indonesia-Jambi A-K (1998)-hasil-ekstraksi.csv
+41. Kamus Bahasa Indonesia-Bali A-K (1997)-hasil-ekstraksi.csv
+42. Kamus Bahasa Indonesia-Bahasa Sunda II (1993)-hasil-ekstraksi.csv
+44. Kamus Melayu Deli-Indonesia (1985)-hasil-ekstraksi.csv
+46. Kamus Bahasa Banjar Dialek Hulu-Indonesia (2008)-hasil-ekstraksi.csv
+48. Kamus Muna-Indonesia (1985)-hasil-ekstraksi.csv
+5. Kamus Bahasa Indonesia-Bahasa Tonsea I (1996)-hasil-ekstraksi.csv
+50. Kamus Indonesia-Jawa Kuno (1992)-hasil-ekstraksi.csv
+51. Kamus Bahasa Bali Kuno-Indonesia (1985)-hasil-ekstraksi.csv
+52. Kamus Ogan-Indonesia (1985)-hasil-ekstraksi.csv
+54. Kamus Bahasa Indonesia Mentawai (1998)-hasil-ekstraksi.csv
+55. Kamus Bahasa Indonesia Bakumpai I (1995)-hasil-ekstraksi.csv
+56. Kamus Lampung-Indonesia (1985)-hasil-ekstraksi.csv
+58. Kamus Melayu Ketapang-Indonesia A-M (2010)-hasil-ekstraksi.csv
+60. Kamus Sunda-Indonesia (1985)-hasil-ekstraksi.csv
+63. Kamus Bahasa Indonesia-Lampung Dialek A (1999)-hasil-ekstraksi.csv
+66. Kamus Melayu Bali-Indonesia (1985)-hasil-ekstraksi.csv
+67. Kamus Aceh Indonesia (A-L) (1985)-hasil-ekstraksi.csv
+68. Kamus Dwibahasa Bahasa Talaud - Bahasa Indonesia (2018)-hasil-ekstraksi.csv
+70. Kamus dwibahasa Hitu - Indonesia (2017)-hasil-ekstraksi.csv
+71. Kamus dwibahasa Bugis-Indonesia (2017)-hasil-ekstraksi.csv
+74. Kamus Bahasa Melayu Bangka-Indonesia (2018)-hasil-ekstraksi.csv
+78. Kamus Tolaki-Indonesia (1985)-hasil-ekstraksi.csv
+79. Kamus Bahasa Jawa-Bahasa Indonesia II (1993)-hasil-ekstraksi.csv
+8. Kamus Indonesia-Angkola (1995)-hasil-ekstraksi.csv
+84. Kamus Bahasa Biak - Indonesia (1977) -hasil-ekstraksi.csv
+85. Kamus Tondano-Indonesia (1985)-hasil-ekstraksi.csv
+87. Kamus Bahasa Indonesia-Kaidipang (A-K) (1999)-hasil-ekstraksi.csv
+89. Kamus Dwibahasa Bahasa Mooi-Bahasa Indonesia (2017)-hasil-ekstraksi.csv
+9. Kamus Manado-Indonesia (1985)-hasil-ekstraksi.csv
+91. Kamus Simalungun - Indonesia (edisi kedua) (2015)-hasil-ekstraksi.csv
+94. Kamus Bahasa Madura-Indonesia (1977)-hasil-ekstraksi.csv
