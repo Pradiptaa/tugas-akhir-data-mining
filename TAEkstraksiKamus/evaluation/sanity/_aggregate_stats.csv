@@ -1,0 +1,17 @@
+,value
+total_dictionaries_audited,68.0
+total_billex_entries,107732.0
+total_morphology_entries,40245.0
+total_parcor_pairs,116398.0
+tier_prefix_good,2.0
+tier_prefix_needs_attention,18.0
+tier_prefix_broken,48.0
+tier_postfix_good,4.0
+tier_postfix_needs_attention,31.0
+tier_postfix_broken,33.0
+tier_improved,55.0
+mean_billex_identical_rate,0.032
+mean_morph_tag_coverage_prefix,0.395
+mean_morph_tag_coverage_postfix,0.608
+mean_parcor_placeholder_rate_prefix,0.36
+mean_parcor_placeholder_rate_postfix,0.01
