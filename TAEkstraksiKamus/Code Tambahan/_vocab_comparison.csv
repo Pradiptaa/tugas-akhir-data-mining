@@ -1,0 +1,3 @@
+strategy,vocab_size,total_weighted_tokens,freq_min,freq_max,freq_median,freq_mean,tokens_freq_1,tokens_freq_2plus,tokens_freq_5plus
+B_all_tiers,140863,441118,1,48,2.0,3.13,66029,74834,18339
+C_min3_dicts,22601,256712,3,48,8.0,11.36,0,22601,18339

@@ -1,0 +1,22 @@
+dict_id,resource,rows,prep_rows,suspected_cause
+3,morph,1,833,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+20,billex,0,2109,Extraction-stage failure in notebook 9 (Bilingual Lexicon). Prep has content but Billex is empty.
+20,morph,0,2109,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+22,morph,0,365,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+29,billex,1,1979,Extraction-stage failure in notebook 9 (Bilingual Lexicon). Prep has content but Billex is empty.
+29,morph,2,1979,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+31,billex,1,1371,Extraction-stage failure in notebook 9 (Bilingual Lexicon). Prep has content but Billex is empty.
+31,morph,0,1371,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+32,morph,0,3345,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+37,morph,2,361,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+44,morph,0,2001,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+48,billex,1,233,Extraction-stage failure in notebook 9 (Bilingual Lexicon). Prep has content but Billex is empty.
+48,morph,0,233,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+52,morph,0,2679,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+56,morph,1,3116,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+61,morph,2,2793,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+66,billex,2,1657,Extraction-stage failure in notebook 9 (Bilingual Lexicon). Prep has content but Billex is empty.
+78,billex,2,1195,Extraction-stage failure in notebook 9 (Bilingual Lexicon). Prep has content but Billex is empty.
+78,morph,0,1195,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+84,morph,2,1001,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
+85,morph,1,1239,"Morphology extraction produced nothing. Source may have no derivations, OR extractor failed."
