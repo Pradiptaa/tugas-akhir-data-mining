@@ -42,3 +42,4 @@ wcwidth==0.6.0
 pyspellchecker
 matplotlib
 mlxtend
+diptest
