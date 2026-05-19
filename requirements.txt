@@ -43,3 +43,4 @@ pyspellchecker
 matplotlib
 mlxtend
 diptest
+openpyxl
