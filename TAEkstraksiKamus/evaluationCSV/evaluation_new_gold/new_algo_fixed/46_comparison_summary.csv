@@ -1,0 +1,4 @@
+match_level,tp,fp,fn,tn,wrong_extraction,precision,recall,f1
+strict,0,18,46,6,16,0.0,0.0,
+normalized,2,16,44,6,14,0.1111,0.0435,0.0625
+fuzzy,5,13,41,6,11,0.2778,0.1087,0.1562

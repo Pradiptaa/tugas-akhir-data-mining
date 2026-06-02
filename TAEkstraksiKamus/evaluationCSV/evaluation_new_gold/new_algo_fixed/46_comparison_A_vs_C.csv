@@ -1,0 +1,55 @@
+source_lemma,iaa_outcome,c_has_pair,a_has_pair,c_kalimat_asal,a_kalimat_asal,c_kalimat_tujuan,a_kalimat_tujuan,match_asal_strict,match_asal_normalized,match_asal_fuzzy,match_asal_fuzzy_score,match_tujuan_strict,match_tujuan_normalized,match_tujuan_fuzzy,match_tujuan_fuzzy_score,concatenation_candidate,outcome
+baaakalan,agreed_no_pair,False,False,,,,,True,True,True,1.0,True,True,True,1.0,False,TN
+baikam,agreed_extracted_match,True,False,wan kuitan jangan baikam,,dengan org tua jangan berkamu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+baitukan,agreed_extracted_match,True,False,mun main jangan baitukan,,kalau main jangan saling merobohkan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+bakarum,agreed_extracted_match,True,True,tangannya bakarum,tangannya tangannya,tangannya dlm keadaan terbelenggu/terikat,dim keadaan terbelenggu/terikat,False,False,False,0.471,False,False,False,0.65,False,wrong_extraction
+bakasudahan,agreed_extracted_match,True,False,kakanak ngini kada bakasudahan manangis,,anak ini tdk berhenti menangis,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+bakusai,agreed_extracted_match,True,True,bakusai napa pina babau banar,napa p/na hahau banar,beroleskan apa sih koko bau sekali,beroieskan apa sih koko bau sekali,False,False,False,0.324,False,False,True,0.829,False,wrong_extraction
+balimpua,agreed_extracted_match,True,False,kami balimpua ja lah kada kawa singgah,,kami lewat saja ya krn tdk bisa mampir,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+bangkit,agreed_extracted_match,True,True,bangkit iwak di rinjing!,bangkit iwak di rinjing!,angkat ikan di wajan!,angkat ikan di wajan,True,True,True,1.0,False,True,True,1.0,False,TP
+banyiur,agreed_no_pair,False,False,,,,,True,True,True,1.0,True,True,True,1.0,False,TN
+bapamantang,agreed_extracted_match,True,False,inya bapamantang makan lakatan,,ia berpantangan makan ketan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+basandar,agreed_extracted_match,True,False,jangan basandar di situ,,jangan bersandar di situ,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+batangga,agreed_not_found,False,True,,kada kawa a/cu naik 1w atas hatap mun kada batangga,,tdk bisa saya naik ke atas atap kalau tdk dg tangga,False,False,False,0.0,False,False,False,0.0,False,FP
+gaak,agreed_not_found,False,False,,,,,True,True,True,1.0,True,True,True,1.0,False,TN
+gapit,agreed_extracted_match,True,False,gapit wan paring,,jepit dengan bambu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+harit,agreed_extracted_match,True,False,harit haja saurang,,derita saja sendiri,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+jimpulut,agreed_extracted_match,True,True,tangan ading jimpulut bakas licak,a/cu kada ingat mambawa payung makanya —,tangan adik berlepotan kena lumpur,saya lupa membawa payung sehingga tdk sengaja basah kuyup,False,False,False,0.062,False,False,False,0.037,False,wrong_extraction
+juhung,agreed_extracted_match,True,False,kalu pina ikam kujuhung,,nanti kamu akan saya dorong,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+kakaca,agreed_not_found,False,True,,kasiannya inya sampai kakaca wai kaitu,,kasihan sekaii dia sampai menggapai-gapai spt itu,False,False,False,0.0,False,False,False,0.0,False,FP
+kalanjaran,agreed_extracted_match,True,False,jangan kalanjaran bajalan,,jangan terlalu jauh berjalan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+kapadihan,agreed_extracted_match,True,False,inya kuriak-kuriak kapadihan,,ia berteriak-teriak menahan luka yg terlalu pedih,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+kapau,agreed_extracted_match,True,True,kapaulah limaunya?,lah limaunya?,jeruknya berair tdk?,jeruknya berair tdk,False,False,False,0.667,False,True,True,1.0,False,wrong_extraction
+kapuhunan,agreed_extracted_match,True,False,rasai ha saikit tatamba kapuhunan,,cobain dulu sedikit (makanan) agar tdk mendapat celaka,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+maharaakan,agreed_extracted_match,True,False,inya maharaakan lakinya wan babinian lain,,dia menguatirkan suaminya dengan perempuan lain,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+mahinamakan,agreed_extracted_match,True,True,mahinamakan hanyar kayah urang,hanyar kayah urang merasakan ke din sendiri,merasakan ke diri sendiri baru ke org,barn ke org,False,False,False,0.38,False,False,False,0.219,False,wrong_extraction
+malah,agreed_extracted_match,True,False,malah inya nang kada tulak,,malah dia yg tidak pergi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+manangkiwang,agreed_extracted_match,True,False,kita harus manangkiwang di batang kayu ngini,,kita harus membuat potongan berbentuk siksak pd batang kayu ini,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+manggahiak,agreed_extracted_match,True,True,lawas banar sudah inya garing sampai manggahiak,lawas banar sudah inya garing sampai manggahiak,lama sekali dia sudah sakit hingga sulit bernapas,lama sekali dia sudah sakit hingga sulit bemapas,True,True,True,1.0,False,False,True,0.848,False,wrong_extraction
+manggusari,agreed_extracted_match,True,True,mun di tangah urang jangan manggusari anak,mun di tangah urang jangan anak,kalau di tengah org banyak jangan memarahi anak,kalau di tengah org banyak jangan memarahi anak,False,False,False,0.676,True,True,True,1.0,False,wrong_extraction
+manyintar,agreed_extracted_match,True,True,kada usah gin manyintar di situ,kada usah gin —di situ,tdk usah menyintari di situ,tdk usah menyintani di situ,False,False,False,0.531,False,False,True,0.786,False,wrong_extraction
+maungkum,agreed_extracted_match,True,False,sidin maungkum pisang,,beliau memeram buah pisang,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+mumuk,agreed_extracted_match,True,False,batisnya mumuk bakas tarujuk mutur,,kakinya remuk bekas tertabrak mobil,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+ngangar,agreed_extracted_match,True,False,ngangar anjing batangah malaman,,lengkingan anjing di tengah malam,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+pamurahnya,agreed_extracted_match,True,True,mama nukar sayur pamurahnya,mama nukar sayur ibu,ibu membeli sayur paling murah,membeli sayur paling murah,False,False,False,0.536,False,False,True,0.857,False,wrong_extraction
+pancatan,agreed_extracted_match,True,False,hayam di sini pancatan sabarataan,,ayam-ayam di sini pada terganggu semua dan tidak mau bertelor,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+pangicuhnya,agreed_extracted_match,True,True,malam tadi nangpangicuhnya,malam tadi nang—,tadi malam yg paling ricuh,tadi malam yg paling ricuh,False,False,False,0.542,True,True,True,1.0,False,wrong_extraction
+purna,agreed_extracted_match,True,True,"duitnya kada dipakai, masih purna kada bauna","duitnya kada dipakai, masih purna kada bauna,","uangnya tdk dipakai, masih utuh tdk tersentuh","uangnya tdk dipakai, masih utuh tdk tersentuh",False,True,True,1.0,True,True,True,1.0,False,TP
+purun,agreed_extracted_match,True,False,purun banar inya lawan aku,,sampai hati sekali dia thd saya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+sahut,agreed_extracted_match,True,False,sahut mun urang mangiyau,,jawab jika org memanggil,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+sasambahan,agreed_not_found,False,False,,,,,True,True,True,1.0,True,True,True,1.0,False,TN
+sirangsiruk,agreed_extracted_match,True,False,kenapa maka sirangsiruk andakannya?,,kenapa letaknya tdk ebraturan?,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+taat,agreed_extracted_match,True,False,inya taat baibadah,,dia taat beribadah,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+tapancar,agreed_extracted_match,True,True,tapancar banyu mata kajadian tatawa bahimat,banyu mata kajadian tatawa bahimat,terkeluar air mata karena tertawa luar biasa,terkeluar air mata karena tertawa luar biasa,False,False,True,0.789,True,True,True,1.0,False,wrong_extraction
+tapanjang,agreed_extracted_match,True,False,kayu ngini tapanjang dp nang sabutingnya,,kayu ini lebih panjang dp yg satunya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+tapapas,agreed_extracted_match,True,False,rumputnya tapapas,,rumputnya terpotong,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+tapatuh,agreed_extracted_match,True,True,aku tapatuh lawan adingnya dp kaka nya,inya makan hintalu dp makan iivak,aku lebih kenal dengan adiknya dp kakaknya,ia terbiasa makan telur dp,False,False,False,0.109,False,False,False,0.053,False,wrong_extraction
+tapijim,agreed_extracted_match,True,False,matanya tapijim satumat,,matanya terpejam sebentar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+tarangsang,agreed_extracted_match,True,False,inya mulai tarangsang imbah disuntik bidan,,ia mulai terangsang (kontraksi) stlh disuntik bidan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+tasuak,agreed_extracted_match,True,True,tanaga adingnya tasuak daripada kakanya,tanaga adingnya daripada kakanya,tenaga adiknya lebih lemah dibanding kakaknya,tenaga adiknya lebih lemali dibanding kakaknya,False,False,True,0.757,False,False,True,0.837,False,wrong_extraction
+tatangkis,agreed_extracted_match,True,False,pukulannya tatangkis sampai kada kawa manganai awak,,pukulannya dapat ditangkis sehingga tdk bisa mengenai badan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+taudal,agreed_extracted_match,True,True,nasinya sdh tapalanjur taudal ka dlm rantang,nasinya sdh tapaianjur -1w dim rantang,nasinya sdh terlanjur terpindahkan ke dlm rantang,nasinya sdh terianjur terpindahkan ke dim rantang,False,False,False,0.481,False,False,True,0.765,False,wrong_extraction
+tingkulup,agreed_extracted_match,True,False,pancinya gugur tingkulup,,pancinya jatuh terbalik,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+uar,agreed_no_pair,False,False,,,,,True,True,True,1.0,True,True,True,1.0,False,TN
+urak bulu,agreed_no_pair,False,False,,,,,True,True,True,1.0,True,True,True,1.0,False,TN
+wani,agreed_extracted_match,True,False,inya wani bakalahi,,ia berani berkelahi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma

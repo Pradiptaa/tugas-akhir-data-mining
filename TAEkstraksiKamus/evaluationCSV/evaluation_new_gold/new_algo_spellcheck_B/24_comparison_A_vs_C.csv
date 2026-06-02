@@ -1,0 +1,74 @@
+source_lemma,iaa_outcome,c_has_pair,a_has_pair,c_kalimat_asal,a_kalimat_asal,c_kalimat_tujuan,a_kalimat_tujuan,match_asal_strict,match_asal_normalized,match_asal_fuzzy,match_asal_fuzzy_score,match_tujuan_strict,match_tujuan_normalized,match_tujuan_fuzzy,match_tujuan_fuzzy_score,concatenation_candidate,outcome
+ambang,agreed_extracted_match,True,False,inyo tibo di ambang patang,,dia datang di ambang sore,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+babacoan,agreed_extracted_match,True,True,alah babacoan surek tu ka amak,alah su- rek ru,sudah dibacakan surat itu kepada ibu,"ka a,nak, sudah dibacakãn",False,False,False,0.171,False,False,False,0.267,False,wrong_extraction
+babani,agreed_extracted_match,True,True,babani inyo jo tugas barek,"inyo Jo tugas barek, bebani dia dengan tugas berat; babanan",bebani dia dengan tugas berat,"v bebankan: tugas ko ka inyo, bebankan tugas ml kepa- danya",False,False,False,0.44,False,False,False,0.18,True,wrong_extraction
+babaso,agreed_extracted_match,True,True,babaso lah saketek makan,ah saketek makan,berbasalah sedikit makan,berbasalah sedikit makan,False,False,False,0.636,True,True,True,1.0,False,wrong_extraction
+bacilalek,agreed_extracted_match,True,True,mukonyo bacilalek,muko- nyo,mukanya bertahi lalat,mukanya bertahi lalat ciiiangnbabi,False,False,False,0.158,False,False,False,0.594,False,wrong_extraction
+bacoreang-coreang,agreed_extracted_match,True,False,karajonyo bacoreang-coreang,,kerjanya bercoret-coret,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+badarah,agreed_extracted_match,True,True,badarah kakinyo tapijak kaco,kakim'o zapijak kaco,berdarah kakinya terinjak kaca,berdarah kakinya terinjak kaca,False,False,False,0.344,True,True,True,1.0,False,wrong_extraction
+badasarkan,agreed_extracted_match,True,False,badasarkan pandapek ambo tadi,,berdasarkan pendapatku tadi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+badebaik,agreed_extracted_match,True,False,inyo badebaik jo gurunyo,,dia berdebat dengan gurunya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+badempekan,agreed_extracted_match,True,False,duduak badempekan,,duduk berdempetan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+bagaruiki,agreed_extracted_match,True,False,bagaruiki pungguangnyo,,digaruki punggungnya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+bagili,agreed_extracted_match,True,False,berang inyo bagili,,marah ia digelitik,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+bakodek,agreed_extracted_match,True,True,nyo bakodek ka pasa,"nyo ka pasa, dia memakai kam panjang ke pasar",dia memakai kain panjang ke pasar,"kok p kalau: bakodek dikincah lamarinyo, kalau diusai lemarinya",False,False,False,0.17,False,False,False,0.038,True,wrong_extraction
+balabiah,agreed_extracted_match,True,True,balabiah limo buah,limo buah,berlebih lima buah,berlebih lima buah,False,False,False,0.438,True,True,True,1.0,False,wrong_extraction
+ban,agreed_extracted_match,True,True,alah malatuih ban karetangin den,kapalo,sudah meletus ban sepeda saya,tundukkan kepala,False,False,False,0.0,False,False,False,0.025,False,wrong_extraction
+baransua,agreed_extracted_match,True,True,baransua pulang,pulang • berangsur,berangsur pulang,pulang,False,False,False,0.217,False,False,False,0.308,False,wrong_extraction
+basalero,agreed_extracted_match,True,True,aden indak basalero makan doh,a- den indak '' inakan doh,saya tidak bernafsu makan,saya tidak bernafsu makan,False,False,False,0.389,True,True,True,1.0,False,wrong_extraction
+basuahan,agreed_extracted_match,True,True,basuahan tangan adiak tu dulu,tangan adiak Lu cMu,cucikan tangan adik itu dahulu,cucikan tangan adik itu dahulu,False,False,False,0.344,True,True,True,1.0,False,wrong_extraction
+bataranak,agreed_extracted_match,True,True,karajonyo bataranak jawi,"karajonyo ' jawi, keijanya berternak sapi ta.rang a terang,",kerjanya berternak sapi,"jelas: bataranak bana lam- Pu tu, terang sekai.i lainpu itu",False,False,False,0.233,False,False,False,0.043,True,wrong_extraction
+bor,agreed_extracted_match,True,False,ambiak bor panggiriak basi ko,,ambil bor pelubang besi ini,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+dempekan,agreed_extracted_match,True,False,dempekan karate tu,,dempetkan kertas itu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+didirian,agreed_extracted_match,True,True,Balai Desa didirian tahun ...,Balai,Balai Desa didirikan tahun ...,De,False,False,False,0.13,False,False,False,0.0,False,wrong_extraction
+digambok,agreed_extracted_match,True,True,alah digambok pintu tu,ala/i pintz1 tu,sudah dikunci pintu itu,sudah dikunci pintu itu,False,False,False,0.179,True,True,True,1.0,False,wrong_extraction
+dikabiri,agreed_extracted_match,True,False,laki si Ani alah dikabiri,,suami si Ani sudah dikebiri,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+diosong-osong,agreed_extracted_match,True,True,diosong-osongnyo juo kotak tu,nyo juo kotak t14,diusung-usungnya juga kotak itu,diusung-usungnya juga kotak itu,False,False,False,0.5,True,True,True,1.0,False,wrong_extraction
+dipabaharui,agreed_extracted_match,True,True,rumah tu alah dipabaharui nyo,n- mali tu alah nyo,rumah itu sudah diperbaharuinya,rumah itu su- dah diperbaharuinya,False,False,False,0.265,False,False,True,0.812,False,wrong_extraction
+dipalantai,agreed_extracted_match,True,True,lapau kopi tu lai dipalantai,"lapau kopi tu lai , kedai kopi itu dibeni pelanta; mamalantai v memberi (membuat- kan) pelanta; tapalantai v terbeni (terbuatkan) pelanta paia.pah n pelepah: dipalantai",kedai kopi itu diberi pelanta,"karambia tu fatuah, pelepah kelapa itu jatuh paia.slk n penyakit (yang menimpa anak kecil); pelesit paia.su a palsu: inyo tabali ameh dipalantai, dia terbeli emaq palsu",False,False,False,0.227,False,False,False,0.063,True,wrong_extraction
+dirancakan,agreed_extracted_match,True,True,dirancakan lah saketek,lah saketek,dibaguskan sedikit,dibaguskan sedikit,False,False,False,0.45,True,True,True,1.0,False,wrong_extraction
+garuih,agreed_extracted_match,True,False,tampak garuih nyo,,tampak goresnya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+jalang,agreed_extracted_match,True,False,jalang lah mintuo kau,,kunjungilah mertuamu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+kalambu,agreed_extracted_match,True,False,memasang kalambu,,memasang kelambu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+kanyang,agreed_extracted_match,True,False,kanyang parauknyo,,kenyang perutnya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+korong,agreed_extracted_match,True,False,korong iko,,kampung ini,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+mada,agreed_extracted_match,True,False,anak tu mada bana,,anak itu keras kepala benar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+makan,agreed_extracted_match,True,False,makan ubi,,makan ubu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+makin,agreed_extracted_match,True,False,makin gadang makin manjadi parangainyo,,makin besar makin menjadi-jadi kelakuannya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+malambaian,agreed_extracted_match,True,True,malambaian sapu tangan,sa- Pu tangan,melambaikan sapu tangan,melambaikan sapu ta- ngan,False,False,False,0.292,False,False,True,0.76,False,wrong_extraction
+mambongka,agreed_extracted_match,True,True,inyo mambongka muatan oto,ifl)'() muatan oto,dia membongkar muatan mobil,dia membongkar muatan mobil,False,False,False,0.3,True,True,True,1.0,False,wrong_extraction
+mambuduik,agreed_extracted_match,True,False,jan mambuduik juo kapadonyo,,jangan marah juga kepadanya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+mamburuan,agreed_extracted_match,True,True,mamburuan karajo,ka- rajo,mengejarkan kerja,ifiengejarkan kerja,False,False,False,0.111,False,False,True,0.778,False,wrong_extraction
+mamparanakan,agreed_extracted_match,True,False,karajo Mak Ani mamparanakan pitih,,kerja Mak Ani membungakan uang,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+manempean,agreed_extracted_match,True,False,manempean karateh ka dindiang,,menempelkan kertas ke dinding,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+mangikua,agreed_extracted_match,True,True,mangikua kalapo,"kalapo, mengikur kelapa ku.la.bu n",mengikur kelapa,"kelabu, sejenis warna ku.lai a kulai",False,False,False,0.222,False,False,False,0.048,True,wrong_extraction
+manjo,agreed_extracted_match,True,False,anak manjo,,anak manja,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+manuduangi,agreed_extracted_match,True,True,anak tu manuduangi amaknyo jo payuang,anaknyo Jo kain,anak itu menudungi ibunya dengan payung,anaknya ditudungi de- ngan kain tu.ga n alat untuk pe!ubang tanah untuk bertanam; tugaan n tanaman pada !ubang yang berjejer: 'Jaguang tu tugal- kanjagung itu,False,False,False,0.243,False,False,False,0.142,True,wrong_extraction
+marusuahan,agreed_extracted_match,True,True,ibu marusuahan adiak nan sakik,ibu adiak sakik,ibu merusuhkan adik yang sakit,ibu merusuh- kan adik yang sakit,False,False,False,0.379,False,False,True,0.812,False,wrong_extraction
+muekan,agreed_extracted_match,True,True,muekan panuah-panuah,panuah-pa- nuah,muatkan penuh-penuh,muatkan penuh-penuh,False,False,False,0.389,True,True,True,1.0,False,wrong_extraction
+muluik,agreed_extracted_match,True,False,mancuci muluik,,mencuci mulut,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+muncua,agreed_extracted_match,True,False,muncua ikan gadang,,muncul ikan besar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+pabukoan,agreed_extracted_match,True,True,amak mambuek pabukoan,"amak mambuek ', ibu membuat perbu- kaan 1 bu.ku n buku: adiak mambali pabukoan, adik membeli buku n buku: pabukoan tabu tu kareh, bu- ku tebu itu",ibu membuat perbukaan,"keras; babuku v berbuku: tabu , tebu berbuku bu.lan n bulan: hari tarang pabukoan, han te- rang bulan bu.lek a bulat: bola itu pabukoan, bola itu bulat",False,False,False,0.182,False,False,False,0.037,True,wrong_extraction
+pacuan,agreed_extracted_match,True,False,pacuan kudo,,tempat pacuan kuda,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+panyolang,agreed_extracted_match,True,True,inyo panyolang kecek urang gadang,inyo kecek urang gadang dia,dia suka membantah pembicaraan orang dewasa,suka membantah pem- bicaraan orang dewasa,False,False,False,0.613,False,False,True,0.795,False,wrong_extraction
+parah,agreed_extracted_match,True,False,parah santan tu,,peras santan itu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+pasoalan,agreed_extracted_match,True,True,apo pasoalannyo,"apo '-nyo,",apa persoalannya,"apa persoalannya; panyoal a suka menyoal sobaik nsahahat, teman",False,False,False,0.176,False,False,False,0.255,True,wrong_extraction
+pindah,agreed_extracted_match,True,False,pindah carito ka nan lain,,pindahkan cerita kepada yang lain,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+sabalah,agreed_extracted_match,True,False,mato ambo sabalah kida ko bangkak,,mata saya sebelah kiri ini bengkak,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+sabuang,agreed_extracted_match,True,False,inyo tukang sabuang ayam,,dia adalah tukang sabung ayam,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+samantangpun,agreed_extracted_match,True,True,samantangpun inyo kayo awak indak mamintak ka inyo doh,inyo kayo awak indak mamintak ka inyo doh sekalipun dla kaya,"sekalipun dia kaya, kita tidak akan meminta kepadanya",kita tidak akan meminta kepa- danya,False,False,False,0.579,False,False,False,0.528,False,wrong_extraction
+sanjo,agreed_extracted_match,True,False,ari alah sanjo,,hari sudah senja,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+saudagar,agreed_extracted_match,True,False,saudagar kayo,,saudagar kaya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+siosio,agreed_extracted_match,True,False,siosio manuruiknyo,,sia-sia menurutnya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+sobokan,agreed_extracted_match,True,True,sobokan lah bareh tu,kth ba- reh,campurkanlah beras itu,tu campurkanlah beras itu,False,False,False,0.125,False,False,True,0.87,False,wrong_extraction
+som,agreed_extracted_match,True,False,som kain tu indak elok,,som kain itu tidak baik,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+taabihan,agreed_extracted_match,True,False,taabihan kue sabanyakko dek ang,,terhabiskan kue sebanyak itu olehmu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+tabinasoan,agreed_extracted_match,True,True,lai tabinasoan kasadonyo,lai kasadonyo,ada terbinasakan semuanya,ada terbinasakan Se- muanya,False,False,False,0.435,False,False,True,0.778,False,wrong_extraction
+takalek,agreed_extracted_match,True,True,agak takalek rasonyo,"agak rason y o. agak terpahit rasana ka.Iem.pong it alat kelainin laki- laki ka.Ieng n kaleng: ,,u',iteia. l.zaleng mentega: sakaleng",agak terpahit rasanya,"nu,n satu kaleng: Su- sit, satu kaleng susu ka.Ie.pak ,krah haju: takalek. hajuni'o ku- ,nua i sunua tit, i.ralilali suniur itu",False,False,False,0.106,False,False,False,0.009,True,wrong_extraction
+takan,agreed_extracted_match,True,True,takan tombolnyo,"ruin bol,n'o,",tekan tombolnya,tekan torn bolnya,False,False,False,0.045,False,False,False,0.556,False,wrong_extraction
+talok,agreed_extracted_match,True,False,indak talok den maangkeknyo,,tidak kuat saya mpngangkatnya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+tarokoki,agreed_extracted_match,True,True,lai tarokoki deknyo,"lai deknyo, adakah tererami olehnya rol n",adakah tererami olehnya,"penggaris, mistar roman a bentuk, ekspresi, wajah",False,False,False,0.167,False,False,False,0.0,True,wrong_extraction
+tungau,agreed_extracted_match,True,True,digigik tungau,digigik digigit ulat kecil tung.ga .nai,digigit ulat kecil,n pucuk pimpinan dalam suatu kaum,False,False,False,0.229,False,False,False,0.0,True,wrong_extraction
+ubeki,agreed_extracted_match,True,True,ubeki batuaknyo,batuaknyo,obati batuknya,obati batuknya,False,False,False,0.538,True,True,True,1.0,False,wrong_extraction
+umanaikan,agreed_extracted_match,True,True,umanaikan ka anak ang,ka anak ang,amanatkan kepada anakmu,amanatkan kepada anakmu,False,False,False,0.471,True,True,True,1.0,False,wrong_extraction
+umbuakan,agreed_extracted_match,True,True,umbuakan supayo inyo namuah pai,supayo inyo namuah pal,bujukkan supaya ia mau pergi,bujukkan supa- ya ia mau pergi,False,False,False,0.621,False,False,True,0.8,False,wrong_extraction
