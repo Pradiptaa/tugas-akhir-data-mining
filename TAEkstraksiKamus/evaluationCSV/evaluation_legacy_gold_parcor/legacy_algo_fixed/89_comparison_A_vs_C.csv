@@ -1,0 +1,143 @@
+dict_id,kata_asal,c_has_pair,a_has_pair,c_kalimat_asal,a_kalimat_asal,c_kalimat_tujuan,a_kalimat_tujuan,match_asal_strict,match_asal_normalized,match_asal_fuzzy,match_asal_fuzzy_score,match_tujuan_strict,match_tujuan_normalized,match_tujuan_fuzzy,match_tujuan_fuzzy_score,concatenation_candidate,outcome
+89,asuprok,True,True,kendat asuprok se ketong,kendat asuprok se ketong,adik sedang jongkok,adik sedang jongkok,True,True,True,1.0,True,True,True,1.0,False,TP
+89,asyu,True,True,ai asyu ramene araong,ai asyu ramene araong,bapak pergi ke ladang,bapak pergi ke ladang,True,True,True,1.0,True,True,True,1.0,False,TP
+89,asyu,True,True,kat tap kayetne asyu ketru,ai asyu ramene araong,saya berdiri di jalan,bapak pergi ke ladang,False,False,False,0.162,False,False,False,0.0,False,wrong_extraction
+89,asyu-asyu,True,True,asyu-asyu yapma mamnale,asyu-asyu yapma mamnale,banyak laba-laba di rumah,banyak laba-laba di rumah,True,True,True,1.0,True,True,True,1.0,False,TP
+89,asyubara,True,True,kame asyubara nim nggetrum,kame asyubara nim nggetrum,kami istirahat di dangau,kami istirahat di dangau,True,True,True,1.0,True,True,True,1.0,False,TP
+89,asyuk pegu,True,False,agha asyuk pegu tawop,,kelakuan kakak baik,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,asyukemvali syoli,True,False,asyukemvali syoli simia nak kwali ong,,petani itu menanam ubi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,asyuse,True,True,nemot di asyuse kong ne tong,nemot di asyuse kong ne tong,mereka mendirikan tiang,mereka mendirikan tiang,True,True,True,1.0,True,True,True,1.0,False,TP
+89,ati,True,True,nemot kmuk ati mama srik,nemot kmuk ati mama srik,mereka mengambil sagu di hutan,mereka mengambil sagu di hutan,True,True,True,1.0,True,True,True,1.0,False,TP
+89,ati,True,True,nja baik ati tung,nemot kmuk ati mama srik,ibu menjumput garam,mereka mengambil sagu di hutan,False,False,False,0.121,False,False,False,0.047,False,wrong_extraction
+89,ati,True,True,nja kemba ati matrung,nemot kmuk ati mama srik,ibu membawa tas,mereka mengambil sagu di hutan,False,False,False,0.139,False,False,False,0.025,False,wrong_extraction
+89,ati,True,True,nja amblei te kendat ati matrum,nemot kmuk ati mama srik,ibu memberi keladi pada adik,mereka mengambil sagu di hutan,False,False,False,0.109,False,False,False,0.039,False,wrong_extraction
+89,ati,True,True,kendat abla karung kmuk meja bose ati ong,nemot kmuk ati mama srik,adik berusaha mencapai kue di lemari,mereka mengambil sagu di hutan,False,False,False,0.13,False,False,False,0.088,False,wrong_extraction
+89,ati,True,True,ai asu simia mam song ati ong,nemot kmuk ati mama srik,bapak mendapat hasil kebun yang banyak,mereka mengambil sagu di hutan,False,False,False,0.116,False,False,False,0.05,False,wrong_extraction
+89,aton,True,True,ai aton kmesing kmesing,ai aton kmesing-kmesing,urat bapak besar-besar,urat bapak besar-besar,False,False,False,0.722,True,True,True,1.0,False,wrong_extraction
+89,aton kutu-kutu,True,False,ai masi aton kutu-kutu,,bapak mengalami kejang urat,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,atuk,True,True,kame naming dep atuk kak itru,kame naming dep atuk kak itru,kami memetik pucuk daun ubi,kami memetik pucuk daun ubi,True,True,True,1.0,True,True,True,1.0,False,TP
+89,avrei,True,True,nja wasiet brone avrei aptrung,nja wasiet brone avrei aptrung,ibu berbaring di tikar,ibu berbaring di tikar; sin. srik,True,True,True,1.0,False,False,False,0.645,False,wrong_extraction
+89,avu,True,True,ai samboi avu tong,ai samboi avu tong,bapak mengisap rokok,bapak mengisap rokok,True,True,True,1.0,True,True,True,1.0,False,TP
+89,avun,True,True,nggo kanggut avun krang,nggo kanggut avun krang,wanita itu sangat anggun,wanita itu sangat anggun,True,True,True,1.0,True,True,True,1.0,False,TP
+89,avung,True,True,agha suling avung,agha suling avung,kakak meniup suling,kakak meniup suling,True,True,True,1.0,True,True,True,1.0,False,TP
+89,awai,True,True,kandei awai nggok se mese konggot,kandei awai nggok se mese konggot,paman saya masih bujang,paman saya masih bujang,True,True,True,1.0,True,True,True,1.0,False,TP
+89,awong,True,True,awai kimblo awong abong,awai kimblo awong abong,paman naik pohon kelapa,paman naik pohon kelapa,True,True,True,1.0,True,True,True,1.0,False,TP
+89,asuprok,True,True,kendat asuprok se ketong,kendat asuprok se ketong,adik sedang jongkok,adik sedang jongkok,True,True,True,1.0,True,True,True,1.0,False,TP
+89,asyu,True,True,ai asyu ramene araong,ai asyu ramene araong,bapak pergi ke ladang,bapak pergi ke ladang,True,True,True,1.0,True,True,True,1.0,False,TP
+89,asyubara,True,True,kame asyubara nim nggetrum kami istirahat di dangau,kame asyubara nim nggetrum,rumah-rumah di kebun,kami istirahat di dangau,False,False,False,0.5,False,False,False,0.057,False,wrong_extraction
+89,asyukemvali syoli,True,False,asukemvali syoli simia nak kwali ong,,petani itu menanam ubi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,aba,True,True,nja aba dun trung,nja aba dun trung,ibu membakar bete,ibu membakar bete,True,True,True,1.0,True,True,True,1.0,False,TP
+89,abletsing,True,True,nemot amblemba king o abletsing,nemot amblemba king on abletsing,dia memakai baju terbalik,dia memakai baju terbalik,False,False,True,0.833,True,True,True,1.0,False,wrong_extraction
+89,abusi,True,True,kandei abusi mse ket ong,kandei abusi mse ket ong,kakek saya masih hidup,kakek saya masih hidup,True,True,True,1.0,True,True,True,1.0,False,TP
+89,agha,True,True,nggo syoli kandei agha,nggo syoli kandei agha,orang itu kakak saya,orang itu itu kakak saya,True,True,True,1.0,False,False,True,0.944,False,wrong_extraction
+89,agha kambung,True,False,kandei agha kambung syoli mbei ati awum,,kakak perempuan saya sudah menikah,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,agrog agrog,True,False,nemot gereja yap kanding agrog-agrog,,mereka memutari gereja,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,agrog ngantung,True,False,kat yegembu agrok amtung,,kepalaku terasa pusing,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,bagu,True,True,bagu nggo tawop tre,bagu nggo tawop tre,tarian itu sangat bagus,tarian itu sangat bagus,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bagu,True,True,kame kusyok polya bagu atong,bagu nggo tawop tre,kami menari di lapangan,tarian itu sangat bagus,False,False,False,0.075,False,False,False,0.077,False,wrong_extraction
+89,balandi,True,True,nemot sbi balandi abot nggeptong,nemot sbi balandi abot nggeptong,mereka bermain di luar,mereka bermain di luar,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bam,True,True,nja bam bo trung,nja bam bo trung,ibu memetik sirih,ibu memetik sirih,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bamsning,True,True,agha anumano bamsning mamnale tre,agha anumano bamsning mamnale tre,wajah kakak banyak jerawat,wajah kakak banyak jerawat,True,True,True,1.0,True,True,True,1.0,False,TP
+89,banu,True,True,nje nancing banu bleng katu ei,nje nancing banu bleng katu ei,malam ini bulan sangat terang,malam ini bulan sangat terang,True,True,True,1.0,True,True,True,1.0,False,TP
+89,banu andi,True,False,kmani nancing banu andi aong aptung,,malam ini bulan sabit,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,banu sandu,True,False,dok kanggut banu sandu,,gadis itu sedang datang bulan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,banusru masyik,True,False,nje namsing banusru masyik pot notong,,malam ini bulan purnama,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,bata,True,True,nje tab bata nale,nje tab bata nale,jalan ini sangat lebar,jalan ini sangat lebar,True,True,True,1.0,True,True,True,1.0,False,TP
+89,batap,True,True,nje smia bei batap atung,nje smia bei batap atung,makanan ini sudah lunak,makanan ini sudah lunak,True,True,True,1.0,True,True,True,1.0,False,TP
+89,batde,True,True,nggo uu batde pla araptrung brore,nggo uu batde pla araptrung brore,burung itu terbang bebas di udara,burung itu terbang bebas di udara,True,True,True,1.0,True,True,True,1.0,False,TP
+89,batne,True,True,nggo wut bei batne,nggo wut bei batne,perahu itu sudah jauh,perahu itu sudah jauh,True,True,True,1.0,True,True,True,1.0,False,TP
+89,batnekro,True,True,ai masi kusyop knam brose batnekro ong,ai masi kusyop knam brose batnekro ong,bapak menghapus jejak kaki di tanah,bapak menghapus jejak kaki di tanah,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bayip,True,True,nggo bayip bata,nggo bayip bata,laut itu luas,laut itu luas,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bei,True,True,nemo bei pung awong,nemo bei pung awong,dia sudah datang,dia sudah datang; sin. yam,True,True,True,1.0,False,False,False,0.583,False,wrong_extraction
+89,bena,True,True,mbiok nje bena katuei,mbiok nje bena katuei,babi ini banyak lemak,babi ini banyak lemak,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bengguk-bengguk,True,True,nggo syoli masi bengguk-bengguk se,nggo syoli masi bengguk-bengguk se,kaki orang itu pincang,kaki orang itu pincang,True,True,True,1.0,True,True,True,1.0,False,TP
+89,betelep,True,True,betelep kendat boi walang atung,betelep kendat boi walang atung,rambut adik sudah panjang,rambut adik sudah panjang,True,True,True,1.0,True,True,True,1.0,False,TP
+89,blem,True,True,ai sandu blem aptung dalip tenggamang,ai sandu blem aptung dalip tenggamang,badan bapak menggigil kedinginan,badan bapak menggigil kedinginan,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bleng,True,True,nje nancing banu bleng,kei bleng nggose kmesing nale,malam ini bulan terang,api itu menyala sangat besar; sin. kliep,False,False,False,0.184,False,False,False,0.036,False,wrong_extraction
+89,bleng,True,True,kei bleng nggose kmesing nale,kei bleng nggose kmesing nale,api itu menyala sangat besar,api itu menyala sangat besar; sin. kliep,True,True,True,1.0,False,False,False,0.684,False,wrong_extraction
+89,bli,True,True,abu nemong masi bli atung,abu nemong masi bli atung,kaki nenek bengkak,kaki nenek bengkak,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bli sunggo,True,False,agha le katiang sunggo atum,,pipi kakak lebam,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,bloi kumbali,True,False,kame knip bloi kumbali item tru,,kami kerja bakti membersihkan kampung,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,blum,True,True,abu blum blone sum,abu blum blone sum,nenek duduk di bangku,nenek duduk di bangku,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bna,True,True,nggo mbiok bna katuei,nggo mbiok bna katuei,babi itu gemuk,babi itu gemuk,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bo,True,True,nja wabe bo trung,nja wabe bo trung,ibu memetik mangga,ibu memetik mangga,True,True,True,1.0,True,True,True,1.0,False,TP
+89,boi,True,True,kat Maribu boi pot,kat Maribu boi pot,saya pernah ke Maribu,saya pernah ke Maribu,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bom,True,True,daten amblemba bom king ong,daten amblemba bom king ong,adik memakai baju merah,adik memakai baju merah,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bong,True,True,nemot srong bong mrak nemaong mamase,nemot srong bong mrak nemaong mamase,mereka menangkap soa-soa di hutan,mereka menangkap soa-soa di hutan,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bong,True,True,daten bei bong awong,nemot srong bong mrak nemaong mamase,adik sudah bangun,mereka menangkap soa-soa di hutan,False,False,False,0.098,False,False,False,0.023,False,wrong_extraction
+89,bosot,True,True,nje buma bosot katuei,nje buma bosot katuei,di sungai ini banyak belut,di sungai ini banyak belut,True,True,True,1.0,True,True,True,1.0,False,TP
+89,botugop,True,True,ai botugop byap ong manae se,ai botugop byap ong manae se,bapak membuat tempat ikan,bapak membuat tempat ikan,True,True,True,1.0,True,True,True,1.0,False,TP
+89,brak,True,True,kame nja antramene brak kedale,kame nja antramene brak kedale,kami mengantar ibu ke kebun,kami mengantar ibu ke kebun,True,True,True,1.0,True,True,True,1.0,False,TP
+89,brak,True,True,ando tagan tme sri brak,kame nja antramene brak kedale,anjingnya lepas dari ikatan,kami mengantar ibu ke kebun,False,False,False,0.091,False,False,False,0.0,False,wrong_extraction
+89,brap,True,True,ai nemot masi brap ong,ai nemot masi brap ong,bapak menghentikan langkahnya,bapak menghentikan langkahnya; sin. yamse,True,True,True,1.0,False,False,False,0.692,False,wrong_extraction
+89,brem,True,True,agha brem aptong srang ei,agha brem aptong srang ei,kakak mengerang kesakitan,kakak mengerang kesakitan,True,True,True,1.0,True,True,True,1.0,False,TP
+89,brok,True,True,nja kmuk kim ei brok,nja kmuk kim ei brok,ibu mencampur sagu dan kelapa,ibu mencampur sagu dan kelapa,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bte tawut,True,False,kendat bte tawut pungrong tung,,anyaman rambut adik lepas,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,btek,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,bteklavut,True,True,ai bteklavut mam ei,ai bteklavut mam ei,uban bapak sudah banyak,uban bapak sudah banyak,True,True,True,1.0,True,True,True,1.0,False,TP
+89,btekudyasu,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,btep,True,True,aju nasrek btep suk,nja nasrek btep suk,ibu membuang sampah,ibu membuang sampah,False,False,False,0.7,True,True,True,1.0,False,wrong_extraction
+89,btip,True,True,kat demo btip,kat demo btip,saya melempar batu,saya melempar batu; sin. sug; teglek,True,True,True,1.0,False,False,False,0.471,False,wrong_extraction
+89,bu,True,True,syoli nak bu temene nggetong,syoli nak bu temene nggetong,manusia hidup membutuhkan air,manusia,True,True,True,1.0,False,False,False,0.185,False,wrong_extraction
+89,bu,True,True,kame bu blo sok yatrung,syoli nak bu temene nggetong,kami berenang di sungai,manusia,False,False,False,0.044,False,False,False,0.0,False,wrong_extraction
+89,bubut,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,bubuto,True,True,bubuto arung keba,bubuto arung keba,arus anak sungai tidak deras,arus anak sungai tidak deras,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bugi,True,True,nggo knip bugi kenak atung,nggo knip bugi kenak atung,kampung itu diterjang bah,kampung itu diterjang bah,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bugoi,True,True,kame bugoi dam yetru,kame bugoi dam yetru,kami makan ubi jalar,kami makan ubi jalar,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bugotu,True,True,ai dasi mnak gnumunong bugotu mase,ai dasi mnak gnomunong bugotu mase,bapak menangkap ikan di lubuk,bapak menangkap ikan di lubuk,False,False,True,0.829,True,True,True,1.0,False,wrong_extraction
+89,bumane dut,True,False,ai bumane dut,,bapak menyelam,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,bunbu,True,True,bunbu nggo tme-tme,bunbu nggo tme-tme,danau itu airnya jernih,danau itu airnya jernih,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bunengga,True,True,kendat nmong amblemba bunengga-bunengga se,kendat nmong amblemba bunengga-bunengga se,warna baju adik lain,warna baju adik lain,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bung,True,True,ai di bung,ai di bung,bapak menebang pohon,bapak menebang pohon,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bungket,True,True,nja ai bung matrung pung arang,nja ai bung matrung pung arang,ibu menunggu bapak pulang,ibu menunggu bapak pulang,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bunu,True,True,kendat bunu tengamong,kendat bunu tengamong,adik sudah haus,adik sudah haus,True,True,True,1.0,True,True,True,1.0,False,TP
+89,bunyarem sok,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,buparu,True,True,buparu bima sok naktong,buparu buma sok naktong,banyak belibis berenang di sungai,banyak belibis berenang di sungai,False,False,True,0.75,True,True,True,1.0,False,wrong_extraction
+89,bupuvung,True,True,nggo ut dembu atung bupuvung,nggo ut dembu atung bupuvung ne,perahu itu tenggelam di muara sungai,perahu itu tenggelam di muara sungai,False,False,True,0.926,True,True,True,1.0,False,wrong_extraction
+89,buret,True,True,tap buret,tap buret,jalan lurus,jalan lurus,True,True,True,1.0,True,True,True,1.0,False,TP
+89,busitsit,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,busna,True,True,nja re masi busna ei,nja re masi busna ei,kaki ibu ada kutu air,kaki ibu ada kutu air,True,True,True,1.0,True,True,True,1.0,False,TP
+89,busok,True,True,kat buma sok atru,kat buma sok atru,saya berenang di sungai,saya,True,True,True,1.0,False,False,False,0.095,False,wrong_extraction
+89,busyo,True,True,kame busyo mamnale,kame busyo mamnale,kami mempunyai banyak dusun,kami mempunyai banyak dusun,True,True,True,1.0,True,True,True,1.0,False,TP
+89,busyop,True,True,agha arup busyop trung,agha arup busyop trung,kakak mencuci keranjang,kakak mencuci keranjang,True,True,True,1.0,True,True,True,1.0,False,TP
+89,but,True,True,nemo syoli but aong,nemo syoli but aong,dia membunuh orang,dia membunuh orang,True,True,True,1.0,True,True,True,1.0,False,TP
+89,butovut,True,False,nggo butovut nagreng tetang,,jurang itu sangat terjal,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,butraktung,True,True,daten butraktung,daten butraktung,adik hanyut di sungai,adik hanyut di sungai,True,True,True,1.0,True,True,True,1.0,False,TP
+89,buvut,True,True,buvut yaon mundung bro sega tawop krang,buvut yaon mundung bro sega tawop krang,mata air di gunung itu sangat jernih,mata air di gunung itu sangat jernih,True,True,True,1.0,True,True,True,1.0,False,TP
+89,buwotu,True,True,agha amblemba kusa bune buwotu,agha amblemba kusa bune buwotu,baju kakak basah terkena hujan,baju kakak basah terkena hujan,True,True,True,1.0,True,True,True,1.0,False,TP
+89,buyawon,True,True,nemot sron suyawone pung nabauw,nemot sron buyawone pung nabauw,mereka sampai di hulu sungai,mereka sampai di hulu sungai,False,False,True,0.812,True,True,True,1.0,False,wrong_extraction
+89,bwaraptrung,True,True,nggo bu arung katuei araptung,nggo bu arung katuei araptrung,air itu mengalir deras,air itu mengalir deras,False,False,True,0.852,True,True,True,1.0,False,wrong_extraction
+89,byoptung,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,ainemong daten,True,False,ainemong daten warmi pung arang,,adik laki-laki ayah datang besok,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,celana,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,celana tumvu,True,False,daten celana tumvu kingong,,adik memakai celana pendek,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,celana warang,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,dagen,True,True,nja mbiok dagen naise taratung,nja mbiok dagen naise taratung,ibu menjual daging kering,ibu menjual daging kering,True,True,True,1.0,True,True,True,1.0,False,TP
+89,dak,True,True,nje tanggan mambuse dak nong ikatan,nje tanggan mambuse dak nong,tali ini erat sekali,ikatan tali ini erat sekali,False,False,True,0.812,False,False,False,0.708,False,wrong_extraction
+89,dak,True,True,daten bte dak,nje tanggan mambuse dak nong,adik mengikat rambut,ikatan tali ini erat sekali,False,False,False,0.088,False,False,False,0.077,True,wrong_extraction
+89,dak,True,True,nemot kambung boi dak,nje tanggan mambuse dak nong,mereka sudah menikah,ikatan tali ini erat sekali,False,False,False,0.098,False,False,False,0.05,False,wrong_extraction
+89,dalip,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,dam,True,True,kame semna dam itru,kame semna dam itru,kami makan papeda,kami makan papeda,True,True,True,1.0,True,True,True,1.0,False,TP
+89,dambu,True,True,nggo syoli dambu temese kametne,nggo syoli dambu temese kametne,orang itu ramah pada kami,orang itu ramah pada kami,True,True,True,1.0,True,True,True,1.0,False,TP
+89,dambu ivut,True,False,inja dambu ivut iriang ei,,ibu sakit paru-paru,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,dambugop,True,True,kat dambugop nja ati mtu,kat dambugop nja ati mtu,saya ikhlas menolong ibu,saya ikhlas menolong ibu,True,True,True,1.0,True,True,True,1.0,False,TP
+89,dambukunekut,True,True,daten dambu walyap blone kunekut,daten dambu walyap blone kunekut,adik telungkup dilantai,adik telungkup dilantai,True,True,True,1.0,True,True,True,1.0,False,TP
+89,damnevit,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,damvu,True,True,kandei damvu nemole ise,kandei damvu nemole ise,saya cinta dia,saya cinta dia,True,True,True,1.0,True,True,True,1.0,False,TP
+89,damvu,True,True,nemo kendat damvusri but,kandei damvu nemole ise,dia memukul dada adik,saya cinta dia,False,False,False,0.162,False,False,False,0.033,False,wrong_extraction
+89,damvu mase,True,False,nengglei-nengglei yap damvu mase,,semua di dalam rumah,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,damvu srang-srang,True,False,agha syoli damvu srang-srang se,,kakak orang yang tidak sabar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,damvu tawop,True,False,ai nggo damvu tawop,,bapak sangat bijaksana,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,damvukey,True,True,agha damvukey tengga emong,agha damvukey tengga emong,kakak menderita penyakit asma,kakak menderita penyakit asma,True,True,True,1.0,True,True,True,1.0,False,TP
+89,damvunevit,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,damvuput,True,True,nemo simia damvuput mase,nemo simia damvuput mase,ia mengemut makanan di mulutnya,ia mengemut makanan di mulutnya,True,True,True,1.0,True,True,True,1.0,False,TP
+89,damvut,True,True,ngodo damvut naktolang,ngodo damvut naktolang,mulut dia kecil,mulut dia kecil,True,True,True,1.0,True,True,True,1.0,False,TP
+89,danggu,True,True,yap nggo danggu nje sri,yap nggo danggu nje sri,rumahnya dekat dari sini,rumahnya dekat dari sini,True,True,True,1.0,True,True,True,1.0,False,TP
+89,dasi,True,True,ai dasi mrak,ai dasi mrak,bapak menangkap ikan,bapak menangkap ikan,True,True,True,1.0,True,True,True,1.0,False,TP
+89,dasikwarap,True,True,diblo dasikwarap ei,diblo dasikwarap ei,ada kuskus di pohon,ada kuskus di pohon,True,True,True,1.0,True,True,True,1.0,False,TP
+89,daten,True,True,kandei daten kabraitre,kandei daten kabraitre,saya mempunyai satu adik kandung;,saya mempunyai satu adik kandung,True,True,True,1.0,False,True,True,1.0,False,TP
+89,davu trang,True,False,nja davu trang tru nemong kendat,,ibu sangat membanggakan adik,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,dawok,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,dawud,True,True,abu dawud damtrung,abu dawud damtrung,nenek mengunyah pinang,nenek mengunyah pinang,True,True,True,1.0,True,True,True,1.0,False,TP
+89,dawud kin,True,False,ai nembule dawut kin kepa tibeang,,bapak melarang membuang ludah pinang sembarang,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+89,debai,True,True,daten debai kingong,daten debai kingong,adik memakai celana dalam,adik memakai celana dalam,True,True,True,1.0,True,True,True,1.0,False,TP

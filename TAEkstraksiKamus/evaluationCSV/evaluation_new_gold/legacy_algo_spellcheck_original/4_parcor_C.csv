@@ -1,0 +1,82 @@
+dict_id,source_lemma,main_lemma,kalimat_asal,kalimat_tujuan,pos
+4,agak,agak,kelihatannya ia agak pintar,kelihatannyo diok agak padek,n
+4,ahli,ahli,dia seorang yg ahli menjalankan mesin itu,dio soghang yg padek nyalankan mesin itu,n
+4,ampun,ampun,setelah ia menyadari akan kesalahannya ia mina ampun,setelah dio nyadaghi akan kesalahannyo dio minta ampun,n
+4,atau,atau,"Anda boleh memilih yg mana saja majalah, buletin atau surat kabar","kau bole milih yg mano be majalah, bulatin atau sughat kabagh",p
+4,badan,badan,pulang main badan anak itu selalu kotor,balik main badan budak itu selalu kotogh,n
+4,bahwa,bahwa,ia mengira bahwa hari ini libur,dio ngigho bahwo haghi ko libugh,p
+4,baik,baik,karangan bunga itu baik sekali,kaghangan bungo itu elok nian,adj
+4,banditisme,bandit,operasi thd banditisme di ibu kota ditingkatkan,opeghasi teghhadap banditisme di ibu kota ditingkatkan,n
+4,bapak,bapak,ia baru saja datang habis mengunjungi bapaknya di kampung,dio baghu datang habis ngunjungi bapaknyo di kampung,n
+4,benang,benang,menegakkan benang basah,negakkan benang basa,n
+4,berbagai-bagai,bagai,berbagai-bagai bunga di taman,bamacam-macam kembang di taman,
+4,berbintik-bintik,bintik,kulitnya berbintik-bintik,kulitnyo babintik-bintik,a
+4,bergaung,gaung,dl gedung yg besar itu bunyi akan bergaung juga,dl gedung yg besak itu bunyi akan bagema jugo,vi
+4,berkilat,kilat,lantai itu berkilat setelah dibersihkan,lante tu bakilat satelah dibeghsihkan,vi
+4,bibit,bibit,jagung yg tua itu bagus untuk bibit,jagung yg tuo itu elok untuk benne,n
+4,bilas,bilas,bilaslah pakaian yg sudah disabun,bilasla pakean yg la disabun,v
+4,bimbang,bimbang,ia masih bimbang menerima usul itu,dio masi bimbang neghimo usul itu,a
+4,bingkai,bingkai,bingkai papan tulis itu sudah rusak,bingke papan tulis itu la ghusak,n
+4,bros,bros,bros yg dipakainya bagus sekali,bghos yg dipakenyo elok nian,n
+4,bungalo,bungalo,waktu libur semester kami menginap di bungalo,waktu libugh semestegh kami nginap di bungalo,n
+4,dekadensi,dekadensi,seni sastra Indonesia mengalami dekadensi,seni sastgha Indonesia ngalami dekadensi,n
+4,demam,demam,semalam saya demam,smalam sayo demam,a
+4,demonstrasi,demonstrasi,demonstrasi di pinggir jalan,demonstghasi di tepi jalan,n
+4,dilema,dilema,dia menghadapi dilema yg sangat sulit,dio ngadapi dilema yg paya nian,n
+4,dominan,dominan,x lebih dominan dr pd y,x lebih dominan daghi pado y,a
+4,duka,duka,kawan dl suka dan duka,kawan dl suko dan duko,a
+4,dwitunggal,dwitunggal,dwitunggal Sukarno-Hatta,duo tunggal Sukarno-Hatta,n
+4,edar,edar,itu merupakan garis edar bumi,itu maghupokan gaghis edagh bumi,
+4,eja,eja,"sebelum membacanya, huruf-huruf itu kau eja dulu",sabelum mbaconyo hughuf-hughuf itu kau ejo dulu,v
+4,entah,entah,"entah apa yg dibawanya tadi, saya tidak melihatnya","tah apo yg dibawanyo tadi, sayo dak meliatnyo",adv
+4,eram,eram,eram kan saja telur bebek ini dgn listrik,eghamkan be telogh itik ko dgn listghik,v
+4,fundamental,fundamental,iman merupakan suatu hal yg sangat fundamental di dl kehidupan manusia,imam ngupokan hal yg fundamental nian dl kidupan manusio,a
+4,gergaji,gergaji,spt gergaji dua mata,macam ngogaji dua mato,n
+4,goresan,gores,hasil goresannya cukup bagus,hasil goghesannyo cukup elok,n
+4,guna,guna,guna kepentingan umum,guno kepentingan umum,n
+4,gunjing,gunjing,jangan suka gunjing orang,jangan suko pitnah oghang,n
+4,hafal,hafal,anak berumur tiga tahun itu hafal nama-nama kepala negara,budak baghumugh (bausio) tigo taun tu dapat ngingat (nyebut) namo-namo kepalo negagho,v
+4,halal,halal,perbuatan halal akan direstui Tuhan,kaghejo yg halal akan disukoi Tuhan,n
+4,hari,hari,kita selalu bekerja setiap hari,kito slalu begawe saban ari,n
+4,hinggap,hinggap,kumbang hinggap di bunga,kumbang inggap di kembang,v
+4,ijuk,ijuk,ijuk sapu itu lembut,ijuk sapu tu lembut,n
+4,ilegal,ilegal,orang asing itu masuk ke Indonesia secara ilegal,oghang asing tu masuk ka Indonesia sacagho dak ghesmi,a
+4,ilustrator,ilustrator,dia pernah menjadi ilustrator buku-buku terbitan Balai Pustaka,dio peghna jadi ilustghatogh buku-buku teghbitan Balai Pustaka,n
+4,incaran,incar,harimau itu sedang mencari incarannya,ghimau tu lagi nyaghi incaghannyo,n
+4,indikasi,indikasi,dgn siap siaganya pasukan ABRI di perempatan jalan merupakan indikasi adanya kerawanan,dgn basiap-siapnyo pasukan ABRI di paghempat-an jalan ghupokan patunjuk ado kaghawanan,n
+4,infeksi,infeksi,luka yg tidak dibersihkan dapat menyebabkan infeksi,luko yg dak dibeghsikan dapat nyebabkan infeksi,n
+4,jalur,jalur,pohon pisang itu ditanam berjalur,batang pisang tu ditanam bajaLugh,n
+4,jatuh,jatuh,adik jatuh dr pohon,adik jatu daghi batang,v
+4,jenis,jenis,lembu dan kerbau jenis binatang menyusui,sapi dan keghbo jenis binatang nyusui,n
+4,jodoh,jodoh,ia telah bertemu dgn jodohnya,dio la batamu dgn jodohnya,n
+4,kanker,kanker,penyakit kanker otak,pnyakit kankegh otak,n
+4,kapak,kapak,ayah membelah kayu dgn kapak,ayah mbela kayu pake kapak,n
+4,kapten,kapten,kapten kesebelasan Indonesia mengajukan protes kpd wasit,kapten kasablasan Indonesia ngajukan pghotes ka wasit,n
+4,kaus,kaus,baju kaus buatan Singapura itu sangat bagus sekali,baju kaos buatan Singapugh tu elok nian,n
+4,kearsipan,arsip,dokumentasi yg lengkap tergantung pd kearsipan yg baik,dokumentasi yg lengkap teghgantung pado keaghsipan yg baik,n
+4,kedudukan,duduk,gerhana matahari terjadi pd waktu kedudukan bulan tepat di antara bumi dan matahari,gaghhano matohaghi tajadi pado waktu kaduduk-an bulan tepat di antagho bumi dan matohaghi,n
+4,keemasan,emas,"tangkai bunga itu hijau, sedangkan bunganya kuning keemasan","tangke kembang itu ijo, sedangkan kembangnyo kuning kaemasan",n
+4,kekompakan,kompak,kekompakan anak itu patut dicontoh,kekompaan budak itu patut diconto,n
+4,kemih,kemih,di saluran kemihnya terdapat batu ginjal,di salughan aek kencingnyo tadapat batu ginjal,n
+4,ketat,ketat,pengawasan di waktu EBTA sangat ketat sekali,pangawasan di waktu EBTA ketat nian,a
+4,koalisi,koalisi,kabinet koalisi itu didukung partai yg besar,kabinet koalisi tu didukung paghte yg besak,n
+4,kompak,kompak,kedua anak itu selalu kompak,keduo budak tu slalu sakato,a
+4,kongres,kongres,kongres negara-negara berkembang sudah dimulai,kongghes negagha-negagha beghkembang la mula-i',n
+4,konsisten,konsisten,perbuatan hendak konsisten dgn perkataan,peghbuat-an nyala konsisten dgn ucap-an,n
+4,korps,korps,korps polisi militer,kumpulan polisi militegh,n
+4,kumal,kumal,pakaian saya sudah kumal krn tidak digosok,pakean sayo la kaghomot-an kaghno ndak digosok,a
+4,kupasan,kupas,kupasannya sangat rapi,koce'annyo sangat elok,n
+4,kurikuler,kurikuler,siswa disuruh membuat tugas kurikuler,mughid disughu mbuat tugas kughikulegh,a
+4,kurva,kurva,sudut kurva itu membentuk parabola,sudut kughva tu mbentuk paghabola,n
+4,membadik,badik,krn sakit hati dia membadik kawannya,kaghno sakit ati dio nikam kawannyo,vt
+4,membubarkan,bubar,komandan upacara membubarkan barisan,komandan upacagha mubaghkan baghisan,vt
+4,memperdagangkan,dagang,orang itu memperdagangkan barang-barang antik,oghang tu nagangkan baghang-baghang antik,vt
+4,mencemarkan,cemar,asap itu mencemarkan lingkungan,asap tu nyemaghkan lingkungan,vt
+4,mencetak,cetak,mencetak kamus,mencetak kamus,vt
+4,menggiling,giling,setiap hari ibu menggiling cabe untuk masak,saban haghi Mak ngiling cabe untuk masak,vt
+4,mengizinkan,izin,orang yuanya telah mengizinkannya untuk segera menikah,oghang tuonyo la ngizinkannyo untuk sagegho kawin',vt
+4,mengklaim,klaim,ada negara lain yg mengklaim kepulauan kita,ado nagagha lain yg mengklaim kapulauan kito,vt
+4,pengacara,acara,sebelum sidang tersangka boleh mencari pengacara,sebelum sidang teghsangka boleh mencaghi pengacagha,n
+4,penggodokan,godok,setelah penggodokan dl penataran itu selesal diharapkan akan lahir wartawan-wartawan yg bermutu,setelah penggodok-an dl penataghan itu selese dihaghapkan akan lahigh waghtawan-waghtawan yg beghmutu,n
+4,penggusuran,gusur,penggusuran penduduk telah dimulai,penggusughan penduduk la dimula-i,n
+4,perguruan,guru,perguruan tinggi negeri,peghgughuan tinggi negeghi,n

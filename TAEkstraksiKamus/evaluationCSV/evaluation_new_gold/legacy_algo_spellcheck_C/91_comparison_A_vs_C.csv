@@ -1,0 +1,92 @@
+source_lemma,iaa_outcome,c_has_pair,a_has_pair,c_kalimat_asal,a_kalimat_asal,c_kalimat_tujuan,a_kalimat_tujuan,match_asal_strict,match_asal_normalized,match_asal_fuzzy,match_asal_fuzzy_score,match_tujuan_strict,match_tujuan_normalized,match_tujuan_fuzzy,match_tujuan_fuzzy_score,concatenation_candidate,outcome
+anggogoh,agreed_extracted_match,True,True,anggogoh habang ai,anggogoh habang ai,burung anggogoh itu terbang,burung anggogoh itu terbang,True,True,True,1.0,True,True,True,1.0,False,TP
+arsak,agreed_extracted_match,True,True,arsak ni bah,arsak ni bah,menimba air,menimba air,True,True,True,1.0,True,True,True,1.0,False,TP
+asik,agreed_extracted_match,True,True,aha na asik ai,aha na asik ai,apa yang berbau busuk itu?,apa yang berbau busuk itu,True,True,True,1.0,False,True,True,1.0,False,TP
+bagi,agreed_extracted_match,True,True,bagi ma duit ai,bagi ma duit ai,bagilah uang itu,bagilah uang itu,True,True,True,1.0,True,True,True,1.0,False,TP
+baluhat,agreed_extracted_match,True,True,mangalop bah pakon baluhat kaka,mangalop bah pakon baluhat kaka,kaka mengambil air pakai baluhat,kaka mengambil air pakai baluhat,True,True,True,1.0,True,True,True,1.0,False,TP
+banggor,agreed_extracted_match,True,True,banggor inang ni,banggor inang ni,ibunya sakit,ibunya sakit,True,True,True,1.0,True,True,True,1.0,False,TP
+barah,agreed_extracted_match,True,True,barah lobei hujon,barah lobei hujon,mari kesini dulu,mari kesini dulu,True,True,True,1.0,True,True,True,1.0,False,TP
+baringka,agreed_extracted_match,True,True,baringka soban ai,baringka soban ai,ikat kayu api itu,ikat kayu api itu,True,True,True,1.0,True,True,True,1.0,False,TP
+bauk,agreed_extracted_match,True,True,marisi omei bauk ni dayok,marisi omei bauk ni dayok,tembolok ayam berisi padi,tembolok ayam berisi padi,True,True,True,1.0,True,True,True,1.0,False,TP
+botou,agreed_extracted_match,True,True,botouhu roh hujon,botouhu roh hujon,adikku datang ke sini,adikku datang ke sini,True,True,True,1.0,True,True,True,1.0,False,TP
+buhu,agreed_extracted_match,True,True,buhu ni tobu payah itagil,buhu ni tobu payah itagil,buku tebu sukar dipotong,buku tebu sukar dipotong,True,True,True,1.0,True,True,True,1.0,False,TP
+butir,agreed_extracted_match,True,True,tolur tolu butir,tolur tolu butir,tiga butir telur,tiga butir telur,True,True,True,1.0,True,True,True,1.0,False,TP
+daul,agreed_extracted_match,True,True,daul do parsahapanmu,daul do parsahapanmu,lain saja pembicaraanmu,lain saja pembicaraanmu,True,True,True,1.0,True,True,True,1.0,False,TP
+deseng,agreed_extracted_match,True,True,deseng sorani bah,deseng sorani bah,desing suara air,desing suara air,True,True,True,1.0,True,True,True,1.0,False,TP
+diha-diha,agreed_extracted_match,True,True,roh do ganup dihadiha tikki pesta ai,roh do ganup dihadiha tikki pesta ai,sanak keluarga semua datang waktu pesta itu,sanak keluarga semua datang waktu pesta itu,True,True,True,1.0,True,True,True,1.0,False,TP
+dungkol,agreed_extracted_match,True,True,dungkol hu ahap duri naheiku,dungkol hu ahap duri naheiku,terasa duri mencungkil di kakiku,terasa duri men- cungkil di kakiku,True,True,True,1.0,False,False,True,0.824,False,wrong_extraction
+emur,agreed_no_pair,False,False,,,,,True,True,True,1.0,True,True,True,1.0,False,TN
+gadam,agreed_extracted_match,True,True,"halak ai hona gadam, tene?","halak ai hona gadam, tene?","orang itu kena kusta, ya?","orang itu kena kusta, ya",True,True,True,1.0,False,True,True,1.0,False,TP
+gajur,agreed_extracted_match,True,True,boltokni gajur,boltokni gajur,perutnya lapar,perutnya lapar,True,True,True,1.0,True,True,True,1.0,False,TP
+goloh,agreed_extracted_match,True,True,goloh tumang bani garama ai,goloh tumang bani garama ai,gigih sekali pemuda itu,gigih sekali pemuda itu,True,True,True,1.0,True,True,True,1.0,False,TP
+gondit,agreed_extracted_match,True,True,au mamboli gondit i tiga,au mamboli gondit i tiga,aku membeli ikat pinggang di pekan,aku membeli ikat pinggang di pekan,True,True,True,1.0,True,True,True,1.0,False,TP
+gurapas,agreed_extracted_match,True,True,ia gurapas marlahoan,ia gurapas marlahoan,ia sangat ceroboh dalam bekerja,ia sangat ceroboh dalam bekerja,True,True,True,1.0,True,True,True,1.0,False,TP
+harunrun,agreed_extracted_match,True,True,harunrun nami sihal tapi seng do baen,harunrun nami sihal tapi seng do baen banyak kemauan,"banyak kemauan, tetapi tidak terpenuhi",tetapi tidak terpenuhi,False,False,False,0.702,False,False,False,0.588,False,wrong_extraction
+hirah,agreed_extracted_match,True,True,hirah lobei parang ai!,hirah lobei parang ai!,asah dulu parang itu!,asah dulu parang itu,True,True,True,1.0,False,True,True,1.0,False,TP
+huat,agreed_extracted_match,True,True,huat do hape ia mangangkat batu ai,huat do hape ia mangangkat batu ai,ia kuat betul mengangkat batu itu,ia kuat betul mengangkat batu itu,True,True,True,1.0,True,True,True,1.0,False,TP
+hutik,agreed_extracted_match,True,True,ia mangindo hutik duit bani inangni,ia mangindo hutik duit bani inangni,dia meminta sedikit uang kepada ibunya,dia meminta sedikit uang kepada ibunya,True,True,True,1.0,True,True,True,1.0,False,TP
+idopok,agreed_extracted_match,True,True,idopok halak do tobu laho mambuatsi,idopok halak do tobu laho mambuatsi,dipatahkan orang tebu itu dan dibawa,dipatahkan orang tebu itu dan dibawa,True,True,True,1.0,True,True,True,1.0,False,TP
+iporam,agreed_extracted_match,True,True,iporam mangga ase mabei,iporam mangga ase mabei,mangga diperam supaya masak,mangga di- peram supaya masak,True,True,True,1.0,False,False,True,0.793,False,wrong_extraction
+isumsam,agreed_extracted_match,True,True,taboh do hape dekke na isumsam,taboh do hape dekke na isumsam,enak rasanya ikan yang disembam,enak rasanya ikan yang di- sembam,True,True,True,1.0,False,False,True,0.818,False,wrong_extraction
+itilpak,agreed_extracted_match,True,True,mase itilpak bunga on?,mase itilpak bunga on?,mengapa dipetik bunga ini?,mengapa dipetik bunga ini,True,True,True,1.0,False,True,True,1.0,False,TP
+itioshon,agreed_extracted_match,True,True,otik pe lang itioshonni hita,otik pe lang itioshonni hita,sedikitpun kita tidak diabaikannya,sedikitpun kita tidak diabaikannya,True,True,True,1.0,True,True,True,1.0,False,TP
+itunila,agreed_extracted_match,True,True,mase lang itunila holah tompoh ai?,mase lang itunila holah tompoh ai?,mengapa tidak disapu saja sampah itu?,mengapa tidak disapu saja sampah itu,True,True,True,1.0,False,True,True,1.0,False,TP
+jerat,agreed_extracted_match,True,True,jerat ni halak na matei i jai,jerat ni halak na matei i jai,makam orang yang mati itu di sana,makam orang yang mati itu di sana,True,True,True,1.0,True,True,True,1.0,False,TP
+jonggur,agreed_extracted_match,True,True,rumah na jonggur,rumah na jonggur,rumah yang kokoh,rumah yang kokoh,True,True,True,1.0,True,True,True,1.0,False,TP
+kaho,agreed_extracted_match,True,True,aha kahoni ?,aha kahoni ?,apakah jaminannya?,apakah jaminannya,True,True,True,1.0,False,True,True,1.0,False,TP
+lambak,agreed_extracted_match,True,True,tobal do lambak ni galuh ai!,tobal do lambak ni galuh ai,tebalnya lapis pisang itu tebal,! tebalnya lapis pisang itu tebal,False,True,True,1.0,False,True,True,1.0,False,TP
+lansei,agreed_extracted_match,True,True,halani marguro-guro lansei ia horjahon i rumah,halani marguro-guro lansei ia horjahon i rumah,karena bermain-main ia lalai pada pekerjaannya di rumah,karena bermain-main ia lalai pada pekerjaannya di rumah,True,True,True,1.0,True,True,True,1.0,False,TP
+lantang,agreed_extracted_match,True,True,lantang do rumah nami,lantang do rumah nami,rumah kami luas,rumah kami luas,True,True,True,1.0,True,True,True,1.0,False,TP
+lantos,agreed_extracted_match,True,True,ulang ma lantos tu,ulang ma lantos tu,jangan terlalu pintar,jangan terlalu pintar,True,True,True,1.0,True,True,True,1.0,False,TP
+layangi,agreed_extracted_match,True,True,hu layangi ho,hu layangi ho,kamu kulangkahi,kamu kulangkahi,True,True,True,1.0,True,True,True,1.0,False,TP
+lintagtag,agreed_extracted_match,True,True,lintagtag madabuh humbani bulung ni hawei,lintagtag madabuh humbani bulung ni hawei,titik hujan jatuh dari daun keladi,titik hujan jatuh dari daun keladi,True,True,True,1.0,True,True,True,1.0,False,TP
+losei,agreed_extracted_match,True,True,"anggo domma losei, mulak ma!","anggo domma losei, mulak ma!","kalau sudah selesai, pulanglah!","kalau sudah selesai, pulanglah",True,True,True,1.0,False,True,True,1.0,False,TP
+majol,agreed_extracted_match,True,True,majol pisor min do i boan ho,majol pisor min do i boan ho,tumpul sekali pisau yang kamu bawa,tumpul sekali pisau yang kamu bawa,True,True,True,1.0,True,True,True,1.0,False,TP
+mal-mal,agreed_extracted_match,True,True,parau ai mal-mal i hunduli,parau ai mal-mal i hunduli,rumput itu hampir mati diduduki,rumput itu hampir mati diduduki,True,True,True,1.0,True,True,True,1.0,False,TP
+mambotoh,agreed_extracted_match,True,True,ganup do halak mambotoh duit,ganup do halak mambotoh duit,semua orang mengetahui tentang uang,semua orang mengetahui tentang uang,True,True,True,1.0,True,True,True,1.0,False,TP
+manderset,agreed_extracted_match,True,True,manderset mando ai halani naborit,manderset mando ai halani naborit,dia tidak bergerak lagi karena sakit,dia tidak bergerak lagi karena sakit,True,True,True,1.0,True,True,True,1.0,False,TP
+manghonongi,agreed_extracted_match,True,True,manghonongi unong,manghonongi unong,menyelami lubuk,menyelami lubuk,True,True,True,1.0,True,True,True,1.0,False,TP
+mangiligi,agreed_extracted_match,True,True,mangiligi na mateian,mangiligi na mateian,menjenguk yang kematian,men- jenguk yang kematian,True,True,True,1.0,False,False,True,0.76,False,wrong_extraction
+mangupir,agreed_extracted_match,True,True,lalap mangupir do tong uluni anggo isuruh,lalap mangupir do tong uluni anggo isuruh,kepalanya selalu menggeleng kalau disuruh,kepalanya selalu menggeleng kalau disuruh,True,True,True,1.0,True,True,True,1.0,False,TP
+martartar,agreed_extracted_match,True,True,bahat duitni martartar i jai,bahat duitni martartar i jai,banyak uangnya berserak di sana,banyak uangnya berserak di sana,True,True,True,1.0,True,True,True,1.0,False,TP
+masa,agreed_extracted_match,True,True,aha na masa i Saribudolok?,aha na masa i Saribudolok?,apa yang terjadi si Seribudolok?,apa yang terjadi si Seribudolok,True,True,True,1.0,False,True,True,1.0,False,TP
+mayap,agreed_extracted_match,True,True,tuktukku mayap i ombus logou,tuktukku mayap i ombus logou,topiku terbang di hembus angin,topiku terbang di hembus angin,True,True,True,1.0,True,True,True,1.0,False,TP
+milas,agreed_extracted_match,True,True,mesin kareta ai milas tumang halani dommah dokkah mardalan,mesin kareta ai milas tumang halani dommah dokkah mardalan,mesin kereta itu panas sekali karena sudah lama berjalan,mesin kereta itu panas sekali karena sudah lama berjalan,True,True,True,1.0,True,True,True,1.0,False,TP
+mumuk,agreed_extracted_match,True,True,kaen ai domma mukmuk,kaen ai domma mukmuk,kain itu sudah buruk,kain itu sudah buruk,True,True,True,1.0,True,True,True,1.0,False,TP
+munjar,agreed_extracted_match,True,True,ia manliar munjar dassa,ia manliar munjar dassa,dia berpidato atas keinginannya sendiri,dia berpidato atas keinginannya sendiri,True,True,True,1.0,True,True,True,1.0,False,TP
+naenei,agreed_extracted_match,True,True,sonaima naenei ompung mubah,sonaima naenei ompung mubah,semoga nenek sembuh kembali,semoga nenek sembuh kembali,True,True,True,1.0,True,True,True,1.0,False,TP
+naporon,agreed_extracted_match,True,True,adong do ulog i naporon,adong do ulog i naporon,ular ada disemak-semak,ular ada disemak-semak,True,True,True,1.0,True,True,True,1.0,False,TP
+nar-nar,agreed_extracted_match,True,True,ulang idogei nar-nar ai,ulang idogei nar-nar ai,jangan dipijak bara api itu,jangan dipijak bara api itu,True,True,True,1.0,True,True,True,1.0,False,TP
+nari,agreed_extracted_match,True,True,sadari nari mulak inang hun kota,sadari nari mulak inang hun kota,ibu pulang dari kota sehari lagi,ibu pulang dari kota sehari lagi,True,True,True,1.0,True,True,True,1.0,False,TP
+oak,agreed_extracted_match,True,True,oak mangigi au manangar,oak mangigi au manangar,aku tidak suka mendengar suara orang muntah,aku tidak suka mendengar suara orang muntah,True,True,True,1.0,True,True,True,1.0,False,TP
+omou,agreed_extracted_match,True,True,ganupan turi-turianmu omou hagasupan,ganupan turi-turianmu omou hagasupan,ceritanya semua dusta,ceritanya semua dusta,True,True,True,1.0,True,True,True,1.0,False,TP
+ongkap,agreed_extracted_match,True,True,ongkap songon nai tutung,ongkap songon nai tutung,panas seperti terbakar,panas seperti terbakar,True,True,True,1.0,True,True,True,1.0,False,TP
+palei,agreed_extracted_match,True,True,palei dassa ho mahorja,palei dassa ho mahorja,kamu sangat lamban bekerja,kamu sangat lamban bekerja,True,True,True,1.0,True,True,True,1.0,False,TP
+parah,agreed_extracted_match,True,True,parah do pangahapni,parah do pangahapni,penyakitnya parah,penyakitnya parah,True,True,True,1.0,True,True,True,1.0,False,TP
+paris,agreed_extracted_match,True,True,roh udan paris,roh udan paris,hujan gerimis turun,hujan gerimis turun,True,True,True,1.0,True,True,True,1.0,False,TP
+pasul,agreed_extracted_match,True,True,ulang pasul,ulang pasul,jangan takabur,jangan takabur,True,True,True,1.0,True,True,True,1.0,False,TP
+paturut,agreed_extracted_match,True,True,paturut misir lobei,paturut misir lobei,biarkan dia pergi dahulu,biarkan dia pergi dahulu,True,True,True,1.0,True,True,True,1.0,False,TP
+pegol,agreed_extracted_match,True,True,pegol balobasni,pegol balobasni,mistarnya melengkung,mistarnya meleng- kung,True,True,True,1.0,False,False,False,0.727,False,wrong_extraction
+pitut,agreed_extracted_match,True,True,pitut lubangni igung,pitut lubangni igung,hidungnya tersumbat,hidungnya tersumbat,True,True,True,1.0,True,True,True,1.0,False,TP
+pogih,agreed_extracted_match,True,True,pogit daini bagad on,pogit daini bagad on,rasa tuak ini pahit sekali,rasa tuak ini pahit sekali,True,True,True,1.0,True,True,True,1.0,False,TP
+pokan,agreed_extracted_match,True,True,eda marjual sia hu pokan,eda marjual sia hu pokan,kakak menjual cabe ke pekan,kakak menjual cabe ke pekan,True,True,True,1.0,True,True,True,1.0,False,TP
+poltik,agreed_extracted_match,True,True,poltik bahen panangkut,poltik bahen panangkut,eratkan ikatannya,eratkan ikatannya,True,True,True,1.0,True,True,True,1.0,False,TP
+puru,agreed_extracted_match,True,True,bahat puru ni,bahat puru ni,banyak purunya,banyak purunya,True,True,True,1.0,True,True,True,1.0,False,TP
+ranggou,agreed_extracted_match,True,True,ilangma ranggou bahen panuanmu tane,ilangma ranggou bahen panuanmu tane,jangan buat jarang tanamanmu,jangan buat jarang tanamanmu,True,True,True,1.0,True,True,True,1.0,False,TP
+ring-ring,agreed_extracted_match,True,True,"jolma, bahat ring-ring badan ni","jolma, bahat ring-ring badan ni","manusia, banyak anggota badannya","manusia, banyak anggota badannya",True,True,True,1.0,True,True,True,1.0,False,TP
+rongkih,agreed_extracted_match,True,True,rongkih angkula manghorjahon horja ai,capek; letih: rongkih angkula manghorjahon horja,capek badan mengerjakan kerja itu,ai capek badan menger- jakan kerja itu,False,False,False,0.614,False,False,True,0.8,False,wrong_extraction
+rumah,agreed_no_pair,False,True,,"rumah bolon i Simalungun jeges-jeges, janah ibahen gana-ganaan",,"rumah adat di Simalungun sangat cantik, penuh dengan ukiran",False,False,False,0.0,False,False,False,0.0,False,FP
+rumbung,agreed_extracted_match,True,True,si Tongat jenges marrumbung,si Tongat jenges marrumbung,si Tongat bagus bersuara besar,si Tongat bagus bersuara besar,True,True,True,1.0,True,True,True,1.0,False,TP
+sahal,agreed_extracted_match,True,True,sahal dai ni salak ai,sahal dai ni salak ai,rasa salak itu tengik,rasa salak itu tengik,True,True,True,1.0,True,True,True,1.0,False,TP
+sahan,agreed_extracted_match,True,True,boan hu jon sahan in!,boan hu jon sahan in!,bawa kemari cawan itu!,bawa kemari cawan itu,True,True,True,1.0,False,True,True,1.0,False,TP
+salohot,agreed_extracted_match,True,True,"sada hutinta ni halak Simalungun, nini songon anggo diidah lang iboban, ahama ai? aima salohot","sada hutinta ni halak Simalungun, nini songon anggo diidah lang iboban, ahama ai? aima salohot","satu teka-teki orang Simalungun, katanya begini, kalau dilihat tidak dibawa, tetapi kalau tidak dilihat, dibawa-bawa, apakah itu? Itulah salohot","satu teka-teki orang Simalungun, katanya begini, kalau dilihat tidak di- bawa, tetapi kalau tidak dilihat, dibawa-bawa, apakah itu? Itu- lah salohot",True,True,True,1.0,False,False,True,0.913,False,wrong_extraction
+sia,agreed_extracted_match,True,True,nongkan indahan bae sia!,nongkan indahan bae sia!,taruh nasi ini ke rantang!,taruh nasi ini ke rantang,True,True,True,1.0,False,True,True,1.0,False,TP
+sihap,agreed_extracted_match,True,True,sihap do ia roh,sihap do ia roh,cepat juga ia datang,cepat juga ia datang,True,True,True,1.0,True,True,True,1.0,False,TP
+sodang,agreed_extracted_match,True,True,sodang mardiha ho nabudari i jabu?,sodang mardiha ho nabudari i jabu?,sedang apa kau semalam di rumah?,sedang apa kau semalam di rumah,True,True,True,1.0,False,True,True,1.0,False,TP
+soh,agreed_extracted_match,True,True,ulangma nasiam soh anggo garama ope!,ulangma nasiam soh anggo garama ope!,jangan kamu diam selagi muda!,jangan kamu diam selagi muda,True,True,True,1.0,False,True,True,1.0,False,TP
+sorot,agreed_no_pair,False,True,,simpul tali yang,,membentuk mata jala,False,False,False,0.0,False,False,False,0.0,False,FP
+subut,agreed_extracted_match,True,True,dopma subut guru parlajaran ai,dopma subut guru parlajaran ai,pelajaran itu sudah diterangkan guru,pelajaran itu sudah diterangkan guru,True,True,True,1.0,True,True,True,1.0,False,TP
+tang,agreed_extracted_match,True,True,sai do tang harosukni,sai do tang harosukni,hanya itu cintanya,hanya itu cintanya,True,True,True,1.0,True,True,True,1.0,False,TP
+tasak,agreed_extracted_match,True,True,domma tasak indahanmu i?,domma tasak indahanmu i?,sudah matang nasimu itu?,sudah matang nasimu itu,True,True,True,1.0,False,True,True,1.0,False,TP
+telpak,agreed_extracted_match,True,True,ai mase telpak na sada on?,ai mase telpak na sada on?,mengapa yang satu ini kurang?,mengapa yang satu ini kurang,True,True,True,1.0,False,True,True,1.0,False,TP
+tenjalak,agreed_extracted_match,True,True,mase tenjalak ho i jin?,mase tenjalak ho i jin?,mengapa engkau meloncat di situ?,mengapa engkau meloncat di situ,True,True,True,1.0,False,True,True,1.0,False,TP

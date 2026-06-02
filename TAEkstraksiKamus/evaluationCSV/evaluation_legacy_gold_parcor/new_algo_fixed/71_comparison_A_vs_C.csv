@@ -1,0 +1,127 @@
+dict_id,kata_asal,c_has_pair,a_has_pair,c_kalimat_asal,a_kalimat_asal,c_kalimat_tujuan,a_kalimat_tujuan,match_asal_strict,match_asal_normalized,match_asal_fuzzy,match_asal_fuzzy_score,match_tujuan_strict,match_tujuan_normalized,match_tujuan_fuzzy,match_tujuan_fuzzy_score,concatenation_candidate,outcome
+71,efa,True,False,Rafa diefa,,Rafa digendong,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,el.long,True,False,mageno ellongna,,Lehernya pakai kalung,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,ele',True,False,ele'ni faseddnno,,bangun tidur sudah pagi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,elong,True,False,makesing elongna,,menyanyinya bagus,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,em.mê,True,False,emmêki faburana,,telan obatnya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,empere,True,True,i Roni tudangngi di empereke,i Roni tudangngi di empere’ke,Roni sedang duduk di serambi,Roni sedang duduk di serambi,False,False,True,0.828,True,True,True,1.0,False,wrong_extraction
+71,ep.pa',True,False,i Bado eppa ana na,,si Bado punya empat anak,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,ep.po,True,False,mamesang ruane eppona,,cucunya laki-laki semua,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,es.so',True,False,esso fi naengka,,siang baru datang,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,es.so',True,False,essoe addi narehe,,hari ini dia pulang,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,esso' eddi,True,False,esso' eddi liburu,,hari ini adalah hari libur,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,ke.le',True,False,nappai kele' faseddingni,,masih pagi buta sudah bangun tidur,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,efa,True,False,Rafa digendong,,Rafa di--,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,ele’,True,False,bangun tidur sudah pagi,,"faseddnno,",,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,ele’,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,ellong,True,False,lehernya pakai kalung,,mageno --na,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,elong,True,False,menyanyinya bagus,,makesing--na,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,emmĕ,True,False,telan obatnya,,ki faburana,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,empere,True,True,Roni sedang duduk di serambi,i Roni tudangngi di empere’ke,i Roni tudangngi di --’ke,Roni sedang duduk di serambi,False,False,False,0.159,False,False,False,0.175,False,wrong_extraction
+71,enenge,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,enepulona,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,eppake,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,eppa’,True,False,si Bado punya empat anak,,i Bado eppa' ana na,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,eppo,True,False,cucunya laki-laki semua,,mamesang ruane--na,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,esso',True,False,siang baru datang,,esso' fi naengka,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,esso',True,False,hari ini dia pulang,,esso'e addi narehe,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,esso’eddi,True,False,hari ini adalah hari libur,,~ liburu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,ke.le’,True,False,masih pagi buta sudah bangun tidur,,nappai-- faseddingni,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,aju,True,False,mannasu mappake,,masak memakai kayu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,alu,True,True,i ne’ mannampu’ki age mappake,i ne’ mannampu’ki age mappake,nenek menumbuk padi memakai alu,alu. nenek menumbuk padi memakai alu,True,True,True,1.0,False,False,True,0.875,False,wrong_extraction
+71,fammeng,True,False,maega nafoleang fammenge,,banyak ikan didapat nelayan itu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fammuttu,True,True,i Roni majjenno bale di fammuttue,i Roni majjenno bale di fammuttue,Roni menggoreng ikan di wajan,Roni menggoreng ikan di wajan,True,True,True,1.0,True,True,True,1.0,False,TP
+71,fance,True,False,fonginge aro ma fance,,pohon itu rendah,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fandang,True,False,raung fandange hedding diakkebbu faccampuru beppa,,daun pandan bisa dibuat campuran kue,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fandre bessi,True,False,fandre bessi aro makkebuki balango,,pandai besi itu membuat jangkar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fangngampi,True,False,jamanna i Roni fangngampi safi,,Roni kerjanya gembala sapi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fanni,True,False,jarakania-e malebba fannina,,sayapnya merpati lebar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fanynya-fanynya,True,True,i nene' tudung di fanynya-fanynya,i nene’ tudung di,nenek duduk di balai-balai,fanynya-fanynya. nenek duduk di balai-balai,False,False,False,0.414,False,False,False,0.625,False,wrong_extraction
+71,fappeppe,True,False,fappeppe gendrangnge ro fole di ayu jati e di akkebbu,,pemukul gendang itu terbuat di kayu jati,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fararang,True,True,engka fararang di batu maggoppoe aro,engka fararang di batu maggoppoe aro,ada biawak di tumpukan batu itu,ada biawak ditumpukan batu itu,True,True,True,1.0,False,False,True,0.867,False,wrong_extraction
+71,fareyoseng,True,False,aja mucaji tau fareyoseng,,jangan jadi orang perajuk,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fari,True,False,bale farie no nakku loppo,,ikan pari itu sangat besar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fassiriseng,True,True,makunrai aro fassiriseng,makunrai aro fassiriseng,perempuan itu pemalu,perempuan itu pemalu,True,True,True,1.0,True,True,True,1.0,False,TP
+71,fattafi,True,True,i emma' melliki fattafi di fasa'ke,i emma’ melliki fattafi di fasa’ke,Ibu membeli nyiru di pasar,Ibu membeli nyiru di pasar,False,False,False,0.667,True,True,True,1.0,False,wrong_extraction
+71,fattafi loppo,True,False,i emma' fattafi loppo nafake mangngesso bale,,Ibu memakai nyiru besar untuk menjemur ikan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,feca',True,False,i emma' makkebbuki feca',,Ibu sedang membuat bubur,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,feca' labbu,True,False,mabbaluki feca' labbu i Ira,,Ira berjualan bubur sumsum,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,feccala,True,True,i Saoda mabalu feccala,i Saoda mabalu,Saoda berjualan pecal,feccala. Saoda berjualan pecal,False,False,False,0.6,False,False,False,0.731,False,wrong_extraction
+71,feddi,True,False,feddi babuana,,sakit perutnya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,feddi babbua,True,False,Fani ma feddi babbua,,Fani lagi sakit perut,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fefe,True,False,anake aro fefe,,anak itu bisu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fella,True,False,hettu fella,,musim panas,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fellong,True,False,adi nakennai doko fellong,,Adi terkena penyakit wasir,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fenne,True,True,i Rani mabbissai fenne,i Rani mabbissai fenne,Rani mencuci piring,Rani mencuci piring,True,True,True,1.0,True,True,True,1.0,False,TP
+71,ferra',True,False,ferra'ki kalukuna,,peras santan kelapanya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,ferring,True,False,maega ferring di dare'na i Budi,,banyak bambu di kebun Budi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,ferru,True,False,makebbongni ferru baleke aro,,usus ikan itu sudah busuk,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fettikala,True,False,ajena di okko fettikala,,kakinya digigit kalajengking,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fettu,True,False,fettu tuluna,,putus talinya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fikkiri,True,False,fikkiriki dolo nappa mappau,,pikir dulu baru bicara,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,finsang,True,False,meddungngi matteru finsang,,jatuh langsung pisan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fiso,True,True,i Budi soso fao mappake fiso,i Budi soso fao mappake fiso,Budi mengupas mangga menggunakan pisau,Budi mengupas mangga menggunakan pisau,True,True,True,1.0,True,True,True,1.0,False,TP
+71,fole,True,False,fole diga di henni,,dari mana kemarin,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fole,True,False,folei di Jakarta,,datang dari Jakarta,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,folisi desa,True,False,folisi desae ro mattikkengngi,,polisi desa itu menangkap maling,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fondo,True,False,engka fondo di tenganga ale'ke,,ada pondok di tengah hutan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fong,True,False,ajue ro fongna di rette,,pangkal kayu itu dipotong,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fong,True,False,matanreni fong jampue,,pohon jambu sudah tinggi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fongaju,True,False,fongaju rebba nakenna anging kencang,,pohon tumbang akibat angin kencang,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fongko',True,False,mafeddi fongko'ku,,sakit pinggul,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,foppang,True,False,mafute foppangna,,pahanya putih,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fosi,True,False,takkita fosina,,kelihatan pusarnya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,foteng,True,True,i Halil nafuji manre foteng,i Halil nafuji manre foteng,Halil suka makan tapai,Halil suka makan tapai,True,True,True,1.0,True,True,True,1.0,False,TP
+71,foteng asefulu',True,False,foteng asefulu' makkebbuke I emma' manyameng rasanna,,tapai ketan buatan Ibu sangat enak rasanya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,foteng lameaju,True,False,foteng lameaju hedding mancaji fabbura maag,,tapai singkong membuat menjadi bodoh,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fulando',True,False,sippada akkala fulando',,akalnya seperti kancil,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fure,True,True,tau Baline masumbahyang di furee,tau Baline masumbahyang di furee,orang Bali sembahyang di pura,orang Bali sembahyang di pura,True,True,True,1.0,True,True,True,1.0,False,TP
+71,fuse',True,False,mafella massu fuse'na,,panas keluar keringatnya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,fute,True,False,ma fute haluana,,rambutnya putih,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,futtanang,True,True,sampange ro difarakai ki di futtanang,sampange ro difarakai kiasan di futtanang,sampan itu diperbaiki di daratan,sampan itu diperbaiki di daratan,False,False,True,0.795,True,True,True,1.0,False,wrong_extraction
+71,fènyu,True,False,engka fènyu di baluru difasahe,,ada telur penyu dijual di pasar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gading,True,True,malloppo gadingna,malloppo –na,besar gelangnya,besar gelangnya,False,False,False,0.389,True,True,True,1.0,False,wrong_extraction
+71,gado-gado,True,False,nakira mabbaluki gado-gado di olo bolae,,nakkira berjualan gado-gado di depan rumah,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gahu,True,False,gahuna warna sappona,,biru warna pagarnya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gajang,True,False,ta gajangngi fiso babbuana i Bado,,perut si bado tertikam pisau,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,galung,True,False,maloang galunngna,,luas sawahnya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,galung desa,True,False,galung desa e seddi hektar loanna,,sawah milik desa itu luasnya satu hektar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gampang,True,False,gampang na di jama,,gampang dikerjakan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,garagaji,True,True,mafuppuni garagajina,mafuppuni –na,gergajinya sudah tumpul,gergajinya sudah tumpul,False,False,False,0.381,True,True,True,1.0,False,wrong_extraction
+71,garangkang,True,False,maloppo sarang garangkang,,sarang laba-laba itu sangat besar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gareja,True,True,"tau kristengnge massumbajang di gereja e,",tau kristengnge massumbajang di –e,orang Kristen beribadah di gereja,orang Kristen beribadah di gereja,False,False,True,0.75,True,True,True,1.0,False,wrong_extraction
+71,gasing,True,False,gasingna maita malibu,,gasingnya berputar lama,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gattung,True,False,hajue aro digantung,,baju itu digantung,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gawiwang,True,False,gawiwang na tabbĕi seddi,,subangnya hilang satu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gengga,True,False,matindro afa digengga,,tidur karena diayun,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gondo,True,False,gondo na malopponi,,gondoknya sudah besar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gondolo,True,False,gondolo uluna ifatir,,botak kepalanya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gora,True,False,faloppoiki gora nu,,kasih besar teriaknya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,goreng,True,True,i naiming makkebuki goreng bembe',i Naiming makkebuki goreng bembe’,Naiming membuat gulai kambing,Naiming membuat gulai kambing,False,False,True,0.967,True,True,True,1.0,False,wrong_extraction
+71,gotonroyong,True,False,tau kampong nge maggotonroyong ngi,,warga desa sedang gotong royong,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gumbang,True,False,i Budi gumbang nafake mattampung uhae,,Budi menggunakan tempayan untuk menampung air,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gunturu,True,False,maloppo sada gunturuke,,suara guntur itu sangat besar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,gusi,True,True,maccera gusina,ngingi’; maccera- -na,gusinya berdarah,gusinya berdarah,False,False,False,0.2,True,True,True,1.0,False,wrong_extraction
+71,haju,True,False,Rita masesaki haju,,Rita mencuci baju,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,haju dilaleng,True,False,Halil mapakai haju dialeng,,Halil memakai singlet,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,halua,True,False,malampe haluana,,rambutnya panjang,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,halusu,True,False,jarina ma halusu,,tangannya halus,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,haru,True,False,feddeni haru na afi’e,,bara api itu sudah padam,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,hati,True,False,"hati na sampangnge ro fole dififae diakkebbu’,",,cadik sampan itu terbuat dari pipa,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,hatu bosi,True,False,dena ulle massu hatu bosi,,tidak bisa keluar musim hujan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,hellung,True,False,ma hellung langike,,langit berawan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,henang ncai,True,False,Lisa massapati henang ncai,,Lisa mencari benang jahit,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,henang tenun,True,False,henang tenun masyolewarnana,,benang tenun bagus warnanya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,henni,True,False,lao matinro hennini,,pergi tidur sudah malam,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,herrung,True,False,mafella kofina herrung dolo,,kopinya panas ditiup dulu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,hettu fella,True,False,hettu fella attedukko,,musim panas pakai payung,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,hidi,True,False,hidi lao difasake,,kita yang pergi ke pasar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,hidi,True,False,hidi' elo lao,,kita yang mau pergi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,hiring,True,True,tundang di hiring,tudang dihiring,duduk di tepian,duduk di tepian,False,False,False,0.474,True,True,True,1.0,False,wrong_extraction
+71,hiring,True,True,ajana mutetong di hiring lalengne,tudang dihiring,jangan berdiri di pinggir jalan,duduk di tepian,False,False,False,0.194,False,False,False,0.05,False,wrong_extraction
+71,hiring tasi,True,False,lange di hiring tasike,,berenang di pantai,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,hiti,True,False,maloppo hiti'na,,betisnya besar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,hua,True,False,maloppoi hua jampue ro,,buah jambu itu besar,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,huleng,True,False,malebi huleng hulenge,,bulannya bulat,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+71,hulo,True,True,buluh: i roni makkebuki suling fole di huloe,i roni makkebuki suling fole di –e,Roni membuat seruling dari buluh,Roni membuat seruling dari buluh,False,False,False,0.682,True,True,True,1.0,False,wrong_extraction
+71,huta manu,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma

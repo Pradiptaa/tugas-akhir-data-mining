@@ -1,0 +1,47 @@
+source_lemma,main_lemma_a1,main_lemma_a2,pos_a1,pos_a2,kalimat_asal_a1,kalimat_asal_a2,kalimat_tujuan_a1,kalimat_tujuan_a2,notes_a1,notes_a2,notes_family_a1,notes_family_a2,outcome
+aku,aku,aku,pron,pron,dibari uma wadai,aku dibari uma wadai,aku diberi mama kue,aku diberi mama kue,,,,,disagree_content
+bahahar,hahar,hahar,adv,adv,bahahar inya manyacii lampu paratan lampu mati,bahahar inya menyacii lampu paratan lampu mati,meraba dia mencari lampu ketika lampu,meraba dia mencari lampu ketika lampu,,,,,disagree_content
+bahampul,hampul,hampul,a,a,sasar balawas mambawa bahampul,sasar balawas mambawa bahampul,makin lama membawa makin entang,makin lama membawa makin enteng,,,,,disagree_content
+bahulat,hulat,hulat,v,v,tiwadaknya bahuat,tiwadaknya bahulat,cempedaknya berulat,cempedaknya berulat,,,,,disagree_content
+baingsut,ingsut,ingsut,v,v,ingsut itungannya,baingsut jumlahnya,susut hitungannya,berkurang jumlahnya,,,,,disagree_content
+bakabun,kabun,kabun,v,v,inya bakabun jawau,inya bakabun jawau,dia berkebun singkong,dia berkeben singkong,,,,,disagree_content
+bakaduh,kaduh,kaduh,v,v,mun uyuh jangan bakaduhlah,mun ujyh jangan bakaduhlah,kalau capek jangan mengeluh ya,kalau capek jangan mengeluh ya,,,,,disagree_content
+bakajut,kajut,kajut,v,v,inya pang bakajut manyubarang pas taranjah sapida,inya pang bakajut manyubarang pas taranjah sapida,dia sih tiba-tiba menyebrang makanya tertabrak sepeda,dia sih tiba-tiba menyeberang makanya tertabrak sepeda,,,,,disagree_content
+bakalupus,kalupus,kalupus,v,v,kakanakan nang dalam parut gin sudah bakalupus jua,kakanakan nang dalam parut gin sudah bakalupus jua,bayi yg masih dlm perut pun sdh berkulit ari,bayi yg masih dlm perut pun sudah berkulit ari,,,,,disagree_content
+bakarujut,karujut,karujut,v,v,kanapa mataku bakarujut,kanapa mataku bakarujut,bisa handak manangis,"mengapa otot mata saya bergerak-gerak, jangan-jangan akan menangis",,,,,disagree_content
+bakunal,kunal,kunal,v,v,inya kada sua bakunal,inya sada kada sua bakunal,dia tdk pernah menderita peny prambusia di pantat,dia tidak pernah menderita peny prambusia di pantat,,,,,disagree_content
+bamal,mal,mal,v,v,baju nang kujahit ni bamal,baju nang kujahit ni bamal,baju yg kujahit ini berpola,baju yang kujahit ini berpola,,,,,disagree_content
+banakal,nakal,nakal,v,v,imbah ganal ganal kakanak nitu banakal,imbah ganal kakunak nitu banakal,setelah besar anak itu bertambah nakal,setelah besar anak itu bertambah nakal,,,,,disagree_content
+bapikah,pikah,pikah,adv,adv,dahannya pikah,inya mandapati dahan ngitu bapikah,dahannya patah,ia memperoleh dahan itu dengan cara mematah,,,,,disagree_content
+baruntai,runtai,runtai,v,v,kalalawar tu pina baruntai di tawing guha,kalalawar itu pina baruntai di tawing guha,kelalawar itu sptnya bergelantungan di dinding gua,kelalawar itu sptnya bergelantungan di dinding gua,,,,,disagree_content
+batasbih,tasbih,tasbih,v,v,sidin itu batasbih tarus di masjid,sidin tu batasbih tarus di masjid,beliau itu bertasbih terus di mesjid,beliau itu bertasbih terus di mesjid,,,,,disagree_content
+batumbang,tumbang,tumbang,v,v,,kita batumbang mulai bis ka kapal,,kita berganti kendaraan dr bis ke kapal,no example sentences,ada dua definisi,no_pair,other,disagree_extract
+batunjul,tunjul,tunjul,v,v,"sapidaku miris, tapaksa aku batunjul","sapida ku miris, tapaksa aku batunjul","sepeda ku bocor, terpaksa aku mendorong","sepeda ku bocor, terpaksa aku mendorong",,,,,disagree_content
+bisa,bisa,bisa,v,v,hanyar bisa mambaca,hanyar bisa membaca,baru bisa membaca,baru bisa membaca,,,,,disagree_content
+bulirit,buliritan,buliritan,v,v,mambawa handayang nyiur bulirit,mambawa handayang nyiru bulirit,membawa daun kelapa jatuh dan terseret,membawa daun kelapa jatuh dan terseret,,,,,disagree_content
+bungul,bungul,bungul,a,a,bungul banar,bungil banar,bodoh sekali,bodoh sekali,,,,,disagree_content
+cangang,cangang,cangang,v,v,cangang ka muha,cangana ka muha,menatap ke muka,menatap ke muka,,,,,disagree_content
+cundai,cundai,cundai,a,a,batang nyiur cundai ka pahumaan,batang nyiur cundai ka pahuman,pohon nyiur condong ke sawah,pohon nyiur condong ke sawah,,,,,disagree_content
+kalanjian,lanji,lanji,a,a,jangan kalanjian kaitu pang!,jangan kalanjuian kaitu pang!,Tolong jangan terlalu genit spt itu!,tolong jangan terlalu genit spt itu!,,,,,disagree_content
+karubuti,karubut,karubut,v,v,karubuti pang kuitan sidin sudah tuha,kalu pina kami karubuti,tolong tinggal bersama org tua saja krn beliau sdh tua,nanti kami keroyok,,,,,disagree_content
+lanji,lanji,lanji,a,a,lanjiannya ikam ni,lanjinya ikam ni,kamu ini genit sekali,kamu ini genti sekali,,,,,disagree_content
+maanginakan,angin,angin,v,v,maanginakan baju baal,mun malam lawang lawan lalungkang ditutup kaina kaanginan,menganginkan baju basah,kalau malam pintu dan jendela ditutup nanti keanginan,,,,,disagree_content
+magaas,gaas,gaas,v,v,tikus magaas mun musim panghujan,tikur magaas mun musim panghujan,tikus mengganas ketika musim penghujan,tikus mengganas ketika musim penghujan,,,,,disagree_content
+mahawar,hawar,hawar,v,v,,abah mahawar adupan,,ayah melempar dengan potongan kayu anjing,no example sentences,,no_pair,,disagree_extract
+mahayaakan,mahayaakan,mahayaakan,v,v,inya mahayaakan banar amun adingnya tulak,inya mahaakan banar amun adingnya tulak,dia sangat khawatir apabila adiknya tulak,dia sangat khawatir apabila adiknya tulak,,,,,disagree_content
+malambar,lambar,lambar,v,v,gawain kami malambar,gawian kami malambar,pekerjaan kami melambar membuat lembaran daun nipah menjadi atap,pekerjaan kami membuat lembaran daun nipah menjadi atap,di tujuan ttp ada ~,,other,,disagree_content
+mancucul,cucul,cucul,v,v,mancucul pahumaan,cucul ratik nang saduyau nitu,membakar sawah,bakar sampah-sampah yg menumpuk itu,,,,,disagree_content
+mandam,mandam,mandam,v,v,panglihatanku ikam tu mandam tarus,panglihatanku ikam tu mandam tarus,penglihatanku kamu itu tertegun terus,penglihatanku itu tertegun terus,,,,,disagree_content
+mangit,mangit,mangit,a,a,rasa mangit pang sudah wadai nani,rasa mangit pang pang sudah wadai nani,rasa sangat manis sih kue ini,rasa sangat manis sih kue ini,,,,,disagree_content
+manjurak,jurak,jurak,v,v,amun manjurak mangga pakai kayu nang panjang,amun manjurak mangga pakai kayu nan panjang,kalau menjolok mangga harus menggunakan kayu yang panjang,kalau menjolok mangga harus menggunakan kayu yang panjang,,,,,disagree_content
+manyangka,sangka,sangka,v,v,aku kada manyangka inya nang bakaramput,aku kada manyangkan inya nang bakaramput,saya tdk menyangka dia yg berbohong,saya tdk menyangka dia yg berbohong,,,,,disagree_content
+manyugihakan,sugih,sugih,v,v,duit cuntanan tu kada manyugihakan jua,duit cuntanan itu kada manyugihkan jua,uang hasil curian itu tdk membuat kaya juga,uang hasil curian itu tdk membuat kaya juga,,,,,disagree_content
+marandakakan,randak,randak,v,v,inya tu katuju banar marandakakan bajunya,inya tu katuju banar marandakan bajunya,ia itu suka sekali menghamburkan bajunya,ia itu suka sekali menghamburkan bajunya,,,,,disagree_content
+pingkut,pingkut,pingkut,v,v,pingkut kuat-kuat biar kada gugur,pingkuta kuat-kuat biar kada gugur,pegang kuat-kuat supaya tidak jatuh,pegang kuat-kuat supaya tidak jatuh,,,,,disagree_content
+pusut,pusut,pusut,v,v,pusut kapalanya bagamatan,pusut kapalanya bagamalan,belai kepalanya pelan-pelan,belai kepalanya pelan-pelan,,,,,disagree_content
+salamatan,salamat,salamat,adv,adv,salamatan ja barataan,salamatan ja barantaan,semuanya dlm keadaan selamat,semuanya dlm keadaan selamat,,,,,disagree_content
+sing janakan,janak,janak,,,sing janakan guring sampai mangaruh,sing jakanan guring sampai mangaruh,nyenyak sekali tidurnya hingga mendengkur,nyenyak sekali tidurnya hingga mendengkur,,no pos found,,other,disagree_content
+tabair,bair,bair,v,v,lagi bajalan tabair ratik kayu,lagi bajalan tabair ratik,sdg berjalan terseret ranting,sdg berjalan terseret ranting,,,,,disagree_content
+tagur,tagur,tagur,v,v,inya kakanakan nang nakal ngitu,inya tagur kakanakan nang nakal ngitu,ia tegur anak-anak yg nakal itu,ia tegur anak-anak yg nakal itu,,,,,disagree_content
+tahangit,hangit,hangit,a,a,aku tih manyanga gaguduh tahangit,aku tih manyanga gaguduh,saya menggoreng pisang guring lebih hangus,saya menggoreng pisang guring lebih hangus,,,,,disagree_content
+tasaru,saru,saru,v,v,kada papalah tasaru urang subarang?,kada papalah tasaru urang subarang?,tdk apa-apa ya terundang org seberang?,tdk apa-apa yg terundang org seberang?,,,,,disagree_content

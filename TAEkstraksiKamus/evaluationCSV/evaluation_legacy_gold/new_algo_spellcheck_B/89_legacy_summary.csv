@@ -1,0 +1,2 @@
+dict_id,n_gold_rows,recall_anywhere,recall_billex,recall_morph,kata_tujuan_dl_n,kata_tujuan_dl_mean,kata_tujuan_dl_pct_085,kata_tujuan_dl_pct_090,kata_tujuan_dl_pct_100,form_dl_n,form_dl_mean,form_dl_pct_085,form_dl_pct_090,form_dl_pct_100,makna_dl_n,makna_dl_mean,makna_dl_pct_085,makna_dl_pct_090,makna_dl_pct_100,n_parcor_gold,parcor_found_rate,parcor_asal_dl_mean,parcor_tujuan_dl_mean,parcor_avg_dl_mean,parcor_pct_avg_085
+89,155,0.9871,0.9871,0.1355,149,0.8876,0.8389,0.8322,0.8255,20,0.9,0.9,0.9,0.9,9,0.7672,0.5556,0.5556,0.4444,142,0.0,,,,

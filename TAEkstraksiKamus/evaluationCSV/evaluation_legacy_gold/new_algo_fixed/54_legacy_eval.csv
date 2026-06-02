@@ -1,0 +1,216 @@
+dict_id,tahap,annotator,kata_asal,in_billex,in_morph,found_anywhere,gold_kata_tujuan,gold_form,gold_makna,gold_kalimat_asal,gold_kalimat_tujuan,kata_tujuan_dl,form_dl,makna_dl,parcor_found,parcor_asal_dl,parcor_tujuan_dl,parcor_avg_dl
+54,1,Hafiz,akhirat,False,False,False,kalepakat polak,n,,apakah kamu percaya dengan hari akhirat?,aileuk nu agaik nenda gogoi kalepakat polak?,,,,False,,,
+54,1,Hafiz,akhlak,False,False,False,paraboat,n,,akhlak patut diteladani,paraboat nia maeruk ta ului,,,,True,0.15625,0.34615384615384615,0.2512019230769231
+54,1,Hafiz,akibat,False,False,False,lulut,n,,"akibat kelakuannya, dia disisihkan orang kampung","lulut kalajet nia, ia dasaraakek ta kalaggaijat",,,,False,,,
+54,1,Hafiz,akibatnya,False,False,False,kalu-lutnia,,,-,,,,,False,,,
+54,1,Hafiz,akrab,False,False,False,maeruk,a,,kami akrab sekali dengannya,maeruk ku paalei kai,,,,False,,,
+54,1,Hafiz,aku,True,True,True,aku,n,,aku berasal dari Sipora,aku sibara ka Sipora,1.0,0.33333333333333337,,True,0.6521739130434783,0.44999999999999996,0.5510869565217391
+54,1,Hafiz,alam,False,False,False,polak,n,,alam ini ciptaan Tuhan,polak nenek ciptaan tai kamanua,,,,True,0.31999999999999995,0.29032258064516125,0.3051612903225806
+54,1,Hafiz,alir,False,False,False,enung,,,,,,,,False,,,
+54,1,Hafiz,almari,False,False,False,lammari,n,,almari ini bagus,lammari neknek maekuk,,,,False,,,
+54,1,Hafiz,alu,False,False,False,tutudduk,n,,ambil alu itu untuk penumbuk padi ini,alah tutudduk nera pasi tudduk buak nera,,,,False,,,
+54,1,Hafiz,berakibat,False,False,False,kalu-lut,,,-,-,,,,False,,,
+54,1,Hafiz,mengaku,False,False,False,masipoiliat,,,,,,,,False,,,
+54,1,Hafiz,mengakui,False,False,False,masipoiliat,,,,,,,,False,,,
+54,1,Hafiz,mengalir,False,False,False,muenung,v,,air sungai ini mengalir ke laut,oinan neknek moi muenung ka koat,,,,False,,,
+54,1,Niken,akhirat,False,False,False,kalepakat polak,n,,apakah kamu percaya dengan hari akhirat?,"aileuk flu agaik nenda gogoi ka-
+lepakat polak?",,,,False,,,
+54,1,Niken,akhlak,False,False,False,paraboat,n,,akhlak patut di teladani?,paraboat nia maeruk ta ului,,,,True,0.16666666666666663,0.34615384615384615,0.2564102564102564
+54,1,Yusuf,a.cap,False,False,False,marei-rei,,nenek,teteu marei-rei moi senek,,,,,False,,,
+54,1,Yusuf,a.dik,False,False,False,bagi,,saya dua orang,bagikku dua sia,,,,,False,,,
+54,1,Yusuf,abad:,False,False,False,,,sekarang,keneneget abad ka dua puluh,,,,,False,,,
+54,1,Yusuf,abu,False,False,False,,,buanglah,buanglah rokok ditempatnya,,,,,False,,,
+54,1,Yusuf,aduan,False,False,False,,tabbli,,avam itu gou-gou nera patabbli,,,,,False,,,
+54,1,Yusuf,anai,True,False,True,dia,,disini,anai ia sinek,,0.33333333333333337,,0.0,False,,,
+54,1,Yusuf,arat,True,False,True,menurut,,,"Tu iccak kaarat senek pasialak
+warisan simanteu",,0.0,,,False,,,
+54,1,Yusuf,keadaan,False,False,False,igalai,,,,,,,,False,,,
+54,1,Yusuf,mengada-ngada,False,False,False,masianai-anai;,,,,,,,,False,,,
+54,1,Yusuf,mengadakan,False,False,False,masianaiakek,,,,,,,,False,,,
+54,1,Yusuf,mengadon,False,True,True,,masigaluk:,,kai masigaluk tepung samba timek nera:,,,0.0,,False,,,
+54,1,Yusuf,pengadaan,False,False,False,masianai,,,,,,,,False,,,
+54,1,Yusuf,pengadaan,False,False,False,masial,,,,,,,,False,,,
+54,2,Hafiz,arang,False,False,False,sese,n,,kayu itu sudah menjadi arang,loinak nedda aibaliuat sese,,,,True,0.1428571428571429,0.17647058823529416,0.15966386554621853
+54,2,Hafiz,aren,False,False,False,poula,n,,gula aren itu dibuat di sini,gulo paoula nera ara galai senek,,,,True,0.34375,0.34375,0.34375
+54,2,Hafiz,arloji,False,False,False,jam,n,,pukul berapa di arlojimu?,bok-bok pika ka jamnu?,,,,False,,,
+54,2,Hafiz,arti,False,False,False,katukolobat,n,,apa arti kata itu?,katukolobat nga-nga nedda?,,,,False,,,
+54,2,Hafiz,arus,False,False,False,toloktak,n,,sungai itu arusnya deras,bagat oinan nedda tuloktak nia maroi-rai,,,,False,,,
+54,2,Hafiz,arwah,False,False,False,ketcat,n,,semoga arwahnya diterima di sisi Tuhan,bulek ketcat nia isilok ka bek-bek Tuhan,,,,False,,,
+54,2,Hafiz,asah,False,True,True,asai,n,,asah pisau itu supaya tajam,asai pisau neknek bulek ima rauru,,0.33333333333333337,,True,0.4545454545454546,0.4545454545454546,0.4545454545454546
+54,2,Hafiz,asal,False,False,False,kabaraijat,n,,batas asalnya tidak diketahui lagi,song kabaraijat siboikit tat tuagai,,,,False,,,
+54,2,Hafiz,asal mula,False,False,False,kabaraijat siburuk,,,,,,,,False,,,
+54,2,Hafiz,asal usul,False,False,False,kabaraijat,,,,,,,,False,,,
+54,2,Hafiz,asam,False,True,True,rimau,n,,di sini banyak pohon asam,senek maigi loinak rimau,,0.33333333333333337,,True,0.19999999999999996,0.25,0.22499999999999998
+54,2,Hafiz,asap,False,True,True,kujug,n,,bau asap kemenyan itu tercium sampai ke sini,butek kujug kemenyan nedda tuping seret senek,,0.33333333333333337,,True,0.33333333333333337,0.28888888888888886,0.3111111111111111
+54,2,Hafiz,asbak,True,False,True,asbak,n,,masukkan puntung rokok itu ke dalam asbak ini,bulukakek mung-mungan ubek nedda ka asbak neknek,0.2272727272727273,,,False,,,
+54,2,Hafiz,asin,False,False,False,makaop,a,,gulai itu terlalu asin,gulei nedda seget makkaop,,,,True,0.2727272727272727,0.12,0.19636363636363635
+54,2,Hafiz,asinan,False,False,False,kaopakenen,,,,,,,,False,,,
+54,2,Hafiz,asli,False,False,False,asli,n,,ini emas asli,nek-nek emas asli,,,,False,,,
+54,2,Hafiz,aso,False,True,True,,,,,,,,,False,,,
+54,2,Hafiz,asrama,False,False,False,asrama,n,,ini asrama anak-anak,nek-nek asrama tatoga,,,,False,,,
+54,2,Hafiz,asuh,False,True,True,urau,v,,,,,1.0,,False,,,
+54,2,Hafiz,asung,False,True,True,ubbuk,v,,,,,1.0,,False,,,
+54,2,Hafiz,atap,False,False,False,tobat,n,,atap rumah kami bocor,tobat lalep mai malobok,,,,True,0.30434782608695654,0.30434782608695654,0.30434782608695654
+54,2,Hafiz,atas,False,False,False,ka bata,n,,dari atas bukit pemandangan itu dapat kita lihat,ka batat leleu pemandangan nedda moi ta iccok nia,,,,False,,,
+54,2,Hafiz,atau,False,False,False,sabba,p,,ini atau itu?,nek-nek sabba nedda?,,,,False,,,
+54,2,Hafiz,atur,False,False,False,,v,,,,,,,False,,,
+54,2,Hafiz,aum,False,False,False,singak,n,,aum harimau itu kedengaran sampai ke sini,singak harimau nedda tu arep teret senek,,,,False,,,
+54,2,Hafiz,aurat,True,False,True,aurat,n,,kita tidak boleh memperlihatkan aurat kita,sita tak moi-moi ta iccok akek aurat ta,1.0,,,False,,,
+54,2,Hafiz,aus,False,False,False,makatak,a,,sepatu itu telah aus,sepatu nedda amakatakan,,,,True,0.3913043478260869,0.3913043478260869,0.3913043478260869
+54,2,Hafiz,awai,False,True,True,rape,v,,,,,0.0,,False,,,
+54,2,Hafiz,awak,False,False,False,aku,n,,"awak sakit, jangan diganggu",ai aku mabesik bak eenggeu,,,,False,,,
+54,2,Hafiz,awal,False,False,False,panaddat,n,,awal tahun ini bukan musim hujan,panaddat rura nek-nek tak na urat,,,,False,,,
+54,2,Hafiz,awan,False,False,False,tanaik rusa,n,,awan sudah menghitam dan sebentar lagi hujan turun,tanaik rusa ama pusukan ta ailek am uju belek urat,,,,True,0.3013698630136986,0.3035714285714286,0.3024706457925636
+54,2,Hafiz,ayah,False,False,False,ukkui,n,,ayah sudah pergi ke ladang,ukkui ameian nia ka mene,,,,True,0.1923076923076923,0.1923076923076923,0.1923076923076923
+54,2,Hafiz,ayah bunda,False,False,False,ina ukkui,,,,,,,,False,,,
+54,2,Hafiz,ayah mertua,False,False,False,talikun ukkui,,,,,,,,False,,,
+54,2,Hafiz,ayak,False,True,True,,,,,,,,,False,,,
+54,2,Hafiz,ayakan,False,True,True,ayak,,,,,,,,False,,,
+54,2,Hafiz,ayal,False,False,False,masipatu,a,,"tak ayal lagi, dia adalah teman lama saya","tak masipatu lek, nia aleiku siburuk",,,,False,,,
+54,2,Hafiz,ayam,False,False,False,gouk-gouk,n,,ayam kami sedang bertelur,gouk-gouk mai ai mu attelu,,,,False,,,
+54,2,Hafiz,ayam aduan,False,False,False,gouk-gouk patabliakenen,,,,,,,,False,,,
+54,2,Hafiz,ayam hutan,False,False,False,gouk-gouk leleu,,,,,,,,False,,,
+54,2,Hafiz,ayam panggang,False,False,False,gouk-gouk silabok,,,,,,,,False,,,
+54,2,Hafiz,ayo,False,False,False,cak katui,p,,ayo pergi,katui tutan,,,,False,,,
+54,2,Hafiz,ayun,False,False,False,uddai,v,,,,,,,False,,,
+54,2,Hafiz,bab,False,False,False,nekne,n,,ini bab satu buku itu,mekne sara buko nedda,,,,True,0.2857142857142857,0.38095238095238093,0.3333333333333333
+54,2,Hafiz,babad,False,False,False,tadde,n,,ini babad tanah Jawa,nekne tadde pola Jawa,,,,True,0.4285714285714286,0.38095238095238093,0.40476190476190477
+54,2,Hafiz,babak,True,False,True,kateteret,n,,babak satu cerita itu sudah berakhir,kateteret sara pumumuan nera atataan,0.2222222222222222,,,True,0.2222222222222222,0.2222222222222222,0.2222222222222222
+54,2,Hafiz,babak belur,False,False,False,matania muguok,,,,,,,,False,,,
+54,2,Hafiz,babat,False,False,False,tadde,v,,,,,,,False,,,
+54,2,Hafiz,babi,False,False,False,sakkokok,n,,di sini banyak rakyat memelihara babi,sene maigi tai kalaggajat masi,,,,False,,,
+54,2,Hafiz,baca,True,True,True,baca,v,,baca buku itu,baca buko nedda,1.0,0.0,,True,0.6,0.6,0.6
+54,2,Hafiz,bacaan,False,False,False,bacaeet,,,,,,,,False,,,
+54,2,Hafiz,bacok,False,True,True,tekte,v,,,,,1.0,,False,,,
+54,2,Hafiz,bacokan,False,False,False,sitektekad,,,,,,,,False,,,
+54,2,Hafiz,badai,False,False,False,rusa,n,,kampung itu hancur diserang badai,laggai nera katai di serarang rusa,,,,True,0.3529411764705882,0.3529411764705882,0.3529411764705882
+54,2,Hafiz,badak,True,False,True,sibara,n,,di daerah ini tidak terdapat badak,kalagagi nekne tak anai sibara,0.15625,,,True,0.2941176470588235,0.303030303030303,0.29857397504456323
+54,2,Hafiz,badan,False,False,False,tubu,n,,badannya gemuk dan besar,tubunia mamokmok sabbat abeu,,,,True,0.32352941176470584,0.25,0.2867647058823529
+54,2,Hafiz,berarti,False,False,False,kolobat,,,,,,,,False,,,
+54,2,Hafiz,berasal,False,False,False,kabaraijat,,,,,,,,False,,,
+54,2,Hafiz,berasap,False,False,False,amukujug,,,,,,,,False,,,
+54,2,Hafiz,beratap,False,False,False,masitobat,,,,,,,,False,,,
+54,2,Hafiz,beratur,False,True,True,seget,v,,buku-buku itu beratur rapi,buko-buko nedda seget eruk,,1.0,,False,,,
+54,2,Hafiz,berawal,False,False,False,panaddatan,,,,,,,,False,,,
+54,2,Hafiz,berawan,False,False,False,matanaik rusa,,,,,,,,False,,,
+54,2,Hafiz,berayah,False,False,False,aiukkui,,,,,,,,False,,,
+54,2,Hafiz,berayun-ayun,False,False,False,masituddaiakek,v,,kera itu sedang berayun-ayun di pohon,siteot nedda ai masituddaiakek loinak,,,,False,,,
+54,2,Hafiz,berbadai,False,False,False,urat simatirit,,,,,,,,False,,,
+54,2,Hafiz,berbadan,False,False,False,matubu,,,,,,,,False,,,
+54,2,Hafiz,berbadan dua,False,False,False,matuburua,,,,,,,,False,,,
+54,2,Hafiz,diasini,False,False,False,dikaopakek,,,,,,,,False,,,
+54,2,Hafiz,dibacok,False,False,False,tutektek,,,,,,,,False,,,
+54,2,Hafiz,keteraturan,False,False,False,masierukakek,,,,,,,,False,,,
+54,2,Hafiz,membabat,False,False,False,masitadde,v,,dia membabat hutan itu sesukanya,nia masitadde loina siobakna lee,,,,True,0.25,0.25,0.25
+54,2,Hafiz,membabati,False,False,False,manadde,,,,,,,,False,,,
+54,2,Hafiz,membaca,False,False,False,masibaca,,,,,,,,False,,,
+54,2,Hafiz,membacakan,False,False,False,masibacaakek,,,,,,,,False,,,
+54,2,Hafiz,membacok,False,True,True,masitektek,v,,dia membacok musuhnya berkali-kali,nia masitektek lawa wan nia simareirei,,1.0,,True,0.2727272727272727,0.21052631578947367,0.2416267942583732
+54,2,Hafiz,mengasah,False,False,False,masiasai,,,,,,,,False,,,
+54,2,Hafiz,mengasami,False,False,False,masirimau,,,,,,,,False,,,
+54,2,Hafiz,mengasini,False,False,False,masikoapakek,,,,,,,,False,,,
+54,2,Hafiz,mengasinkan,False,False,False,masikaopakek,,,,,,,,False,,,
+54,2,Hafiz,mengaso,False,True,True,muari,v,,lebih baik mengaso kalau sudah lelah,maeruk pailek muari kelek masagongan,,1.0,,True,0.21052631578947367,0.26315789473684215,0.2368421052631579
+54,2,Hafiz,mengasuh,False,True,True,masiurau,v,,saya mengasuh anaknya kalau dia pergi,aku masiurau toga nia kelek mei nia,,1.0,,True,0.29729729729729726,0.29729729729729726,0.29729729729729726
+54,2,Hafiz,mengasung,False,True,True,pasiubbuk,v,,mengasung itu sudah mati,pasiubbuk nedda amateiam,,1.0,,True,0.20833333333333337,0.20833333333333337,0.20833333333333337
+54,2,Hafiz,mengatap,False,False,False,masitobatakek,,,,,,,,False,,,
+54,2,Hafiz,mengaum,False,False,False,musingak,,,,,,,,False,,,
+54,2,Hafiz,mengawai,False,False,False,masirape,v,,dia mengawai tangan saya,ia masirape kabeiku,,,,False,,,
+54,2,Hafiz,mengayak,False,True,True,aiyak,v,,adik sedang mengayak tepung,bagi ai aiyak tapung,,1.0,,True,0.4814814814814815,0.4814814814814815,0.4814814814814815
+54,2,Hafiz,pembabatan,False,False,False,panaddeat,,,,,,,,False,,,
+54,2,Hafiz,pembaca,False,False,False,sipasibbaca,,,,,,,,False,,,
+54,2,Hafiz,pembacaan,False,False,False,pasibaccaat,,,,,,,,False,,,
+54,2,Hafiz,pembacok,False,False,False,sipasititipuk,,,,,,,,False,,,
+54,2,Hafiz,pembacokan,False,False,False,panippukat,,,,,,,,False,,,
+54,2,Hafiz,terbaca,False,False,False,aibaca,,,,,,,,False,,,
+54,2,Niken,badung,False,True,True,tabut,a,,dia anak badung,nera toga tabut,,0.33333333333333337,,True,0.22580645161290325,0.26315789473684215,0.2444821731748727
+54,2,Niken,bagai,False,False,False,kekleek,n,,bagai kucing dan anjing saja,kekleek maok sabbat jokjok leek,,,,False,,,
+54,2,Niken,bagaimana,False,False,False,kipapurimanuajar,,,-,-,,,,False,,,
+54,2,Niken,bagak,False,False,False,gege,a,,dia orang bagak kampung kami,nia sirimanua si magege kalaggai mai,,,,False,,,
+54,2,Niken,bagi,False,False,False,rubei,a,,bagi kue ini dengan teman-temanmu,rubei kue nekne kasa aleimu,,,,True,0.36363636363636365,0.34285714285714286,0.35324675324675325
+54,2,Niken,bahan,False,True,True,balajet,n,,bahan bangunan,balajet lalep,,0.0,,True,0.1428571428571429,0.19999999999999996,0.17142857142857143
+54,2,Niken,bahasa,False,False,False,nganga,n,,bahasa arab itu sulit,anganga Arab nedda takmalabbei,,,,False,,,
+54,2,Niken,baik,False,False,False,maeruk,a,,nasibnya selalu baik,nasibnia sarat simaeruk,,,,True,0.21621621621621623,0.23809523809523814,0.22715572715572718
+54,2,Niken,baju,False,False,False,lapei,n,,baju adik sedag dijahit,leppei bagi aitu jajahit,,,,False,,,
+54,2,Niken,bak,True,False,True,kelek,p,,kedua bersaudara itu bak pinang dibelah dua,nedda kelek pinang tusila na,0.0,,,False,,,
+54,2,Niken,bakau,False,False,False,bakat,n,,pohon bakau banyak tumbuh di tepi pantai,loinak bakat maigi mutuktuk ka betbet koat,,,,False,,,
+54,2,Niken,bakhil,False,False,False,tubut,a,,orang kaya itu bakhil sekali,sirimanua tubut sikamayo nenda,,,,True,0.23333333333333328,0.19999999999999996,0.21666666666666662
+54,2,Niken,baki,False,False,False,kapata,n,,letakkan minuman itu di atas baki,taroakek lok nenda kapata,,,,True,0.33333333333333337,0.24390243902439024,0.2886178861788618
+54,2,Niken,bakiak,False,False,False,takmaigi,n,,sekarang jarang sekali orang main bakiak,kinegege tubut takmaigi sirimanua masipakai,,,,False,,,
+54,2,Niken,baling,False,False,False,,,,-,-,,,,False,,,
+54,2,Niken,baling-baling,False,False,False,baling-baling,n,,baling-baling itu berputar sesuai arah angin,baling-baling nera muputar ka matat rusa,,,,True,0.2272727272727273,0.2857142857142857,0.2564935064935065
+54,2,Niken,balon,False,False,False,balon,n,,ayah membelikan adik balon karet untuk mainannya,ukkui masisakek balon kabagit mainani,,,,False,,,
+54,2,Niken,balut,False,False,False,tabut,v,,balut ;ukamu dengan perban,tabut lukamu dengan perban,,,,True,0.8846153846153846,0.9230769230769231,0.9038461538461539
+54,2,Niken,bambu,False,False,False,manggeak,n,,di sini banyak tumbuh bambu yang besar-besar,senemaigi mutuk-tuk maggeak simabeugat,,,,False,,,
+54,2,Niken,bandar,False,False,False,salokat,n,,para petani bergotong-royong membersihkan bandar,petani mugotong royong masilianakek salokat,,,,False,,,
+54,2,Niken,bandel,False,False,False,sitaimareddet,a,,anak bandel itu dihukum gurunya,tonagera iukum guruniai,,,,True,0.4838709677419355,0.4516129032258065,0.467741935483871
+54,2,Niken,bandit,True,False,True,bandit,n,,bandit itu sudah tertangkap,bandit nenda atu tangkap,1.0,,,True,0.6296296296296297,0.5294117647058824,0.579520697167756
+54,2,Niken,bangau,False,False,False,suiruk,n,,setinggi-tinggi bangau terbang surutnya ke kubangan,sigit buang suiruk mututui tutoilinia ka kabagan,,,,True,0.375,0.3571428571428571,0.36607142857142855
+54,2,Niken,bangga,False,True,True,umun,a,,saya bangga dengan kemenangan itu,aku umun kalulut mamanang,,0.33333333333333337,,True,0.2727272727272727,0.2727272727272727,0.2727272727272727
+54,2,Niken,bangkai,False,False,False,jokjok,n,,bangkai anjing itu terapung di sungai,jokjok simamatai nena mutebbuk ka oinan,,,,False,,,
+54,2,Niken,bangkit,False,False,False,tusuru,v,,dia bangkit dari duduknya,atu suruan nia ka udinai,,,,True,0.25,0.29166666666666663,0.2708333333333333
+54,2,Niken,banjir,False,False,False,eba,n,,banjir telah merusak tanaman pangan kita,eba masih pakataik uremen,,,,True,0.25,0.25531914893617025,0.2526595744680851
+54,2,Niken,bantah,False,True,True,,,,-,-,,,,False,,,
+54,2,Niken,bantai,False,True,True,,,,-,-,,,,False,,,
+54,2,Niken,bantal,False,False,False,tulunan,n,,tolong ambilkan bantal itu saya mau tidur,rob matalak tulunan nera aku merep,,,,False,,,
+54,2,Niken,banteng,True,False,True,banteng,n,,hati-hatilah banteng itu mau menanduk,pulelek banteng nera iobak masitanduk,1.0,,,False,,,
+54,2,Niken,banting,False,True,True,,,,-,-,,,,False,,,
+54,2,Niken,bantu,False,True,True,rop,v,,bantulah kami sekadarnya,rop kai simemet nia,,0.0,,True,0.29166666666666663,0.28,0.28583333333333333
+54,2,Niken,bantuan,False,False,False,paroman,,,-,-,,,,False,,,
+54,2,Niken,banyak,False,True,True,maigi,a,,uang kami tidak banyak,bulagat mai tak maigi,,0.33333333333333337,,True,0.36363636363636365,0.3913043478260869,0.3774703557312253
+54,2,Niken,bapak,False,False,False,ukkui,n,,bapak kami bekerja sebagai nelayan,ukkui mai musalai sebagai nelayan,,,,True,0.5882352941176471,0.5384615384615384,0.5633484162895928
+54,2,Niken,baptis,False,True,True,,,,-,-,,,,False,,,
+54,2,Niken,bara,True,True,True,boo,n,,siramlah bara itu supaya tidak berbahaya,subui boo nera pei tak berbahaya,0.0,1.0,,True,0.475,0.40816326530612246,0.4415816326530612
+54,2,Niken,barang,False,True,True,bibilet,n,,semua barangnya sudah terjual,sangamberi bibilet atu sakiakeat,,1.0,,True,0.2432432432432432,0.40506329113924056,0.3241532671912419
+54,2,Niken,baru,False,False,False,sibau,a,,adik dibelikan baju baru oleh ayah,ukkui aisaki akek leppei sibau bagi,,,,False,,,
+54,2,Niken,baskom,True,False,True,baskom,n,,ambil baskom itu untuk tempat air,alak baskom nera lelengan oinan,0.19999999999999996,,,False,,,
+54,2,Niken,basuh,False,False,False,bui,v,,basuh tanganmu dengan air ini,bui kabeimu samba oinan nenek,,,,True,0.17730496453900713,0.24137931034482762,0.20934213744191738
+54,2,Niken,batang,False,False,False,loinak,n,,batang kayu ini menghalangi jalan,loinak nera masisaila enungan,,,,False,,,
+54,2,Niken,batuk,False,False,False,kokklo,n,,batuknya sudah parah,kokkloni ama kopek,,,,False,,,
+54,2,Niken,bawah,False,False,False,karepek,n,,ambil buku yang di bawah meja itu,alak buku nera karepek meja nera,,,,False,,,
+54,2,Niken,bebek,True,False,True,bebek,n,,kami memelihara bebek dan ayam,kai masijago bebek samba gou-gou,0.0,,,False,,,
+54,2,Niken,becek,False,False,False,lotik,a,,jalan ini selalu becek kalau hari hujan,enungan nenek malotik kalulut urat,,,,False,,,
+54,2,Niken,beda,False,True,True,tak makerek,n,,beda harga baju ini dan baju itu tidak banyak,tak makerek saki leppei nenek samba nera,,0.33333333333333337,,True,0.2727272727272727,0.23913043478260865,0.2559288537549407
+54,2,Niken,bedak,False,False,False,badak,n,,pakailah bedak ini untuk merawat wajahmu,pake ian nenek untuk sipasilakgek,,,,False,,,
+54,2,Niken,bedil,False,False,False,iabbit,n,,tentara itu slalu membawa bedil,tentara nera seget iabbit,,,,False,,,
+54,2,Niken,beduk,False,False,False,beduk,n,,setiap masuk waktu sembahyang beduk itu dipukul,senen tubuluk gogoi sumbahyang beduk nera tubobok,,,,False,,,
+54,2,Niken,bedung,False,False,False,toga,n,,toga bayi itu perlu dicuci,toga nera perlu tulinakek,,,,True,0.2941176470588235,0.25,0.27205882352941174
+54,2,Niken,bega,False,False,False,,,,-,-,,,,False,,,
+54,2,Niken,bekal,False,False,False,balut,n,,ini bekalmu untuk perjalanan besok,nenek balutmui untuk muenung kam maccep,,,,False,,,
+54,2,Niken,bekas,False,False,False,balak,n,,bekas luka kakinya masih tampak,balak bongbong karere nia tuiccok peilek,,,,False,,,
+54,2,Niken,beker,False,False,False,beker,n,,letakkan beker itu dekat tempat tidur,galag akek beker nera ka bebet pereman,,,,False,,,
+54,2,Niken,belah,False,False,False,silak,v,,belahlah kelapa itu,silak toitet nera,,,,False,,,
+54,2,Niken,berbahasa,False,False,False,pasibo,,,-,-,,,,True,0.0,0.0,0.0
+54,2,Niken,berbaju,False,False,False,muleppei,,,-,-,,,,False,,,
+54,2,Niken,berbaling,False,False,False,masibaling,,,-,-,,,,True,0.0,0.0,0.0
+54,2,Niken,berbantal,False,False,False,masitulunan,,,-,-,,,,False,,,
+54,2,Niken,berbeda,False,False,False,pasara,,,,,,,,False,,,
+54,2,Niken,berbeda-beda,False,False,False,pasara-sara,,,,,,,,False,,,
+54,2,Niken,berbedak,False,False,False,mumadak,,,-,-,,,,False,,,
+54,2,Niken,berbega,False,False,False,tuburut,,,elang itu terbang berbega,makgok nera tuburut,,,,False,,,
+54,2,Niken,berbekal,False,False,False,mubalut,,,-,-,,,,False,,,
+54,2,Niken,dibagi,False,False,False,tutubei,,,-,-,,,,False,,,
+54,2,Niken,dibantu,False,False,False,turop,,,-,-,,,,False,,,
+54,2,Niken,kebaikan,False,False,False,kaerukat,,,-,-,,,,True,0.0,0.0,0.0
+54,2,Niken,membagi,False,False,False,maisuberi,,,-,-,,,,False,,,
+54,2,Niken,membagi-bagikan,False,False,False,masiparubei,,,-,-,,,,False,,,
+54,2,Niken,membalut,False,False,False,masitabut,,,-,-,,,,False,,,
+54,2,Niken,membanggakan,False,False,False,iumunakek,,,-,-,,,,False,,,
+54,2,Niken,membantah,False,True,True,obak,n,,dia suka membantah perintah ayahnya,nia obak gugulat ukkuinia,,1.0,,True,0.2571428571428571,0.2571428571428571,0.2571428571428571
+54,2,Niken,membantai,False,True,True,rua,v,,kami membantai dua ekor sapi untuk pesta,kai rua ngamuneng sapi untuk punen,,1.0,,True,0.24731182795698925,0.4,0.32365591397849464
+54,2,Niken,membanting,False,True,True,masilipat akek,v,,dia membaning tikus itu sampai mati,nia bitut nera tetret matei,,1.0,,True,0.34285714285714286,0.31818181818181823,0.33051948051948055
+54,2,Niken,membantu,False,False,False,masirop,,,-,-,,,,False,,,
+54,2,Niken,membanyakkan,False,False,False,masiigiakek,,,-,-,,,,False,,,
+54,2,Niken,membaptis,False,True,True,masilappeni,v,,pendeta sudah membaptis anak itu,pandita alepakan masilappeni toga nera,,1.0,,True,0.33333333333333337,0.3421052631578947,0.33771929824561403
+54,2,Niken,membasuh,False,False,False,masibui,,,,,,,,False,,,
+54,2,Niken,membedakan,False,False,False,masisaraakek,,,,,,,,False,,,
+54,2,Niken,membedaki,False,False,False,masibadakakek,,,-,-,,,,True,0.0,0.0,0.0
+54,2,Niken,memperbaiki,False,False,False,masipaeruk,,,-,-,,,,False,,,
+54,2,Niken,memperbanyak,False,False,False,masipaigi,,,-,-,,,,False,,,
+54,2,Niken,memperbarui,False,False,False,masibauakek,,,,,,,,False,,,
+54,2,Niken,memperbedakan,False,False,False,masisaraakek,,,,,,,,False,,,
+54,2,Niken,pembaptisan,False,False,False,pasilappenan,,,-,-,,,,False,,,
+54,2,Niken,perbaikan,False,False,False,paerukat,,,-,-,,,,False,,,
+54,2,Niken,sebagai,False,False,False,galaitubunia,,,-,-,,,,False,,,
+54,2,Niken,sebagaimana,False,False,False,kipatele,,,-,-,,,,False,,,
+54,2,Niken,terbanyak,False,False,False,simaigi,,,-,-,,,,False,,,

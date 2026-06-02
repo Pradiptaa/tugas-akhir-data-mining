@@ -1,0 +1,28 @@
+source_lemma,main_lemma_a1,main_lemma_a2,pos_a1,pos_a2,kalimat_asal_a1,kalimat_asal_a2,kalimat_tujuan_a1,kalimat_tujuan_a2,notes_a1,notes_a2,notes_family_a1,notes_family_a2,outcome
+acaro,acaro,acaro,n,n,buek acaro dulu,buekacaro dulu,buat acara dahulu,buat acara dahulu,,,,,disagree_content
+adok,adok,adok,v,v,adok ka badan din ambo,adokka badan diri ambo,tertuju kepada badan (diri) saya,tertuju kepada badan (diri) saya,,,,,disagree_content
+angik,angik,angik,a,a,baun nasinyo Iahangik,baun nasinyo lahangik,bau nasinya sudah hangit,bau nasinya sudah hangit,,,,,disagree_content
+barengge,rengge,rengge,v,v,ayam barengge di batang jambu,ayam barengge di batang jambu,ayarn bertengger di batang jambu,ayam bertengger di batang jambu,,,,,disagree_content
+basobok,sobok,sobok,v,v,basobok bareh ko jo bareh puluik,basobok bareh ko jo bareh puluik,bercampur beras ini dengan beras pulut,bercampur beras ini dengan beras pulut (ketan),,,,,disagree_content
+cacahi,cacah,cacah,v,v,bagi dalam onggok kecil cacahi lado tu dalam babarapo onggok ketek,cacahi lado tu dalam babarapo onggok ketek,bagi cabe itu dalam beberapa onggok kecil,bagi cabe itu dalam beberapa onggok kecil,,,,,disagree_content
+didinginan,dingin,dingin,v,v,jan didinginan lamo bana,jan didinginan lamo bana,jangan didindingankan terlalu lama,jangan didinginkan terlalu lama,,,,,disagree_content
+dilimpok,limpok,limpok,v,v,dilimpok nasi tu jo tuduang,indak dilimpok makanan di ateh meja,tutup nasi itu dengan tudung,tidak ditutup makan di atas meja,,,,,disagree_content
+katiko,katiko,katiko,adv,adv,urang maliang masuak katiko kami sadang indak ado di rumah,urang maliang masuak — kami sadang indak ado di rumah,orang maling masuk ketika kami tidak ada di rumah,orang maling masuk ketika kami tidak ada di rumah,,,,,disagree_content
+mangaruah,karuah,karuah,v,v,sia nan mangaruah aia tu,mangaruah nyo kareh,siapa yang mengeruh air itu,dengkurnya keras,,,,,disagree_content
+manyesoan,serap,serap,v,v,parangai anak tu manyesoan amaknyo,,kelakuan anak itu merepotkan ibunya,,,no example sentences,,no_pair,disagree_extract
+maraso,raso,raso,v,v,nenek maraso sadiah mandanga kajadian tu,nenek maraso sadiah mandanga kajadian itu,nenek merasa sedih mendengar kejadian itu;,nenek merasa sedih mendengar kejadian itu,,,,,disagree_content
+menagiah,tagiah,tagiah,v,v,menagiah utang,managiah utang,menagih utang,menagih hutang,,adanya managiah bukan menagiah,,other,disagree_content
+padama,dama,dama,v,v,alah padama gulai tu,"alah , gulai tu",sudah diberi damar (kemiri) gulai,sudah diberi damar (kemiri) gulai itu,,,,,disagree_content
+paik,paik,paik,a,a,kopi ko paik rasonyo,kopi ko paik rasonyo,kopi ni pahit rasanya,kopi ini pahit rasanya,,,,,disagree_content
+pambali,bali,bali,n,n,kepeang untuak bareh,kepeang untuak pambali bareh,uang untuk pembeli beras,uang untuk pembeli beras,,,,,disagree_content
+sae,sae,sae,adv,adv,baiyo-iyo sae lah,batyo-iyo sae lah,rukun-rukun sajalah,rukun-rukun sajalah,,,,,disagree_content
+sanang,senang,senang,a,a,sanang jo judi,,senang dengan judi,,,lemma not found in PDF,,not_found,disagree_extract
+sumangaik,sumangaik,sumangaik,n,n,sumangaik nvo bakurang sajak ...,sumangaik nyo bakurang sajak ...,semangatnya berkurang spjak,semangatnya berkurang spjak ...,,allegedly typo,,other,disagree_content
+susun,susun,susun,v,v,susun buku tu,,susun buku itu,,,no example sentences,,no_pair,disagree_extract
+taabih-abihan,abih,abih,v,v,indak taabih-abihan dek den nasi tu,indaktaabih-abihan dek den nasi tu,tidak terhabishabiskan oieh saya nasi itu,tidak terhabis-habiskan oleh saya nasi itu,,,,,disagree_content
+tabagak,bagak,bagak,a,a,inyolah urang nan tabagak di dalam kampuang ko,inyolah urang nan tabagak di dalam kampuang ko,diaIah orang yang terberani di dalam,dialah orang yang terberani di dalam kampung ini,,,,,disagree_content
+tadaguak,daguak,daguak,v,v,tadaguak aid angek,tadaguak aia angek,temünum air panas,terminum air panas,,,,,disagree_content
+tagamang,gamang,gamang,v,v,inyo tagamang tingga surang,inyo tagamang tingga surang,dia takut tinggal seorang din,dia takut tinggal seorang diri,,,,,disagree_content
+tatidua,tidua,tidua,v,v,urang tatidua di bawah batang kayu,urang tatidua di bawah batang kayu,orang itu tertidur di bawah pohon kayu,orng itu tertidur di bawah pohon kayu,,,,,disagree_content
+tidua,tidua,tidua,v,v,jan tidua di situ,jan tidua di situ,jangan tidur disana,jangan tidur di sana,,,,,disagree_content
+tunggang,tunggang,tunggang,v,v,,tunggang kudo,,menunggangi kuda,no example sentences,,no_pair,,disagree_extract

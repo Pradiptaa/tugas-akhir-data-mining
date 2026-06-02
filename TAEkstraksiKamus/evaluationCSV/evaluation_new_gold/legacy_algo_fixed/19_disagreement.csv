@@ -1,0 +1,26 @@
+source_lemma,main_lemma_a1,main_lemma_a2,pos_a1,pos_a2,kalimat_asal_a1,kalimat_asal_a2,kalimat_tujuan_a1,kalimat_tujuan_a2,notes_a1,notes_a2,notes_family_a1,notes_family_a2,outcome
+benar,benar,benar,a,a,jawaban dari pertanyaan itu benar,jawaban dan pertanyaan itu benar,jawaban dari pertanyean itu benar,jawaban dari pertanyean itu benar,,,,,disagree_content
+berhubung,hubung,hubung,v,v,tali itu telah berhubung kembali,tall itu telah berhubung kembali,tali itu lah besambong lagi,tali itu lah besambong lagi,,,,,disagree_content
+cela,cela,cela,n,n,tdak ada cacat celanya sedikit pun,tidak ada cacat celanya sedikitpun,tak ade cacat celelnya siket pon,tak ade cacat celenye siket pon,,,,,disagree_content
+divisi,divisi,divisi,n,n,divisi itu bertujuan untok menjaga keamanan,divisi itu bertujuan untok menjaga keamanan,kumpolan tentare yg banyak dan lengkap itu betujuan untok nyage keamanan,kumpolan tentare yg banyak dan Iengkap itu betujuan untok nyage keamanan,,,,,disagree_content
+edukasi,edukasi,edukasi,n,n,pendidikan seumur hidup,pendidikan seumur hidup,pedidekkan seumo idop,pendidekkan seumo idop,,,,,disagree_content
+guna,guna,guna,n,n,semua yg diciptakan past ada gunanya,semua yg diciptakan pasti ada gunanya,semue yg diciptekan pasti ade manfaatnye,semue yg diciptekan pasti ade manfaatnye,,,,,disagree_content
+hati,hati,hati,vi,n,kita harus hati-hati dl segala tindakan,hati rusa,kite aros ingat-ingat dl segale tindakan,ati ruse,,,,,disagree_content
+ikhtiar,ikhtiar,ikhtiar,n,n,kita harus berikhtiar untuk memperjuangkan hidup yang sebenarnya,klta harus berikhtiar untuk memperjuangkan hidup yg sebenarnya,kite aros beusahe untok memperjuang idop yg sebenanye,kite aros beusahe untok mempejuang idop yg sebenanye,,,,,disagree_content
+keberatan,berat,berat,a,a,berat sekali kayu itu,saya keberatan dengan usul itu,berat sekali kayu tu,saye tak berkenan dengan usul itu,,,,,disagree_content
+kemari,kemari,kemari,v,v,besok ibuku akan datang kemari,besok ibuku akan datang kemari,mak aku akan datang ke sini,besok mak aku akan datang ke sini,,,,,disagree_content
+kerdil,kerdil,kerdil,a,a,orang kerdil tak pernah menjadi besar,orang kerdil takpernah menjadi besar,orang cebol tak pernah jadi besa,orang cebol tak pemah jadi besa,,,,,disagree_content
+ladang,ladang,ladang,n,n,pak tani menanami ladangnya,pak tani menanamiladangnya,pak tani nanam kebon di,pak tani nanam kebon di,,,,,disagree_content
+lagi,lagi,lagi,adv,adv,ayah tidur lagi,ayah lagi tidur,ayah sedang tido,ayah sedang tido,,,,,disagree_content
+lipur,lipur,lipur,v,v,hatinya belum liput,hatinya belum lipur,atinye belom tehibo,atinye belom tehibo,,,,,disagree_content
+mantra,mantra,mantra,n,n,di desa masih banyak orang menggunakan mantra sbg pengobatan,di desa masih banyak orang menggunakan mantra sbg pengobatan,di dese maseh banyak orang menggunakan jampi-jampi sbg pengobatan,di dese maseh banyak orang menggunekan jampi-jampi sbg pengobatan,,,,,disagree_content
+memperanakkan,anak,anak,vt,vt,ibut tua itu memperanakkan anak yg terlantar,ibu tua itu memperanakkan anak yg terlantar,ibuk tue itu ngangkat budak yg telanta,ibuk tue itu ngangkat budak yg telanta,,,,,disagree_content
+mencoleng,coleng,coleng,vi,vi,mereka yg coleng di kedai itu kemarin,mereka yg mencoleng di kedai itu kemarin,mereka yg nyurik di kedai itu kemaren,mereka yg nyurik di kedai itu kemaren,,,,,disagree_content
+mengepalai,kepala,kepala,vt,vt,dia yg mengepalai komplotan ini,dia yg mengepalai komplotan ml,die yg jadi ketue komplotan ini,die yg jadi ketue komplotan ini,,,,,disagree_content
+penonton,tonton,tonton,n,n,ramainya penontonnya,ramai penontonnya,ramai penengoknye,ramai penengoknye,,,,,disagree_content
+perdamaian,damai,damai,n,n,kapan tercapainya suatu perdaimaian,kapan tercapainya suatu perdamaian,bile tecapainye suatu pedamaian,bile tecapainye suatu pedamaian,,,,,disagree_content
+proteksi,proteksi,proteksi,n,n,lau mest mendapat proteksi,taut mesti mendapat proteksi,laot mesti dapat pelindongan,laot mesti dapat pelindongan,,,,,disagree_content
+reruntuhan,runtuh,runtuh,n,n,hanya tinggal rereuntuhannya,hanya tinggal reruntuhannya,hanye tinggal pueng-puengnya,hanye tinggal pueng-puengnya,,,,,disagree_content
+terka,terka,terka,,v,,coba kau terka apa yg kubawa,,terai kau jawab ape yg kubawak,no entry found,,not_found,,disagree_extract
+ternoda,noda,noda,vt,vt,dia merasa ternoda,dia merasa ternoda,die merase tercele,die merase tecele,,,,,disagree_content
+waswas,waswas,waswas,a,a,hati ini selalu waswas melihat kehadirannya di sini,hati ini selalu waswas melihat kehadirannya di sini,ati ini selalu bimbang menengok kehaderannye di sini,ati ini selalu bimbang menerigok kehaderarmye disini,,,,,disagree_content

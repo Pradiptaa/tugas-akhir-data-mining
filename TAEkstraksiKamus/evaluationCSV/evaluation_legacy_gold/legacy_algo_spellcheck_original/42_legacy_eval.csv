@@ -1,0 +1,58 @@
+dict_id,tahap,annotator,kata_asal,in_billex,in_morph,found_anywhere,gold_kata_tujuan,gold_form,gold_makna,gold_kalimat_asal,gold_kalimat_tujuan,kata_tujuan_dl,form_dl,makna_dl,parcor_found,parcor_asal_dl,parcor_tujuan_dl,parcor_avg_dl
+42,1,Hafiz,labial,False,False,False,,,,sada anu timbul ku lantaran padeukeutna biwir luhur eung biwir handap,,,,,False,,,
+42,1,Hafiz,labil,False,False,False,oyag,a,,,,,,,False,,,
+42,1,Hafiz,labil,False,False,False,goyang,,,,,,,,False,,,
+42,1,Hafiz,labil,False,False,False,henteu tetep,,,,,,,,False,,,
+42,1,Hafiz,labil,False,False,False,henteu stabil,,,,,,,,False,,,
+42,1,Hafiz,labium,False,False,False,biwir,n,,,,,,,False,,,
+42,1,Hafiz,laboran,False,False,False,jalma,n,,,,,,,False,,,
+42,1,Hafiz,laboratorium,False,False,False,,n,,,,,,,False,,,
+42,1,Hafiz,labrak,False,False,False,,,,,,,,,False,,,
+42,1,Hafiz,labu,True,True,True,,,,,,,,,False,,,
+42,1,Hafiz,labuh,False,False,False,,,,,,,,,False,,,
+42,1,Hafiz,melabrak,False,False,False,,,,,,,,,False,,,
+42,1,Niken,berlabuh,False,False,False,ngagantung ka handap; turun,vi,,-,-,,,,False,,,
+42,1,Niken,berlabuh,False,False,False,eureun; nurunkeun jangkar|balabuh,vi,,-,-,,,,False,,,
+42,1,Niken,berlabuh,False,False,False,"ngiuhan|cicing|sarta ngeu-
+reunan sagala kagiatan",vi,,-,-,,,,False,,,
+42,1,Niken,labial,False,False,False,,n,"sada anu timbul ku lantaran padeukeuma biwir luhur eung
+biwir handap|uparnana",-,-,,,,False,,,
+42,1,Niken,labil,False,False,False,oyag|henteu panceg,a,hal wangunan|pamadegan|jeung sajabana,-,-,,,,False,,,
+42,1,Niken,labil,False,False,False,goyang henteu cicing,a,kandaraan|kapal|pesawat ngapung|jeung sajabana,-,-,,,,False,,,
+42,1,Niken,labil,False,False,False,henteu tetep|babari robah|turun naék,a,"ngeunaan harga barang|ajén
+duit|jeung sajabana",-,-,,,,False,,,
+42,1,Niken,labil,False,False,False,henteu setabil|sok barobah,a,,-,-,,,,False,,,
+42,1,Niken,labium,False,False,False,biwir,n,,-,-,,,,False,,,
+42,1,Niken,laboran,False,False,False,jalma (ahli kimia jeung sajabana) anu digawe di laboratonum,n,,-,-,,,,False,,,
+42,1,Niken,laboratorium,False,False,False,"tempat at kamar anu dilengkepan ku parabot pikeun
+ngayakeun percobaan (panalungtikan|jeung sajabana)",n,,-,-,,,,False,,,
+42,1,Niken,labrak,False,False,False,,vt,,-,-,,,,False,,,
+42,1,Niken,labu,True,True,True,,n,"buah dagingan anu bagian War kulitna teuas|asalna tina bakal
+buah diruang|daun buahna tilu|tapi satuiuyna rohanganana hiji
+serta sikina loba|spt kawas dma sabangsa bobonténgan;waluh gedé;",-,-,,1.0,0.4034396367242549,False,,,
+42,1,Niken,labu,True,True,True,,n,botol nu gedë beuteungna|rupa-rupa gunana macemna;,-,-,,1.0,0.2549019607843137,False,,,
+42,1,Niken,labu,True,True,True,,n,"botol nu biasana dijieun
+tina kaca|digunakeun keur neundeun naon-naon di laboratorium|sarta diwangun make beuheung keur nyekel atawa nyicikeun",-,-,,1.0,0.22411764705882353,False,,,
+42,1,Niken,labuh,False,False,False,,n,dma kaayaan turun atawa ngagantung ka handap spt kulambu|tali jangkar|pipinding|atawa layar panggung,-,-,,,,False,,,
+42,1,Niken,labuhan,True,True,True,"upacara tradisional flu dilaksanakeufl di sisi laut ku
+pamayang; labuhan",n,,"upacara tradisional labuhan di Palabuhan Ratu dilaksanakeun ku para pamayang
+gawé bareflg jeung dinas pariwisata",upacara labuhan di Palabuan Ratu dilaksanakan oleh para nelayan bersama-sama dengan dinas pariwisata,0.09722222222222221,1.0,,False,,,
+42,1,Niken,lacak,False,False,False,,,,-,-,,,,False,,,
+42,1,Niken,melabrak,False,False,False,neunggeulan,vt,,-,-,,,,False,,,
+42,1,Niken,melabrak,False,False,False,,vt,"nyarékan (nyela|ngejek|jeung sajabana)
+kalawan keras",-,-,,,,False,,,
+42,1,Niken,melabrak,False,False,False,nyerang; ngagempur musuh pohara,vt,,-,-,,,,False,,,
+42,1,Niken,pelabuhan,True,True,True,palabuan,n,,-,-,1.0,1.0,,False,,,
+42,1,Yusuf,Ia. ba,False,False,False,kauntungan,,,"(beubeunangan tina ngajual barang anu leuwih
+luhur batan pameulianana,",,,,,False,,,
+42,1,Yusuf,bersih,False,False,False,,,"sesa antara jumlah sagemblengan
+beubeunangan dikurangan ku jumlah sagembelengan béaya dma
+dangka waktu flu tangtu","sdsa antara jumlah sagemblengan
+beubeunangan dikurangan ku jumlah sagembelengan béaya dma
+dangka waktu flu tangtu",,,,,False,,,
+42,1,Yusuf,kotor,False,False,False,,,"hasil harga jual bersih dikurangan
+béaya produksi;",,,,,,False,,,
+42,1,Yusuf,la.bah-la.bah,False,False,False,,,"serangga anu sukuna dalapan anu biasa nyieun sabangsa jaring tina benang kawas sutra anu kaluar tina beuteungna anu gu-
+nana pikeun ngajiret mangsa;",,,,,,False,,,
+42,1,Yusuf,label,False,False,False,(kaén|logam|kain,/Iabél/,sacewir kertas anu ditempelkeun dina barang anu ngajelaskeun ngaran barang,,,,,,False,,,
+42,1,Yusuf,rugi,True,False,True,,,untung rugi,tacan nyaho untung rugi,,,,0.23774509803921565,False,,,
