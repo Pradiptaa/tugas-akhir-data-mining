@@ -1,76 +1,76 @@
-source_lemma,iaa_outcome,c_has_pair,a_has_pair,c_kalimat_asal,a_kalimat_asal,c_kalimat_tujuan,a_kalimat_tujuan,match_asal_strict,match_asal_normalized,match_asal_fuzzy,match_asal_fuzzy_score,match_tujuan_strict,match_tujuan_normalized,match_tujuan_fuzzy,match_tujuan_fuzzy_score,concatenation_candidate,outcome
-arisan,agreed_extracted_match,True,False,arisan ibu-ibu PKK,,aresan ibuk-ibuk PKK,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-bantal,agreed_extracted_match,True,True,bantal guling,guling,bantal guling,anta1 guling,False,False,False,0.364,False,False,False,0.5,False,wrong_extraction
-bercorak,agreed_extracted_match,True,True,kain bercorak batik Pekalongan,kain corak batik Pekalongan,kaen bemerek batek Pekalongan,'kaen bemerek batek Pekalongan' 69 co.rat-co.ret n corat-cor; gamba yg tak titu,False,False,True,0.767,False,False,False,0.388,True,wrong_extraction
-berkirim,agreed_extracted_match,True,True,kami berkirim barang ini buat adinda di sana,kami barang mi buat adinda di sana,kami bekirem barang ini untok adinde di sane,'kami bekirem barang mi untok,False,False,False,0.651,False,False,False,0.523,False,wrong_extraction
-cekikan,agreed_extracted_match,True,True,cekikannya kuat sekali,"nya kuat sei, 'Cekekan die kuat betol' ce.kok n cekok,",Cekekan die kuat betol,obat yg dibuat dr rempah yg dimasokkan ke mulot dng pakse,False,False,False,0.231,False,False,False,0.078,True,wrong_extraction
-ciptaan,agreed_extracted_match,True,True,puisi itu ciptaannya,puisi itu —nva,puisi itu buatan die,puisi itu buatan die,False,False,False,0.364,True,True,True,1.0,False,wrong_extraction
-eksplorasi,agreed_extracted_match,True,True,eksplorasi sumber minyak di daratan dan lepas pantai,sumber minyak di,penyelidekkan sumber minyak di darat dan lepas pantai,daratan dan lepas pantai,False,False,False,0.292,False,False,False,0.346,False,wrong_extraction
-empas,agreed_extracted_match,True,True,dia mengempas diri di tempat tidurnya,dia meng-- din di tempat tidurnya,die manteng diri dekat tempat tidonye,' die manteng din dekat tempat tidonye,False,False,False,0.59,False,False,True,0.806,False,wrong_extraction
-gabungan,agreed_extracted_match,True,True,gabungan kayu itu kecil-kecil,kayu itu kecil-kecil,ikatan kayu itu kecik-kecik,'ikatan kayu itu kecik-kecik,False,False,False,0.625,False,True,True,1.0,False,wrong_extraction
-gores,agreed_extracted_match,True,True,gores api,pantek api;,pantek api,man ces,False,False,False,0.154,False,False,False,0.0,False,wrong_extraction
-gramatika,agreed_extracted_match,True,False,gramatika Melayu,,tate bahase Melayu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-horizon,agreed_extracted_match,True,True,menggapai horizon,menggapai horizon,ngapai kaki langet,'ngapai kaki langet,True,True,True,1.0,False,True,True,1.0,False,TP
-iseng,agreed_extracted_match,True,False,hanya iseng saja,,hanye maen-maen aje,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-jamban,agreed_extracted_match,True,True,menjaga kebersihan jamban berarti menjaga kesehatan,menjaga kebersihan jamban berarti menjaga kesehatan,nyage kebersehan kakos bearti nyage kesehatan,' nyage kebersehan kakos bearti nyage kesehatan,True,True,True,1.0,False,True,True,1.0,False,TP
-kandas,agreed_extracted_match,True,True,kapal yg kandas itu telah ditarik,kapal yg kandas itu telah ditarik,kapal yg sangkot itu lah diterek,'kapal yg sangkot itu lah diterek,True,True,True,1.0,False,True,True,1.0,False,TP
-karikatur,agreed_extracted_match,True,True,gambar karikatur itu sangat bagus,gam bar karcis itu sangat bagus,gamba katon itu bagos betol,'gamba katon itu bagos betol,False,False,False,0.553,False,True,True,1.0,False,wrong_extraction
-karung,agreed_extracted_match,True,True,belikan beras sekarung,belikan beras se—,belikan beras sekantong,rb e lik an beras sekantong,False,False,False,0.667,False,False,False,0.607,False,wrong_extraction
-kegaduhan,agreed_extracted_match,True,True,kegaduhan itu semakin gawat,itu semakin gawat,kerusohan itu maken gawat,'kerusohan itu maken gawat,False,False,False,0.6,False,True,True,1.0,False,wrong_extraction
-kekosongan,agreed_extracted_match,True,False,kekosongan hati,,kehampean ati,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-keluarga,agreed_extracted_match,True,True,ayah mengajak kami mengunjungi keluarga,ayah mengajak kami mengunjungi,bapak ngajak kami bejumpe sanak sedare,'bapak ngajak kami bejumpe sanak sedare,False,False,False,0.735,False,True,True,1.0,False,wrong_extraction
-kepiting,agreed_extracted_match,True,True,kepiting bangkang,frarrgkang,ketam bangkang,'ketam bangkang' (ketam yg idop dl bakau,False,False,False,0.158,False,False,False,0.355,True,wrong_extraction
-konsespsi,agreed_extracted_match,True,False,konsespsi nilai Gurindam 12,,pengertian nilai Gurindam 12,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-koran,agreed_extracted_match,True,False,koran Riau Pos,,surat kaba Riau Pos,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-lembaga,agreed_extracted_match,True,True,semalam aku jumpa lembaga,semalam aku jumpa lembaga,semalam aku jumpe hantu,'semalam aku jumpe hantu,True,True,True,1.0,False,True,True,1.0,False,TP
-lipstik,agreed_extracted_match,True,False,lipstik merah muda,,gincu merah mude,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-loak,agreed_extracted_match,True,True,buang kertas itu dl loak,buang kertas itu dl —,buang kertas itu dl bakol sampah,'buang kertas itu dl bakol sampah,False,False,True,0.783,False,True,True,1.0,False,wrong_extraction
-longgar,agreed_extracted_match,True,False,baju yg kupakai longgar,,baju yg kupakai besa,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-mabuk,agreed_extracted_match,True,True,"karena minum arak, mereka jadi mabuk","karena minum arak, mere/ca jadi","karene minom arak, mereke jadi naneng","mabuk, 'karene minom arak, merekejadi naneng",False,False,False,0.658,False,False,False,0.727,False,wrong_extraction
-makna,agreed_extracted_match,True,True,kepergianku ke sini membawa makna,kepergianku ke sinE membawa makna,kepergianku ke sini mawak maksod,'kepergianku ke sini mawak maksod,False,False,True,0.824,False,True,True,1.0,False,wrong_extraction
-mayat,agreed_extracted_match,True,True,mayatnya telah dikuburkan,nya telah dikuburkan,jenazahnye lah dikubokan,jaiazahnye lab dikubokan,False,False,True,0.783,False,False,False,0.571,False,wrong_extraction
-melawak,agreed_extracted_match,True,False,mereka melawak di panggung gembira,,mereke melucu di panggong gembira,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-memabukkan,agreed_extracted_match,True,True,jauhilah minuman yg memabukkan,yg mengakibatkan mabok:jauhilah minuman yg mabuk,jaohilah minoman yg mengakibatkan mabok,jaohi1ah minoman yg mengakibatkan mabok,False,False,False,0.533,False,False,True,0.846,False,wrong_extraction
-memaparkan,agreed_extracted_match,True,True,masing-masing memaparkan pendapatnya,masing-masing memaparkan pendapatnya,maseng-maseng menjelaskan pendapatnye,'masig-maseng mijeIaskan pidapainye,True,True,True,1.0,False,False,False,0.348,False,wrong_extraction
-membalut,agreed_extracted_match,True,False,ia membalut kakinya yang terluka,,ia membarut kakinye yang terluke,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-memimpin,agreed_extracted_match,True,False,memimpin tangan adiknya,,membimbeng tangan adeknye,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-memukul,agreed_extracted_match,True,True,dia memukul kakiku,dia pukul kakiku,die memukol kakiku,'die memukol kakiku,False,False,False,0.579,False,True,True,1.0,False,wrong_extraction
-mendata,agreed_extracted_match,True,True,dia mendata kejadian itu,"dia == kejadian itu,",die menyusun date kejadian itu,"'die menyusun date kejadian itu', pendata n pendata; pembukti; menyustm date",False,False,False,0.48,False,False,False,0.491,True,wrong_extraction
-mengajak,agreed_extracted_match,True,True,Amin mengajak temannya mengail,Amin temannya mgai1,Amin ngajak kawannye pegi ngael,Amin ngajak kawannyepegi,False,False,False,0.464,False,False,False,0.69,False,wrong_extraction
-menggotong,agreed_extracted_match,True,True,kami menggotong kayu,kami gosok kayu,kami mawak kayu,'kami mawak kayu,False,False,False,0.24,False,True,True,1.0,False,wrong_extraction
-menggugah,agreed_extracted_match,True,True,nasihatnya menggugah hatiku,nasihatnya gugah hatiku,nasehat die nyadakan ati aku,'nasehat die nyadakan ati aku,False,False,False,0.692,False,True,True,1.0,False,wrong_extraction
-menghukum,agreed_extracted_match,True,True,pemerintah akan menghukum orang yg bersalah,pemerintah akan hukum orang yg bersalah,pemerentah akan ngukom orang yg besalah,'pemerentah akan ngukom orang yg besalah,False,False,True,0.814,False,True,True,1.0,False,wrong_extraction
-mengisap,agreed_extracted_match,True,True,dia mengisap biji mangga,dia isap byi mangga,die ngolom bijik mangge,'die ngolom bijik mangge,False,False,False,0.444,False,True,True,1.0,False,wrong_extraction
-mengukuhkan,agreed_extracted_match,True,True,kegunaan tiang adalah untuk mengukuhkan bangunan,kegunaan Hang,kegunean tiang adelah untok mempekuat bangonan,adalah untuk bangunan,False,False,False,0.182,False,False,False,0.192,False,wrong_extraction
-menimbulkan,agreed_extracted_match,True,False,pekerjaanmu akan menimbulkan bencana,,pekerjeanmu akan berakibat bencane,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-menjunjung,agreed_extracted_match,True,True,ibu sedang menjunjung air,ibu sedang junjung air,mak lagi nyunjong ae,'mak lagi nyunjong ae,False,False,False,0.727,False,True,True,1.0,False,wrong_extraction
-menjurus,agreed_extracted_match,True,True,jalan ini menjurus ke pantai,teros nuju:ja/an mi jurnaiistik kepantal,jalan ini nuju ke pantai,jalan mi nuju ke pantai,False,False,False,0.103,False,False,False,0.72,False,wrong_extraction
-menyerempet,agreed_extracted_match,True,True,mobil itu menyerempet sepeda,mobil itu serempet sepeda,kerete itu menggesel sepeda,'kerete itu menggesel seda,False,False,False,0.714,False,False,True,0.846,False,wrong_extraction
-meresapi,agreed_empty_other,False,True,,dia apayg,,dikatakan orang itu,False,False,False,0.0,False,False,False,0.0,False,FP
-mode,agreed_extracted_match,True,True,mengikuti mode berpakaian,mengikuti mode berpakaian,mengikot gaye bepakaian,meiigikot gaye bepakaian,True,True,True,1.0,False,False,False,0.72,False,wrong_extraction
-motivasi,agreed_extracted_match,True,True,beliau yg memberikan motivasi agar aku tetap sekolah,beliau yg memberikan — agar aku tetap sekolah,beliau yg merikan sokongan agar aku tetap sekolah,'beliau yg merikan sokongan agar aku tetap sekolah,False,False,True,0.755,False,True,True,1.0,False,wrong_extraction
-panjar,agreed_extracted_match,True,False,"sbg tanda jadi, kami membayar panjar separuh",,"sbg tande jadi, kami maya cengkeram separoh",,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-penghematan,agreed_extracted_match,True,True,pemerintah menganjurkan penghematan dl memakai listrik,"tak boros; pemermntah menganjurkan ,hématl dl memakai listrik",pemerentah nganjokan cermat dl makai listrik,'pemereitah nganjokan cermat dl makai listrik,False,False,False,0.536,False,False,True,0.867,False,wrong_extraction
-pengintaian,agreed_no_pair,False,True,,pebuatan atau perihal,,ngintep; tempat ngintep,False,False,False,0.0,False,False,False,0.0,False,FP
-pergi,agreed_extracted_match,True,False,bapak sedang pergi,,bapak sedang kelua,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-perlawanan,agreed_extracted_match,True,False,perlawanan tadi kurang seru,,petandengan tadi kurang seru,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-posisi,agreed_extracted_match,True,True,posisi daerah Riau,daerah Riau,letak daerah Riau,'letak daerah Riau,False,False,False,0.562,False,True,True,1.0,False,wrong_extraction
-representatif,agreed_extracted_match,True,True,data itu kurang representatif,data 1W kurang representatif,data itu kurang pas,'data itu kurang pas,False,False,False,0.71,False,True,True,1.0,False,wrong_extraction
-rimbun,agreed_extracted_match,True,True,pohon itu berdaun rimbun,pohon itu berdaun rimbun,pokok itu bedaon lebat,pokok itu bedaon lebat,True,True,True,1.0,True,True,True,1.0,False,TP
-sakit,agreed_extracted_match,True,True,kakiku terasa sakit terinjak paku,kakiku terasa sakit terinjak paku,kakiku terase bise terinjak paku,'kakiku terase bise terinjak paku,True,True,True,1.0,False,True,True,1.0,False,TP
-semena-mena,agreed_extracted_match,True,False,tindakannye semena-mena,,tindakannye sebarangan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-singgah,agreed_extracted_match,True,True,singgah dulu ke rumah kami,dulu ke rumah kami,mampe dulu ke rumah kami,'mampe dulu ke rumah kami,False,False,False,0.696,False,True,True,1.0,False,wrong_extraction
-sisi,agreed_extracted_match,True,True,sisi kiri,"kin, 'sampeng kid; tepi: sisi",sampeng kiri,"Sungai Siak, 'tepi Sungai Siak",False,False,False,0.097,False,False,False,0.0,True,wrong_extraction
-stagnasi,agreed_extracted_match,True,True,stagnasi lalu lintas,lain lintas,kemacetan lalu lintas,'kemacetan lalu lintas,False,False,False,0.227,False,True,True,1.0,False,wrong_extraction
-tambah,agreed_extracted_match,True,True,"tambah, bu', kata anaknya","bu', kata anaknya,","lagi, mak', kate anaknye","'lagi, mak', kate anaknye, tande tambah",False,False,False,0.652,False,False,False,0.629,False,wrong_extraction
-tampil,agreed_extracted_match,True,True,para pemenang dipersilakan tampil,para pemenang dipersilakan tampil,pare pemenang dipesilakan ke depan,'pare pemenang dipesilakan ke depan,True,True,True,1.0,False,True,True,1.0,False,TP
-target,agreed_extracted_match,True,True,melampaui target,melampaui target,melampaui pekirean,'melampaui pekirean,True,True,True,1.0,False,True,True,1.0,False,TP
-tenda,agreed_extracted_match,True,True,Suku Mantang memasang tenda di sampannya,Suku Mantang memasang tenda di sampannya,Suku Mantang masang kajang di sampannye,'Suku Mantang masang kajang di sampannye,True,True,True,1.0,False,True,True,1.0,False,TP
-tender,agreed_extracted_match,True,True,kami diberi tender oleh pimpinan perusahaan itu,kami diberi tender oleh pimpinan pensahaan itu,kami diberi borongan kerje oleh pimpenan perusahean itu,'kami thbthborongankeijeolthpimpaianperusahean itu,False,False,True,0.851,False,False,False,0.311,False,wrong_extraction
-terapung-apung,agreed_extracted_match,True,True,kapal yg rusak itu terapung-apung di lautan,"kapal 19 yg rusak itu apung di lautan, 'kapal yg rosak itu terapong-rapong dekat laot'",kapal yg rosak itu terapong-rapong dekat laot,"a.rah n tujuan; maksod; asrat; ngadap ke... berjalan tidak tentu --nya, a1an tak tentu tujuannye",False,False,False,0.554,False,False,False,0.035,True,wrong_extraction
-terjangkau,agreed_extracted_match,True,False,apakah cita-citamu itu akan terjangkau,,apekah cite-cite dikau itu akan tecapai,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-terlatih,agreed_extracted_match,True,False,dia telah terlatih dg hal-hal seperti itu,,die lah tebiase dg hal-hal seperti itu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-tukang,agreed_extracted_match,True,True,"kalau mencari pemangkas rambut, di sini ada tukangnya","kalau mencari pemangkas rambut, di sini ada --nya,","kalau mencarik pemangkas rambot, di sini ade ahlinye","'kalau micarik pemangkas rambot, di sini ade ahlinye",False,False,True,0.796,False,False,True,0.868,False,wrong_extraction
-tumbuk,agreed_extracted_match,True,False,kena tumbuk,,kene tinju,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-warisan,agreed_extracted_match,True,False,mendapat warisan,,mendapat pusake,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-zone,agreed_extracted_match,True,False,zone penerbangan,,kawasan penerbangan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+source_lemma,iaa_outcome,c_has_pair,c_kalimat_asal,c_kalimat_tujuan,best_a_kalimat_asal,best_a_kalimat_tujuan,match_strict,match_normalized,match_fuzzy,best_asal_fuzzy_score,best_tuj_fuzzy_score,concatenation_candidate,outcome
+arisan,agreed_extracted_match,True,arisan ibu-ibu PKK,aresan ibuk-ibuk PKK,ibu-ibu PKK,'aresan ibuk-ibuk PKK,False,False,False,0.533,1.0,False,FN
+bantal,agreed_extracted_match,True,bantal guling,bantal guling,guling,anta1 guling,False,False,False,0.364,0.5,False,FN
+bercorak,agreed_extracted_match,True,kain bercorak batik Pekalongan,kaen bemerek batek Pekalongan,kain corak batik Pekalongan,'kaen bemerek batek Pekalongan' 69 co.rat-co.ret n corat-cor; gamba yg tak titu,False,False,False,0.767,0.388,True,FN
+berkirim,agreed_extracted_match,True,kami berkirim barang ini buat adinda di sana,kami bekirem barang ini untok adinde di sane,kami barang mi buat adinda di sana,'kami bekirem barang mi untok,False,False,False,0.651,0.523,False,FN
+cekikan,agreed_extracted_match,True,cekikannya kuat sekali,Cekekan die kuat betol,perangainya kejar sekali,'perangai die koto betol,False,False,False,0.235,0.242,False,FN
+ciptaan,agreed_extracted_match,True,puisi itu ciptaannya,puisi itu buatan die,puisi itu —nva,puisi itu buatan die,False,False,False,0.364,1.0,False,FN
+eksplorasi,agreed_extracted_match,True,eksplorasi sumber minyak di daratan dan lepas pantai,penyelidekkan sumber minyak di darat dan lepas pantai,sumber minyak di,daratan dan lepas pantai,False,False,False,0.292,0.346,False,FN
+empas,agreed_extracted_match,True,dia mengempas diri di tempat tidurnya,die manteng diri dekat tempat tidonye,dia meng-- din di tempat tidurnya,' die manteng din dekat tempat tidonye,False,False,False,0.59,0.806,False,FN
+gabungan,agreed_extracted_match,True,gabungan kayu itu kecil-kecil,ikatan kayu itu kecik-kecik,kayu itu kecil-kecil,'ikatan kayu itu kecik-kecik,False,False,False,0.625,1.0,False,FN
+gores,agreed_extracted_match,True,gores api,pantek api,api,'pantek api,False,False,False,0.143,1.0,False,FN
+gramatika,agreed_extracted_match,True,gramatika Melayu,tate bahase Melayu,Melayu,'tate bahase Melayu,False,False,False,0.286,1.0,False,FN
+horizon,agreed_extracted_match,True,menggapai horizon,ngapai kaki langet,menggapai horizon,'ngapai kaki langet,False,True,True,1.0,1.0,False,TP
+iseng,agreed_extracted_match,True,hanya iseng saja,hanye maen-maen aje,hanya ekor saja,'hanye maen-maen aje,False,False,False,0.35,1.0,False,FN
+jamban,agreed_extracted_match,True,menjaga kebersihan jamban berarti menjaga kesehatan,nyage kebersehan kakos bearti nyage kesehatan,menjaga kebersihan jamban berarti menjaga kesehatan,' nyage kebersehan kakos bearti nyage kesehatan,False,True,True,1.0,1.0,False,TP
+kandas,agreed_extracted_match,True,kapal yg kandas itu telah ditarik,kapal yg sangkot itu lah diterek,kapal yg kandas itu telah ditarik,'kapal yg sangkot itu lah diterek,False,True,True,1.0,1.0,False,TP
+karikatur,agreed_extracted_match,True,gambar karikatur itu sangat bagus,gamba katon itu bagos betol,gam bar karcis itu sangat bagus,'gamba katon itu bagos betol,False,False,False,0.553,1.0,False,FN
+karung,agreed_extracted_match,True,belikan beras sekarung,belikan beras sekantong,belikan beras se—,rb e lik an beras sekantong,False,False,False,0.667,0.607,False,FN
+kegaduhan,agreed_extracted_match,True,kegaduhan itu semakin gawat,kerusohan itu maken gawat,itu semakin gawat,'kerusohan itu maken gawat,False,False,False,0.6,1.0,False,FN
+kekosongan,agreed_extracted_match,True,kekosongan hati,kehampean ati,hati,'ketenangan ati,False,False,False,0.154,0.211,False,FN
+keluarga,agreed_extracted_match,True,ayah mengajak kami mengunjungi keluarga,bapak ngajak kami bejumpe sanak sedare,ayah mengajak kami mengunjungi,'bapak ngajak kami bejumpe sanak sedare,False,False,False,0.735,1.0,False,FN
+kepiting,agreed_extracted_match,True,kepiting bangkang,ketam bangkang,ruang angkase;,angkase lua,False,False,False,0.2,0.176,False,FN
+konsespsi,agreed_extracted_match,True,konsespsi nilai Gurindam 12,pengertian nilai Gurindam 12,lomba baca gurindam dua be/as dilaksanakan esok pagE,'lombe pembacean gurindam due belas dilaksanekan esok pagi,False,False,False,0.138,0.143,True,FN
+koran,agreed_extracted_match,True,koran Riau Pos,surat kaba Riau Pos,Riau Pos,surat kaba Riau Pos,False,False,False,0.5,1.0,False,FN
+lembaga,agreed_extracted_match,True,semalam aku jumpa lembaga,semalam aku jumpe hantu,semalam aku jumpa lembaga,'semalam aku jumpe hantu,False,True,True,1.0,1.0,False,TP
+lipstik,agreed_extracted_match,True,lipstik merah muda,gincu merah mude,merah muda,'gincu merah mude,False,False,False,0.5,1.0,False,FN
+loak,agreed_extracted_match,True,buang kertas itu dl loak,buang kertas itu dl bakol sampah,buang kertas itu dl —,'buang kertas itu dl bakol sampah,False,False,True,0.783,1.0,False,FN
+longgar,agreed_extracted_match,True,baju yg kupakai longgar,baju yg kupakai besa,baju yg kupakai,'baju yg kupakai besa,False,False,False,0.619,1.0,False,FN
+mabuk,agreed_extracted_match,True,"karena minum arak, mereka jadi mabuk","karene minom arak, mereke jadi naneng","karena minum arak, mere/ca jadi","mabuk, 'karene minom arak, merekejadi naneng",False,False,False,0.658,0.727,False,FN
+makna,agreed_extracted_match,True,kepergianku ke sini membawa makna,kepergianku ke sini mawak maksod,kepergianku ke sinE membawa makna,'kepergianku ke sini mawak maksod,False,False,True,0.824,1.0,False,FN
+mayat,agreed_extracted_match,True,mayatnya telah dikuburkan,jenazahnye lah dikubokan,nya telah dikuburkan,jaiazahnye lab dikubokan,False,False,False,0.783,0.571,False,FN
+melawak,agreed_extracted_match,True,mereka melawak di panggung gembira,mereke melucu di panggong gembira,mereka pancing di pantai,'merekengedek di pantaf,False,False,False,0.268,0.214,False,FN
+memabukkan,agreed_extracted_match,True,jauhilah minuman yg memabukkan,jaohilah minoman yg mengakibatkan mabok,yg mengakibatkan mabok:jauhilah minuman yg mabuk,jaohi1ah minoman yg mengakibatkan mabok,False,False,False,0.533,0.846,False,FN
+memaparkan,agreed_extracted_match,True,masing-masing memaparkan pendapatnya,maseng-maseng menjelaskan pendapatnye,masing-masing memaparkan pendapatnya,'masig-maseng mijeIaskan pidapainye,False,False,False,1.0,0.348,False,FN
+membalut,agreed_extracted_match,True,ia membalut kakinya yang terluka,ia membarut kakinye yang terluke,kakinya abses,'kakinye putos,False,False,False,0.171,0.171,False,FN
+memimpin,agreed_extracted_match,True,memimpin tangan adiknya,membimbeng tangan adeknye,tan gan adiknya,'membimbeig tangan adeknye,False,False,False,0.435,0.769,False,FN
+memukul,agreed_extracted_match,True,dia memukul kakiku,die memukol kakiku,dia pukul kakiku,'die memukol kakiku,False,False,False,0.579,1.0,False,FN
+mendata,agreed_extracted_match,True,dia mendata kejadian itu,die menyusun date kejadian itu,"dia == kejadian itu,","'die menyusun date kejadian itu', pendata n pendata; pembukti; menyustm date",False,False,False,0.48,0.491,True,FN
+mengajak,agreed_extracted_match,True,Amin mengajak temannya mengail,Amin ngajak kawannye pegi ngael,Amin temannya mgai1,Amin ngajak kawannyepegi,False,False,False,0.464,0.69,False,FN
+menggotong,agreed_extracted_match,True,kami menggotong kayu,kami mawak kayu,kami gosok kayu,'kami mawak kayu,False,False,False,0.24,1.0,False,FN
+menggugah,agreed_extracted_match,True,nasihatnya menggugah hatiku,nasehat die nyadakan ati aku,nasihatnya gugah hatiku,'nasehat die nyadakan ati aku,False,False,False,0.692,1.0,False,FN
+menghukum,agreed_extracted_match,True,pemerintah akan menghukum orang yg bersalah,pemerentah akan ngukom orang yg besalah,pemerintah akan hukum orang yg bersalah,'pemerentah akan ngukom orang yg besalah,False,False,True,0.814,1.0,False,FN
+mengisap,agreed_extracted_match,True,dia mengisap biji mangga,die ngolom bijik mangge,dia isap byi mangga,'die ngolom bijik mangge,False,False,False,0.444,1.0,False,FN
+mengukuhkan,agreed_extracted_match,True,kegunaan tiang adalah untuk mengukuhkan bangunan,kegunean tiang adelah untok mempekuat bangonan,untuk membuat gula adalah tebu,'bahan untok muat gule adelah tebu,False,False,False,0.211,0.254,False,FN
+menimbulkan,agreed_extracted_match,True,pekerjaanmu akan menimbulkan bencana,pekerjeanmu akan berakibat bencane,pekerjaan angker,pekerjean yg bedose,False,False,False,0.216,0.231,False,FN
+menjunjung,agreed_extracted_match,True,ibu sedang menjunjung air,mak lagi nyunjong ae,ibu sedang junjung air,'mak lagi nyunjong ae,False,False,False,0.727,1.0,False,FN
+menjurus,agreed_extracted_match,True,jalan ini menjurus ke pantai,jalan ini nuju ke pantai,jalan ke rumahnva belok kantin,jalan ke rumahnya belok kann,False,False,False,0.149,0.143,False,FN
+menyerempet,agreed_extracted_match,True,mobil itu menyerempet sepeda,kerete itu menggesel sepeda,mobil itu serempet sepeda,'kerete itu menggesel seda,False,False,False,0.714,0.846,False,FN
+meresapi,agreed_empty_other,False,,,,,False,False,False,0.0,0.0,False,TN
+mode,agreed_extracted_match,True,mengikuti mode berpakaian,mengikot gaye bepakaian,mengikuti mode berpakaian,meiigikot gaye bepakaian,False,False,False,1.0,0.72,False,FN
+motivasi,agreed_extracted_match,True,beliau yg memberikan motivasi agar aku tetap sekolah,beliau yg merikan sokongan agar aku tetap sekolah,beliau yg memberikan — agar aku tetap sekolah,'beliau yg merikan sokongan agar aku tetap sekolah,False,False,True,0.755,1.0,False,FN
+panjar,agreed_extracted_match,True,"sbg tanda jadi, kami membayar panjar separuh","sbg tande jadi, kami maya cengkeram separoh","sbg tanda jadi, kami membayar panjang 289 separuh,","'sbg tande jadi, kami maya caigkeram saroh",False,False,False,0.796,0.702,False,FN
+penghematan,agreed_extracted_match,True,pemerintah menganjurkan penghematan dl memakai listrik,pemerentah nganjokan cermat dl makai listrik,"tak boros; pemermntah menganjurkan ,hématl dl memakai listrik",'pemereitah nganjokan cermat dl makai listrik,False,False,False,0.536,0.867,False,FN
+pengintaian,agreed_no_pair,False,,,,,False,False,False,0.0,0.0,False,TN
+pergi,agreed_extracted_match,True,bapak sedang pergi,bapak sedang kelua,bapak sedang,sedang kelua,False,False,False,0.625,0.625,False,FN
+perlawanan,agreed_extracted_match,True,perlawanan tadi kurang seru,petandengan tadi kurang seru,badannya kurang subur,'badannye kurang sthat,False,False,False,0.189,0.184,False,FN
+posisi,agreed_extracted_match,True,posisi daerah Riau,letak daerah Riau,daerah Riau,'letak daerah Riau,False,False,False,0.562,1.0,False,FN
+representatif,agreed_extracted_match,True,data itu kurang representatif,data itu kurang pas,data 1W kurang representatif,'data itu kurang pas,False,False,False,0.71,1.0,False,FN
+rimbun,agreed_extracted_match,True,pohon itu berdaun rimbun,pokok itu bedaon lebat,pohon itu berdaun rimbun,pokok itu bedaon lebat,True,True,True,1.0,1.0,False,TP
+sakit,agreed_extracted_match,True,kakiku terasa sakit terinjak paku,kakiku terase bise terinjak paku,kakiku terasa sakit terinjak paku,'kakiku terase bise terinjak paku,False,True,True,1.0,1.0,False,TP
+semena-mena,agreed_extracted_match,True,tindakannye semena-mena,tindakannye sebarangan,tindakannye sah,'tindakannye sebarangan,False,False,False,0.524,1.0,False,FN
+singgah,agreed_extracted_match,True,singgah dulu ke rumah kami,mampe dulu ke rumah kami,dulu ke rumah kami,'mampe dulu ke rumah kami,False,False,False,0.696,1.0,False,FN
+sisi,agreed_extracted_match,True,sisi kiri,sampeng kiri,kiriman,'memindahkan kireman,False,False,False,0.2,0.08,False,FN
+stagnasi,agreed_extracted_match,True,stagnasi lalu lintas,kemacetan lalu lintas,la/u lintas,'tande-tande lalu lintas,False,False,False,0.286,0.423,False,FN
+tambah,agreed_extracted_match,True,"tambah, bu', kata anaknya","lagi, mak', kate anaknye","bu', kata anaknya,","'lagi, mak', kate anaknye, tande tambah",False,False,False,0.652,0.629,False,FN
+tampil,agreed_extracted_match,True,para pemenang dipersilakan tampil,pare pemenang dipesilakan ke depan,para pemenang dipersilakan tampil,'pare pemenang dipesilakan ke depan,False,True,True,1.0,1.0,False,TP
+target,agreed_extracted_match,True,melampaui target,melampaui pekirean,melampaui target,'melampaui pekirean,False,True,True,1.0,1.0,False,TP
+tenda,agreed_extracted_match,True,Suku Mantang memasang tenda di sampannya,Suku Mantang masang kajang di sampannye,Suku Mantang memasang tenda di sampannya,'Suku Mantang masang kajang di sampannye,False,True,True,1.0,1.0,False,TP
+tender,agreed_extracted_match,True,kami diberi tender oleh pimpinan perusahaan itu,kami diberi borongan kerje oleh pimpenan perusahean itu,kami diberi tender oleh pimpinan pensahaan itu,'kami thbthborongankeijeolthpimpaianperusahean itu,False,False,False,0.851,0.311,False,FN
+terapung-apung,agreed_extracted_match,True,kapal yg rusak itu terapung-apung di lautan,kapal yg rosak itu terapong-rapong dekat laot,kapal yg kandas itu telah ditarik,'kapal yg sangkot itu lah diterek,False,False,False,0.232,0.211,False,FN
+terjangkau,agreed_extracted_match,True,apakah cita-citamu itu akan terjangkau,apekah cite-cite dikau itu akan tecapai,hal itu akan terjadi,'tentu hal itu akan tejadi,False,False,False,0.342,0.213,False,FN
+terlatih,agreed_extracted_match,True,dia telah terlatih dg hal-hal seperti itu,die lah tebiase dg hal-hal seperti itu,dia telah madat dg mkok,'die lah nageh dg rokok,False,False,False,0.208,0.17,False,FN
+tukang,agreed_extracted_match,True,"kalau mencari pemangkas rambut, di sini ada tukangnya","kalau mencarik pemangkas rambot, di sini ade ahlinye","kalau mencari pemangkas rambut, di sini ada --nya,","'kalau micarik pemangkas rambot, di sini ade ahlinye",False,False,True,0.796,0.868,False,FN
+tumbuk,agreed_extracted_match,True,kena tumbuk,kene tinju,kena --,'kene jel,False,False,False,0.273,0.273,False,FN
+warisan,agreed_extracted_match,True,mendapat warisan,mendapat pusake,mendapat —,'mendapat pusake,False,False,False,0.467,1.0,False,FN
+zone,agreed_extracted_match,True,zone penerbangan,kawasan penerbangan,penerbangan,'kawasan penerbangan,False,False,False,0.643,1.0,False,FN
