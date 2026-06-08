@@ -1,142 +1,142 @@
-dict_id,kata_asal,c_has_pair,a_has_pair,c_kalimat_asal,a_kalimat_asal,c_kalimat_tujuan,a_kalimat_tujuan,match_asal_strict,match_asal_normalized,match_asal_fuzzy,match_asal_fuzzy_score,match_tujuan_strict,match_tujuan_normalized,match_tujuan_fuzzy,match_tujuan_fuzzy_score,concatenation_candidate,outcome
-54,akhirat,True,False,apakah kamu percaya dengan hari akhirat?,,aileuk nu agaik nenda gogoi kalepakat polak?,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,akhlak,True,True,akhlak patut diteladani,"kelakuannya, dia disisihkan orang kampung, luakhlaklut kalajet nia, ia dasaraakek ta kalaggaijat",paraboat nia maeruk ta ului,"paturdi telaakhlak dani, paraboat nia maeruk ta ului a.ki.bat n luakhlaktut: —",False,False,False,0.071,False,False,False,0.357,True,wrong_extraction
-54,akibat,True,False,"akibat kelakuannya, dia disisihkan orang kampung",,"lulut kalajet nia, ia dasaraakek ta kalaggaijat",,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,akrab,True,False,kami akrab sekali dengannya,,maeruk ku paalei kai,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,aku,True,True,aku berasal dari Sipora,aku sibara ka Sipora,aku sibara ka Sipora,berasal dari Sipora,False,False,False,0.226,False,False,False,0.172,False,wrong_extraction
-54,alam,True,True,alam ini ciptaan Tuhan,nenek ciptaan tai kamanua,polak nenek ciptaan tai kamanua,mi ciptaan Tuhan. polak,False,False,False,0.229,False,False,False,0.282,False,wrong_extraction
-54,almari,True,False,almari ini bagus,,lammari neknek maekuk,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,alu,True,False,ambil alu itu untuk penumbuk padi ini,,alah tutudduk nera pasi tudduk buak nera,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,berakibat,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,mengalir,True,False,air sungai ini mengalir ke laut,,oinan neknek moi muenung ka koat,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,akhirat,True,False,apakah kamu percaya dengan hari akhirat?,,aileuk flu agaik nenda gogoi ka- lepakat polak?,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,akhlak,True,True,akhlak patut di teladani?,"kelakuannya, dia disisihkan orang kampung, luakhlaklut kalajet nia, ia dasaraakek ta kalaggaijat",paraboat nia maeruk ta ului,"paturdi telaakhlak dani, paraboat nia maeruk ta ului a.ki.bat n luakhlaktut: —",False,False,False,0.071,False,False,False,0.357,True,wrong_extraction
-54,arang,True,True,kayu itu sudah menjadi arang,loinak nedda aibalivat sese,loinak nedda aibaliuat sese,kayu itu sudah menarang jadi arang,False,False,False,0.0,False,False,False,0.0,False,wrong_extraction
-54,aren,True,True,gula aren itu dibuat di sini,gulo paoula nera ara galai senek,gulo paoula nera ara galai senek,gula aren itu dibuat di sini,False,False,False,0.125,False,False,False,0.125,False,wrong_extraction
-54,arloji,True,False,pukul berapa di arlojimu?,,bok-bok pika ka jamnu?,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,arti,True,False,apa arti kata itu?,,katukolobat nga-nga nedda?,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,arus,True,False,sungai itu arusnya deras,,bagat oinan nedda tuloktak nia maroi-rai,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,arwah,True,False,semoga arwahnya diterima di sisi Tuhan,,bulek ketcat nia isilok ka bek-bek Tuhan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,asah,True,True,asah pisau itu supaya tajam,asai pisau neknek bulek ima rauru,asai pisau neknek bulek ima rauru,asah pisau itu supaya tajam,False,False,False,0.125,False,False,False,0.125,False,wrong_extraction
-54,asal,True,False,batas asalnya tidak diketahui lagi,,song kabaraijat siboikit tat tuagai,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,asam,True,True,di sini banyak pohon asam,senek maigi loinak rimau,senek maigi loinak rimau,di sini banvakpohon asamasam,False,False,False,0.023,False,False,False,0.0,False,wrong_extraction
-54,asap,True,True,bau asap kemenyan itu tercium sampai ke sini,butek kujug kemenyan nedda tuping seret senek,butek kujug kemenyan nedda tuping seret senek,bau asap kemen van itu tercium sampai ke sini,False,False,False,0.107,False,False,False,0.063,False,wrong_extraction
-54,asbak,True,False,masukkan puntung rokok itu ke dalam asbak ini,,bulukakek mung-mungan ubek nedda ka asbak neknek,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,asin,True,True,gulai itu terlalu asin,pahit mapongit,gulei nedda seget makkaop,rasa,False,False,False,0.0,False,False,False,0.0,False,wrong_extraction
-54,asli,True,False,ini emas asli,,nek-nek emas asli,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,asrama,True,False,ini asrama anak-anak,,nek-nek asrama tatoga,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,atap,True,True,atap rumah kami bocor,tobat lalep mai malobok,tobat lalep mai malobok,atap rumah kami bocor,False,False,False,0.0,False,False,False,0.0,False,wrong_extraction
-54,atas,True,False,dari atas bukit pemandangan itu dapat kita lihat,,ka batat leleu pemandangan nedda moi ta iccok nia,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,atau,True,False,ini atau itu?,,nek-nek sabba nedda?,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,aum,True,False,aum harimau itu kedengaran sampai ke sini,,singak harimau nedda tu arep teret senek,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,aurat,True,False,kita tidak boleh memperlihatkan aurat kita,,sita tak moi-moi ta iccok akek aurat ta,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,aus,True,True,sepatu itu telah aus,sepatu nedda amakatakan,sepatu nedda amakatakan,sepatu itu telah aus,False,False,False,0.156,False,False,False,0.156,False,wrong_extraction
-54,awak,True,False,"awak sakit, jangan diganggu",,ai aku mabesik bak eenggeu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,awal,True,False,awal tahun ini bukan musim hujan,,panaddat rura nek-nek tak na urat,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,awan,True,True,awan sudah menghitam dan sebentar lagi hujan turun,tanaik rusa ama pusukan ta ailek am uju belek urat; berawan matanaik rusa,tanaik rusa ama pusukan ta ailek am uju belek urat,awan sudah men gawan hitam dan sebentar lagi hujan turun,False,False,False,0.052,False,False,False,0.034,False,wrong_extraction
-54,ayah,True,True,ayah sudah pergi ke ladang,ukkui ameian nia ka mene,ukkui ameian nia ka mene,ayah sudah pergi ke ladang,False,False,False,0.0,False,False,False,0.0,False,wrong_extraction
-54,ayal,True,False,"tak ayal lagi, dia adalah teman lama saya",,"tak masipatu lek, nia aleiku siburuk",,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,ayam,True,False,ayam kami sedang bertelur,,gouk-gouk mai ai mu attelu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,ayo,True,False,ayo pergi,,katui tutan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bab,True,True,ini bab satu buku itu,mekne sara buko nedda,mekne sara buko nedda,mi bab satu buku iru,False,False,False,0.086,False,False,False,0.088,False,wrong_extraction
-54,babad,True,True,ini babad tanah Jawa,nekne tadde pola Jawa,nekne tadde pola Jawa,mi babad tanah Jawa,False,False,False,0.121,False,False,False,0.125,False,wrong_extraction
-54,babak,True,True,babak satu cerita itu sudah berakhir,kateteret sara pumumuan nera atataan,kateteret sara pumumuan nera atataan,babak satu cerita itu sudah berakhir,False,False,False,0.032,False,False,False,0.032,False,wrong_extraction
-54,babi,True,False,di sini banyak rakyat memelihara babi,,sene maigi tai kalaggajat masi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,baca,True,True,baca buku itu,baca buko nedda,baca buko nedda,baca buku iru,False,False,False,0.333,False,False,False,0.333,False,wrong_extraction
-54,badai,True,True,kampung itu hancur diserang badai,laggai nera katai di serarang rusa,laggai nera katai di serarang rusa,kampung itu hancur diserang badai,False,False,False,0.111,False,False,False,0.111,False,wrong_extraction
-54,badak,True,True,di daerah ini tidak terdapat badak,kalagagi nekne tak anai sibara,kalagagi nekne tak anai sibara,di daerah mi tidak terdapat badak,False,False,False,0.017,False,False,False,0.018,False,wrong_extraction
-54,badan,True,True,badannya gemuk dan besar,tubunia mamokmok sabbadan bat abeu,tubunia mamokmok sabbat abeu,badan nya gemuk dan besar,False,False,False,0.106,False,False,False,0.0,False,wrong_extraction
-54,beratur,True,False,buku-buku itu beratur rapi,,buko-buko nedda seget eruk,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,berayun-ayun,True,False,kera itu sedang berayun-ayun di pohon,,siteot nedda ai masituddaiakek loinak,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,membabat,True,True,dia membabat hutan itu sesukanya,nia masitadde loina siobakna lee,nia masitadde loina siobakna lee,dia membabat hutan itu sesukanya,False,False,False,0.035,False,False,False,0.035,False,wrong_extraction
-54,membacok,True,True,dia membacok musuhnya berkali-kali,nia masitektek lawa wan nia sibacok mareirei,nia masitektek lawa wan nia simareirei,dia membacok musuhnya berkalibacokkali,False,False,False,0.117,False,False,False,0.033,False,wrong_extraction
-54,mengaso,True,True,lebih baik mengaso kalau sudah lelah,"kelek masagongan as.ra.ma n asrama: ini—anakasoanak, nekasonek asrama tatoga",maeruk pailek muari kelek masagongan,"iebih baik mengaso kalau sudah lelah, maeruk pailek muari",False,False,False,0.033,False,False,False,0.288,True,wrong_extraction
-54,mengasuh,True,True,saya mengasuh anaknya kalau dia pergi,aku masiurau toga nia kelek mel nia,aku masiurau toga nia kelek mei nia,saya mengasuh anaknya kalau dia pergi,False,False,False,0.066,False,False,False,0.066,False,wrong_extraction
-54,mengasung,True,True,mengasung itu sudah mati,pasiubbuk nedda amateiam,pasiubbuk nedda amateiam,mengasung itu sudah mati,False,False,False,0.023,False,False,False,0.023,False,wrong_extraction
-54,mengawai,True,False,dia mengawai tangan saya,,ia masirape kabeiku,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,mengayak,True,True,adik sedang mengayak tepung,bagi ai aiyak tapung,bagi ai aiyak tapung,adik sedang mengayak tepung,False,False,False,0.139,False,False,False,0.139,False,wrong_extraction
-54,badung,True,True,dia anak badung,"kucing dan anjing saja, kekleek maok sabbadung bat jokjok leek",nera toga tabut,"dia anak badung, nera toga tabut ba.gai n kekleek: badung",False,False,False,0.102,False,False,False,0.25,True,wrong_extraction
-54,bagai,True,False,bagai kucing dan anjing saja,,kekleek maok sabbat jokjok leek,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bagaimana,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bagak,True,False,dia orang bagak kampung kami,,nia sirimanua si magege kalaggai mai,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bagi,True,True,bagi kue ini dengan teman-temanmu,rubei kue nekne kasa aleinu,rubei kue nekne kasa aleimu,bagi kue mi dengan temanbagitemanmu,False,False,False,0.082,False,False,False,0.082,False,wrong_extraction
-54,bahan,True,True,bahan bangunan,"balajet lalep ba.ha.sa n nganga: bahan arab itu sulit, anganga Arab nedda takmalabbahan bei",balajet lalep,"bahan bangunan,",False,False,False,0.09,False,False,False,0.0,True,wrong_extraction
-54,bahasa,True,False,bahasa arab itu sulit,,anganga Arab nedda takmalabbei,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,baik,True,True,nasibnya selalu baik,amat masiurau itik kaiktikad lalepnia,nasibnia sarat simaeruk,amat beternak iktikad di ruiktikad inahnya,False,False,False,0.061,False,False,False,0.019,False,wrong_extraction
-54,baju,True,False,baju adik sedag dijahit,,leppei bagi aitu jajahit,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bak,True,False,kedua bersaudara itu bak pinang dibelah dua,,nedda kelek pinang tusila na,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bakau,True,False,pohon bakau banyak tumbuh di tepi pantai,,loinak bakat maigi mutuktuk ka betbet koat,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bakhil,True,True,orang kaya itu bakhil sekali,sirimanua tubut simakayo nenda,sirimanua tubut sikamayo nenda,orang kaya itu bakhil sekali,False,False,False,0.019,False,False,False,0.0,False,wrong_extraction
-54,baki,True,True,letakkan minuman itu di atas baki,taroakek bk nenda kapata,taroakek lok nenda kapata,letakkan minuman itu di aras baki,False,False,False,0.02,False,False,False,0.0,False,wrong_extraction
-54,bakiak,True,False,sekarang jarang sekali orang main bakiak,,kinegege tubut takmaigi sirimanua masipakai,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,baling,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,baling-baling,True,False,baling-baling itu berputar sesuai arah angin,,baling-baling nera muputar ka matat rusa,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,balon,True,False,ayah membelikan adik balon karet untuk mainannya,,ukkui masisakek balon kabagit mainani,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,balut,True,True,balut ;ukamu dengan perban,tabut lukamu dengan perban,tabut lukamu dengan perban,balut lukamu dengan perban,False,False,False,0.6,False,False,True,0.778,False,wrong_extraction
-54,bambu,True,False,di sini banyak tumbuh bambu yang besar-besar,,senemaigi mutuk-tuk maggeak simabeugat,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bandar,True,False,para petani bergotong-royong membersihkan bandar,,petani mugotong royong masilianakek salokat,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bandel,True,True,anak bandel itu dihukum gurunya,toganera iukum guruniai,tonagera iukum guruniai,anak bandel itu dihukum gurunya,False,False,False,0.19,False,False,False,0.19,False,wrong_extraction
-54,bandit,True,True,bandit itu sudah tertangkap,bandit nenda atu tangkap,bandit nenda atu tangkap,bandit itu sudah terbandit rangkap,False,False,False,0.306,False,False,False,0.256,False,wrong_extraction
-54,bangau,True,True,setinggi-tinggi bangau terbang surutnya ke kubangan,sigit buang suiruk mutuitui tubangau toilinia ka kabagan,sigit buang suiruk mututui tutoilinia ka kabagan,seringgibangautinggi bangau terbang surutnya ke kubangan,False,False,False,0.154,False,False,False,0.077,False,wrong_extraction
-54,bangga,True,True,saya bangga dengan kemenangan itu,aku umun kalulut mamanang,aku umun kalulut mamanang,saya bangga dengan kemenangan itu,False,False,False,0.064,False,False,False,0.064,False,wrong_extraction
-54,bangkai,True,False,bangkai anjing itu terapung di sungai,,jokjok simamatai nena mutebbuk ka oinan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bangkit,True,True,dia bangkit dari duduknya,atu suruan nia ka udibangkit nai,atu suruan nia ka udinai,dia bangkit dan duduknya,False,False,False,0.152,False,False,False,0.048,False,wrong_extraction
-54,banjir,True,True,banjir telah merusak tanaman pangan kita,eba masih pakataik uremen,eba masih pakataik uremen,banjir telah merusak tanabanjir man pangan kita,False,False,False,0.017,False,False,False,0.033,False,wrong_extraction
-54,bantah,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bantai,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bantal,True,False,tolong ambilkan bantal itu saya mau tidur,,rob matalak tulunan nera aku merep,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,banteng,True,False,hati-hatilah banteng itu mau menanduk,,pulelek banteng nera iobak masitanduk,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,banting,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bantu,True,True,bantulah kami sekadarnya,rop kai simemet nia,rop kai simemet nia,bantu lah kami sekadarnya,False,False,False,0.054,False,False,False,0.053,False,wrong_extraction
-54,bantuan,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,banyak,True,True,uang kami tidak banyak,Bulagat mai tak maigi,bulagat mai tak maigi,u ang kami tidak banyak,False,False,False,0.057,False,False,False,0.056,False,wrong_extraction
-54,bapak,True,True,bapak kami bekerja sebagai nelayan,ukkui mai musalai sebagai nelayan,ukkui mai musalai sebagai nelayan,bapakbapak kami bekerja sebagai nelayan,False,False,False,0.304,False,False,False,0.292,False,wrong_extraction
-54,baptis,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bara,True,True,siramlah bara itu supaya tidak berbahaya,subui boo nera pei tak berbahaya,subui boo nera pei tak berbahaya,siranilah baptisbaptis itu supava tidak berbahava,False,False,False,0.196,False,False,False,0.125,False,wrong_extraction
-54,barang,True,True,semua barangnya sudah terjual,"adik dibelikan baju barang. oleh ayah, Ukkui aisaki akek leppei sibau bagi",sangamberi bibilet atu sakiakeat,"semua barang nya sudah terjual, sangamberi bibilet atu sakiakeat ba.ru a sibau:",False,False,False,0.056,False,False,False,0.417,True,wrong_extraction
-54,baru,True,False,adik dibelikan baju baru oleh ayah,,ukkui aisaki akek leppei sibau bagi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,baskom,True,False,ambil baskom itu untuk tempat air,,alak baskom nera lelengan oinan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,basuh,True,True,basuh tanganmu dengan air ini,"bui kabeinu samba oman nenek; membasuh masibui ba.tang n loinak: basuh kayu itu men gbasuh halangi jalan, loinak nera masibasuh saila enungan",bui kabeimu samba oinan nenek,"basuh tanganmu dengan air mi,",False,False,False,0.073,False,False,False,0.041,True,wrong_extraction
-54,batang,True,False,batang kayu ini menghalangi jalan,,loinak nera masisaila enungan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,batuk,True,False,batuknya sudah parah,,kokkloni ama kopek,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bawah,True,False,ambil buku yang di bawah meja itu,,alak buku nera karepek meja nera,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bebek,True,False,kami memelihara bebek dan ayam,,kai masijago bebek samba gou-gou,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,becek,True,False,jalan ini selalu becek kalau hari hujan,,enungan nenek malotik kalulut urat,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,beda,True,True,beda harga baju ini dan baju itu tidak banyak,tak makerek saki leppei nenek samba nera berbeda pasara,tak makerek saki leppei nenek samba nera,beda harga bajii mi dan haju itu tidak ban yak,False,False,False,0.062,False,False,False,0.014,False,wrong_extraction
-54,bedak,True,False,pakailah bedak ini untuk merawat wajahmu,,pake ian nenek untuk sipasilakgek,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bedil,True,False,tentara itu slalu membawa bedil,,tentara nera seget iabbit,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,beduk,True,False,setiap masuk waktu sembahyang beduk itu dipukul,,senen tubuluk gogoi sumbahyang beduk nera tubobok,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bedung,True,True,toga bayi itu perlu dicuci,toga nera perlu tulibedung nakakek,toga nera perlu tulinakek,bedung bayi itu perlu dicuci,False,False,False,0.167,False,False,False,0.114,False,wrong_extraction
-54,bega,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bekal,True,False,ini bekalmu untuk perjalanan besok,,nenek balutmui untuk muenung kam maccep,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,bekas,True,False,bekas luka kakinya masih tampak,,balak bongbong karere nia tuiccok peilek,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,beker,True,False,letakkan beker itu dekat tempat tidur,,galag akek beker nera ka bebet pereman,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,belah,True,False,belahlah kelapa itu,,silak toitet nera,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,berbahasa,True,True,-,Nasibnia sarat simaeruk,-,nasibnya selalu bahan,False,False,False,0.0,False,False,False,0.0,True,wrong_extraction
-54,berbaju,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,berbaling,True,True,-,ukkui masisakek balon kabagit mainani,-,ayah membelikan adik baling karet untuk mainannya,False,False,False,0.0,False,False,False,0.0,True,wrong_extraction
-54,berbantal,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,berbedak,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,berbega,True,False,elang itu terbang berbega,,makgok nera tuburut,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,berbekal,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,dibagi,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,dibantu,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,kebaikan,True,True,-,leppei bagi aitu jajahit,-,adik sedang dijahit,False,False,False,0.0,False,False,False,0.0,True,wrong_extraction
-54,membagi,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,membagi-bagikan,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,membalut,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,membanggakan,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,membantah,True,True,dia suka membantah perintah ayahnya,nia obak gugulat ukkuinia,nia obak gugulat ukkuinia,dia suka membantah perintah ayahnya,False,False,False,0.02,False,False,False,0.02,False,wrong_extraction
-54,membantai,True,True,kami membantai dua ekor sapi untuk pesta,"tulunan: tolong ambilkan bantai itu saya mau tidur, rob matabantai lak tulunan nera aku merep",kai rua ngamuneng sapi untuk punen,"kami membantai dua ekor sapi untuk pesta, Kai ma ngamuneng sapi untuk punen ban.tal n",False,False,False,0.064,False,False,False,0.386,True,wrong_extraction
-54,membanting,True,True,dia membaning tikus itu sampai mati,nia birut nera teret matei,nia bitut nera tetret matei,Dia membanting tikus itu sambanting pai nati,False,False,False,0.056,False,False,False,0.034,False,wrong_extraction
-54,membantu,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,membanyakkan,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,membaptis,True,True,pendeta sudah membaptis anak itu,pandita alepakan masi lappeni toga nera,pandita alepakan masilappeni toga nera,pendeta sudah membaptis anak itu,False,False,False,0.031,False,False,False,0.031,False,wrong_extraction
-54,membedaki,True,True,-,"masuk wakru sembahyang beda itu dipukul, sebeda nen tubuluk gogoi sumbayang beduk nera tubobok",-,"tenrara itu selalu membawa beda, tentara nera seget iabbit be.duk n beduk: setiap",False,False,False,0.0,False,False,False,0.0,True,wrong_extraction
-54,memperbaiki,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,memperbanyak,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,pembaptisan,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,perbaikan,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,sebagai,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,sebagaimana,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-54,terbanyak,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+dict_id,kata_asal,c_has_pair,c_kalimat_asal,c_kalimat_tujuan,best_a_kalimat_asal,best_a_kalimat_tujuan,match_strict,match_normalized,match_fuzzy,best_asal_fuzzy_score,best_tuj_fuzzy_score,concatenation_candidate,outcome
+54,akhirat,True,apakah kamu percaya dengan hari akhirat?,aileuk nu agaik nenda gogoi kalepakat polak?,seuk akek kampak nera tubut rom,pasak kapak itu kuat pasak kuat,False,False,False,0.065,0.071,False,FN
+54,akhlak,True,akhlak patut diteladani,paraboat nia maeruk ta ului,"kelakuannya, dia disisihkan orang kampung, luakhlaklut kalajet nia, ia dasaraakek ta kalaggaijat","paturdi telaakhlak dani, paraboat nia maeruk ta ului a.ki.bat n luakhlaktut: —",False,False,False,0.071,0.357,True,FN
+54,akibat,True,"akibat kelakuannya, dia disisihkan orang kampung","lulut kalajet nia, ia dasaraakek ta kalaggaijat","kelakuannya, dia disisihkan orang kampung, luakhlaklut kalajet nia, ia dasaraakek ta kalaggaijat","paturdi telaakhlak dani, paraboat nia maeruk ta ului a.ki.bat n luakhlaktut: —",False,False,False,0.422,0.109,True,FN
+54,akrab,True,kami akrab sekali dengannya,maeruk ku paalei kai,"kelakuannya, dia disisihkan orang kampung, luakhlaklut kalajet nia, ia dasaraakek ta kalaggaijat","paturdi telaakhlak dani, paraboat nia maeruk ta ului a.ki.bat n luakhlaktut: —",False,False,False,0.048,0.073,True,FN
+54,aku,True,aku berasal dari Sipora,aku sibara ka Sipora,aku sibara ka Sipora,berasal dari Sipora,False,False,False,0.226,0.172,False,FN
+54,alam,True,alam ini ciptaan Tuhan,polak nenek ciptaan tai kamanua,nenek ciptaan tai kamanua,mi ciptaan Tuhan. polak,False,False,False,0.229,0.282,False,FN
+54,almari,True,almari ini bagus,lammari neknek maekuk,kamone gaek maigi bakkat markisa,di ladang kakek banyak pohon markisa,False,False,False,0.075,0.061,False,FN
+54,alu,True,ambil alu itu untuk penumbuk padi ini,alah tutudduk nera pasi tudduk buak nera,pake ian nenek untuk sipasilakgek,pakailah beda mi Unbeda tuk merawat wajahmu,False,False,False,0.085,0.082,False,FN
+54,berakibat,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,mengalir,True,air sungai ini mengalir ke laut,oinan neknek moi muenung ka koat,ai tipok aku tetunga kali,di tempeieng kepalaku tiga kali,False,False,False,0.087,0.074,False,FN
+54,akhirat,True,apakah kamu percaya dengan hari akhirat?,aileuk flu agaik nenda gogoi ka- lepakat polak?,seuk akek kampak nera tubut rom,pasak kapak itu kuat pasak kuat,False,False,False,0.065,0.067,False,FN
+54,akhlak,True,akhlak patut di teladani?,paraboat nia maeruk ta ului,"ubi itu meramakal bat di tanah, ngongat gobik nera mulalak ka polak","manusia adalah makhluk = =, sirimanua niatek tarimeu a.kar n ngongat: akal",False,False,False,0.077,0.08,True,FN
+54,arang,True,kayu itu sudah menjadi arang,loinak nedda aibaliuat sese,"nia Ieiah a masaggo: tampaknya mereka sudah—, kelekmasaggongan sia","sungai besar iru hanvak —nva, baganoinan nedda maigi tunang",False,False,False,0.077,0.111,True,FN
+54,aren,True,gula aren itu dibuat di sini,gulo paoula nera ara galai senek,gulo paoula nera ara galai senek,gula aren itu dibuat di sini,False,False,False,0.125,0.125,False,FN
+54,arloji,True,pukul berapa di arlojimu?,bok-bok pika ka jamnu?,"gai itu arloji nya deras, bagatoinan neddatuloktak nia maroiarlojirai ar.wah n ketcat: semoga arloji nya diarloji. terima di sisi Tuhan, bulek ketcat nia isilok ka bekarlojibek Tuhan","pukul berapa di arloji mu?, bokarlojibok pika ka jamnu? ar.ti n katukolobat: apa arlojiarloji kata itu?, po'i katukolobat ngaarlojinga nedda?; berarti kolobat a.rus n toloktak: sun",False,False,False,0.076,0.109,True,FN
+54,arti,True,apa arti kata itu?,katukolobat nga-nga nedda?,na mei samba kapak,mereka berangkat dengan kapal,False,False,False,0.069,0.065,False,FN
+54,arus,True,sungai itu arusnya deras,bagat oinan nedda tuloktak nia maroi-rai,"du.ri n rui:— bunga mawar itu pandunia jang, rui bunga mawar nera siata","namanya rerkenal di dalam dunia kesenian, ara agaianoni nia kabagan polak kesenian",False,False,False,0.083,0.071,True,FN
+54,arwah,True,semoga arwahnya diterima di sisi Tuhan,bulek ketcat nia isilok ka bek-bek Tuhan,"nasibku, oi tuhan, seget kataik sikuat tubukki ya.kin a makua baga: hakim wasiat akan kesalahan terdakwa, hakim makua baga nia ka seleat terwasiat dakwa","di daerah mi suwasiat dah ada kereta api wasiat, pulagajat neknek ananga kereta api wisata 104 ya p yee: wasiat• tuhan malang benar",False,False,False,0.064,0.07,True,FN
+54,asah,True,asah pisau itu supaya tajam,asai pisau neknek bulek ima rauru,asai pisau neknek bulek ima rauru,asah pisau itu supaya tajam,False,False,False,0.125,0.125,False,FN
+54,asal,True,batas asalnya tidak diketahui lagi,song kabaraijat siboikit tat tuagai,"de.sa n Iaggai: maksudnya hendak kembali ke depan p, pa atuat nia totoli nia ka laggai","hujan turun dengan depan p sore i, urat abele bulat sidepan p makope tint kasoni bokat",False,False,False,0.069,0.061,True,FN
+54,asam,True,di sini banyak pohon asam,senek maigi loinak rimau,maigi sinimanua masi saki ake umakra tatoga,di luar banyak orang berjualan mainan anakdianak,False,False,False,0.068,0.102,False,FN
+54,asap,True,bau asap kemenyan itu tercium sampai ke sini,butek kujug kemenyan nedda tuping seret senek,"n munau: terdengar gaun yang menakutkan di rumah itu, masiagaun rep munau simalotok kalalep nera","wanira itu megaun makai gaun yang serasi, si nanalep nera ipakei mabutek sima eruk ga.ung",False,False,False,0.076,0.091,True,FN
+54,asbak,True,masukkan puntung rokok itu ke dalam asbak ini,bulukakek mung-mungan ubek nedda ka asbak neknek,"ka asbak neknek a.sin a makaop: gulai itu terlalu asap, gulei nedda seget makaop","masukkan puntung rokok itu ke dalam asap mi, buasap lukakek mungasapmungan ubek nedda",False,False,False,0.078,0.258,False,FN
+54,asin,True,gulai itu terlalu asin,gulei nedda seget makkaop,"berak cat n cat: cangkul rumah itu putih, cat lalep nera simabulau","pecangkul tani ira sedang = = sawah, petani nera ainia masipapakkru",False,False,False,0.069,0.079,True,FN
+54,asli,True,ini emas asli,nek-nek emas asli,nekasiinek emas ash,mi emas asii,False,False,False,0.286,0.333,False,FN
+54,asrama,True,ini asrama anak-anak,nek-nek asrama tatoga,leppei bagi abuabu-abuabu wamanya,baju adik abu-abu wamanya,False,False,False,0.05,0.053,False,FN
+54,atap,True,atap rumah kami bocor,tobat lalep mai malobok,mumain mata,main mata,False,False,False,0.077,0.08,False,FN
+54,atas,True,dari atas bukit pemandangan itu dapat kita lihat,ka batat leleu pemandangan nedda moi ta iccok nia,ka batat leatapIeu pemandangan nedda moi ta iccok nia,dan atap bukilpemanatap dangan itu dapat kita lihat,False,False,False,0.173,0.139,False,FN
+54,atau,True,ini atau itu?,nek-nek sabba nedda?,bitinia mabesik,nya sakit,False,False,False,0.045,0.045,False,FN
+54,aum,True,aum harimau itu kedengaran sampai ke sini,singak harimau nedda tu arep teret senek,siatur vngak harimau nedda tu arep teret Seatur v nek,atur v harimau itu kedeatur v ngaran sampai ke sini,False,False,False,0.12,0.141,False,FN
+54,aurat,True,kita tidak boleh memperlihatkan aurat kita,sita tak moi-moi ta iccok akek aurat ta,sita tak moiauratmoi ta iccok akek aurat ta,kita tidak boleh memperlihatican aurat kita,False,False,False,0.145,0.145,False,FN
+54,aus,True,sepatu itu telah aus,sepatu nedda amakatakan,sepatu nedda amakatakan,sepatu itu telah aus,False,False,False,0.156,0.156,False,FN
+54,awak,True,"awak sakit, jangan diganggu",ai aku mabesik bak eenggeu,tatak masilimuti oinetu ka bak sangabitca sangamenggui,kuras bak air itu sekali seminggu,False,False,False,0.111,0.08,False,FN
+54,awal,True,awal tahun ini bukan musim hujan,panaddat rura nek-nek tak na urat,"awai tahun mi bukan musim hujan, panaddat rura nekawai nek tak na urat","awai sakit, jangan diawai ganggu, al aku mabesik bak eenggeu a.wal n panaddat:",False,False,False,0.343,0.078,True,FN
+54,awan,True,awan sudah menghitam dan sebentar lagi hujan turun,tanaik rusa ama pusukan ta ailek am uju belek urat,"n ekeu: kampung orang yang sudah men gerti, ekeu sirimanua sikampung maagai","dia sudah lama meninggalkan kampung, ia ama bukampung rukan masikaddivakek laggai ka.mu",False,False,False,0.082,0.085,False,FN
+54,ayah,True,ayah sudah pergi ke ladang,ukkui ameian nia ka mene,"n ekeu: kampung orang yang sudah men gerti, ekeu sirimanua sikampung maagai","dia sudah lama meninggalkan kampung, ia ama bukampung rukan masikaddivakek laggai ka.mu",False,False,False,0.078,0.081,True,FN
+54,ayal,True,"tak ayal lagi, dia adalah teman lama saya","tak masipatu lek, nia aleiku siburuk",berak siseuk ma amaneuan marak nia,nasi yang ditanak ibu sudah masa,False,False,False,0.1,0.103,False,FN
+54,ayam,True,ayam kami sedang bertelur,gouk-gouk mai ai mu attelu,ke kamasuk,sebelum masuk,False,False,False,0.069,0.067,False,FN
+54,ayo,True,ayo pergi,katui tutan,aku perlu buko surat,saya perlu bukti tulis,False,False,False,0.087,0.074,True,FN
+54,bab,True,ini bab satu buku itu,mekne sara buko nedda,warna buku nera simabo,warna buku iru merah,False,False,False,0.114,0.088,False,FN
+54,babad,True,ini babad tanah Jawa,nekne tadde pola Jawa,nekne tadde pola Jawa,mi babad tanah Jawa,False,False,False,0.121,0.125,False,FN
+54,babak,True,babak satu cerita itu sudah berakhir,kateteret sara pumumuan nera atataan,mabesi sangamberi palabakat tubu,terasa sahabat semua sendisahabatsendi badan,False,False,False,0.086,0.086,False,FN
+54,babi,True,di sini banyak rakyat memelihara babi,sene maigi tai kalaggajat masi,bahasanya baik,menutupi masitabboki tutur,False,False,False,0.095,0.087,False,FN
+54,baca,True,baca buku itu,baca buko nedda,baca buko nedda,baca buku iru,False,False,False,0.333,0.333,False,FN
+54,badai,True,kampung itu hancur diserang badai,laggai nera katai di serarang rusa,laggai nera katai di serarang rusa,kampung itu hancur diserang badai,False,False,False,0.111,0.111,False,FN
+54,badak,True,di daerah ini tidak terdapat badak,kalagagi nekne tak anai sibara,"s(far taii tidak baik dalam pergaulan, alau baga tuk maeruk ka paakiat; ketamakan kaalauat baga","kardus itu diikat dengan taii, kardus nera tu appra dengan tali ta.mak a alau baga:",False,False,False,0.106,0.07,True,FN
+54,badan,True,badannya gemuk dan besar,tubunia mamokmok sabbat abeu,"kelakuannya, dia disisihkan orang kampung, luakhlaklut kalajet nia, ia dasaraakek ta kalaggaijat","paturdi telaakhlak dani, paraboat nia maeruk ta ului a.ki.bat n luakhlaktut: —",False,False,False,0.061,0.067,True,FN
+54,beratur,True,buku-buku itu beratur rapi,buko-buko nedda seget eruk,"masuk wakru sembahyang beda itu dipukul, sebeda nen tubuluk gogoi sumbayang beduk nera tubobok","tenrara itu selalu membawa beda, tentara nera seget iabbit be.duk n beduk: setiap",False,False,False,0.065,0.083,True,FN
+54,berayun-ayun,True,kera itu sedang berayun-ayun di pohon,siteot nedda ai masituddaiakek loinak,"n ngaik: anakpasaranak senang bermain di pasar, tatoga maang ka mumain ka ngaik","kami mau pergi ke pasar, kai mei ka pasar; memasarkan masitokoakek pa.sir",False,False,False,0.122,0.11,True,FN
+54,membabat,True,dia membabat hutan itu sesukanya,nia masitadde loina siobakna lee,kau taagaikan tanggung jawab tanggung jawab ta sene sene,kita harus menyadari tanggung jawab masingtanggung jawabinasing,False,False,False,0.067,0.071,False,FN
+54,membacok,True,dia membacok musuhnya berkali-kali,nia masitektek lawa wan nia simareirei,bagania mabesi aiyorag sipak musuh,perutnya sakitkena tendang lawan,False,False,False,0.127,0.088,False,FN
+54,mengaso,True,lebih baik mengaso kalau sudah lelah,maeruk pailek muari kelek masagongan,nia mubalau seget ruei,dia berlari dengan kencang,False,False,False,0.08,0.1,False,FN
+54,mengasuh,True,saya mengasuh anaknya kalau dia pergi,aku masiurau toga nia kelek mei nia,"saya hening atu geggekan aku he.wan n tarimeu: dia penyayang hening, nia makatek baga ka tarimeu","saya memanhening dang hening pada orang asing itu, makisei bagakku tugeggek masiicco ka sirimanua nenda;",False,False,False,0.12,0.092,True,FN
+54,mengasung,True,mengasung itu sudah mati,pasiubbuk nedda amateiam,"nia Ieiah a masaggo: tampaknya mereka sudah—, kelekmasaggongan sia","sungai besar iru hanvak —nva, baganoinan nedda maigi tunang",False,False,False,0.096,0.069,True,FN
+54,mengawai,True,dia mengawai tangan saya,ia masirape kabeiku,sineuk nia maoloi peihangat lek; air hangat oman simaoloi,masakannya masih hangat,False,False,False,0.098,0.121,True,FN
+54,mengayak,True,adik sedang mengayak tepung,bagi ai aiyak tapung,bagi ai aiyak tapung,adik sedang mengayak tepung,False,False,False,0.139,0.139,False,FN
+54,badung,True,dia anak badung,nera toga tabut,"kucing dan anjing saja, kekleek maok sabbadung bat jokjok leek","dia anak badung, nera toga tabut ba.gai n kekleek: badung",False,False,False,0.102,0.25,True,FN
+54,bagai,True,bagai kucing dan anjing saja,kekleek maok sabbat jokjok leek,"kucing dan anjing saja, kekleek maok sabbadung bat jokjok leek","dia anak badung, nera toga tabut ba.gai n kekleek: badung",False,False,False,0.31,0.074,True,FN
+54,bagaimana,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,bagak,True,dia orang bagak kampung kami,nia sirimanua si magege kalaggai mai,nia telunga bitca murauk kabagat gogoi,Ia tiga kali mandi dalarn sehari,False,False,False,0.113,0.132,False,FN
+54,bagi,True,bagi kue ini dengan teman-temanmu,rubei kue nekne kasa aleimu,rubei kue nekne kasa aleinu,bagi kue mi dengan temanbagitemanmu,False,False,False,0.082,0.082,False,FN
+54,bahan,True,bahan bangunan,balajet lalep,tatoga kineneiget masigetarget lai turuk persembahan desa,anaktargetanak sibuk bertarget latih target persembahan di balai desa,False,False,False,0.068,0.081,True,FN
+54,bahasa,True,bahasa arab itu sulit,anganga Arab nedda takmalabbei,bersatu pasara,satusangatsatunya sarania;,False,False,False,0.107,0.068,False,FN
+54,baik,True,nasibnya selalu baik,nasibnia sarat simaeruk,Nasibnia sarat simaeruk,nasibnya selalu bahan,False,False,False,0.147,0.143,False,FN
+54,baju,True,baju adik sedag dijahit,leppei bagi aitu jajahit,leppei bagi aitu jajahit,adik sedang dijahit,False,False,False,0.075,0.083,False,FN
+54,bak,True,kedua bersaudara itu bak pinang dibelah dua,nedda kelek pinang tusila na,abbit barang nedda bela,bawa barang itu keluar.,False,False,False,0.151,0.095,False,FN
+54,bakau,True,pohon bakau banyak tumbuh di tepi pantai,loinak bakat maigi mutuktuk ka betbet koat,"pohon bak ban y ak tumbuh di tepi pantai, loinak bakat maigi mutuktuk ka betbet koat","kedua bersaudara itu bak pinang dibelah dua, nedda kelek pinang tusila na ba.kau n bakat:",False,False,False,0.388,0.077,True,FN
+54,bakhil,True,orang kaya itu bakhil sekali,sirimanua tubut sikamayo nenda,"saya hening atu geggekan aku he.wan n tarimeu: dia penyayang hening, nia makatek baga ka tarimeu","saya memanhening dang hening pada orang asing itu, makisei bagakku tugeggek masiicco ka sirimanua nenda;",False,False,False,0.083,0.137,True,FN
+54,baki,True,letakkan minuman itu di atas baki,taroakek lok nenda kapata,kamone gaek maigi bakkat markisa,di ladang kakek banyak pohon markisa,False,False,False,0.073,0.075,False,FN
+54,bakiak,True,sekarang jarang sekali orang main bakiak,kinegege tubut takmaigi sirimanua masipakai,ukkui nia sasaraina mai peilek,bapaknya masih famili kami,False,False,False,0.075,0.086,False,FN
+54,baling,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,baling-baling,True,baling-baling itu berputar sesuai arah angin,baling-baling nera muputar ka matat rusa,balingbalingbaling nera muputar ka matat rusa,baling-baling itu berputar sesuai arah an gin,False,False,False,0.148,0.2,False,FN
+54,balon,True,ayah membelikan adik balon karet untuk mainannya,ukkui masisakek balon kabagit mainani,ukkui masisakek balon kabagit mainani,ayah membelikan adik baling karet untuk mainannya,False,False,False,0.194,0.125,False,FN
+54,balut,True,balut ;ukamu dengan perban,tabut lukamu dengan perban,tabut lukamu dengan perban,balut lukamu dengan perban,False,False,False,0.6,0.778,False,FN
+54,bambu,True,di sini banyak tumbuh bambu yang besar-besar,senemaigi mutuk-tuk maggeak simabeugat,"maigi mutukmembalut masitabut bambutuk maggeak simembalut masitabut bambu mabeugat ban.dar n salokat: para petani bermembalut masitabut bambu gotong royong membersihkan membalut masitabut bambu, petani mugotong royong masilianakek salokat","di sini banyak tumbuh —yang besarmembalut masitabut bambubesar, sene",False,False,False,0.081,0.056,True,FN
+54,bandar,True,para petani bergotong-royong membersihkan bandar,petani mugotong royong masilianakek salokat,maigi petani masiukentang rep kentang,banyak petani nenanam kentang,False,False,False,0.106,0.102,False,FN
+54,bandel,True,anak bandel itu dihukum gurunya,tonagera iukum guruniai,toganera iukum guruniai,anak bandel itu dihukum gurunya,False,False,False,0.19,0.19,False,FN
+54,bandit,True,bandit itu sudah tertangkap,bandit nenda atu tangkap,bandit nenda atu tangkap,bandit itu sudah terbandit rangkap,False,False,False,0.306,0.256,False,FN
+54,bangau,True,setinggi-tinggi bangau terbang surutnya ke kubangan,sigit buang suiruk mututui tutoilinia ka kabagan,peiaba dagang gulat maakka bagadda ke uttuknia maigi,pedagang san gal senang jika —nya banyak,False,False,False,0.086,0.085,False,FN
+54,bangga,True,saya bangga dengan kemenangan itu,aku umun kalulut mamanang,ditaburkan tusaragaiakek tahan kena,mataku tak,False,False,False,0.073,0.071,False,FN
+54,bangkai,True,bangkai anjing itu terapung di sungai,jokjok simamatai nena mutebbuk ka oinan,"n munau: terdengar gaun yang menakutkan di rumah itu, masiagaun rep munau simalotok kalalep nera","wanira itu megaun makai gaun yang serasi, si nanalep nera ipakei mabutek sima eruk ga.ung",False,False,False,0.092,0.096,True,FN
+54,bangkit,True,dia bangkit dari duduknya,atu suruan nia ka udinai,bandit nenda atu tangkap,bandit itu sudah terbandit rangkap,False,False,False,0.098,0.065,False,FN
+54,banjir,True,banjir telah merusak tanaman pangan kita,eba masih pakataik uremen,"v bettik: jenjang saja tan gan jarimu, bettik sabbat singojenjang ngainu","dia memanjat dejenjang ngan jenjang , nia masikaraik sibara orat jen.tik",False,False,False,0.068,0.081,True,FN
+54,bantah,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,bantai,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,bantal,True,tolong ambilkan bantal itu saya mau tidur,rob matalak tulunan nera aku merep,jokjok masibukbuk samba maok mengeong,anjing menyalak dan kucing men geong,False,False,False,0.078,0.089,False,FN
+54,banteng,True,hati-hatilah banteng itu mau menanduk,pulelek banteng nera iobak masitanduk,pulelek banbanteng teng nera iobak masitanduk,hatibantenghatilah banteng itu mau menanduk,False,False,False,0.183,0.193,False,FN
+54,banting,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,bantu,True,bantulah kami sekadarnya,rop kai simemet nia,kian katuitui simarunei senek,pergi cepal dari sini,False,False,False,0.068,0.059,False,FN
+54,bantuan,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,banyak,True,uang kami tidak banyak,bulagat mai tak maigi,kulit badak nedda seget taba,kukur badak itu sangat tebal,False,False,False,0.07,0.075,False,FN
+54,bapak,True,bapak kami bekerja sebagai nelayan,ukkui mai musalai sebagai nelayan,ukkui mai musalai sebagai nelayan,bapakbapak kami bekerja sebagai nelayan,False,False,False,0.304,0.292,False,FN
+54,baptis,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,bara,True,siramlah bara itu supaya tidak berbahaya,subui boo nera pei tak berbahaya,subui boo nera pei tak berbahaya,siranilah baptisbaptis itu supava tidak berbahava,False,False,False,0.196,0.125,False,FN
+54,barang,True,semua barangnya sudah terjual,sangamberi bibilet atu sakiakeat,"ramun: pemandangannva sudah mulai juai, iccoket nia ama ramun","juai saja rumahmu!, sakiakek lek lalepnu ka.bur a",False,False,False,0.107,0.088,True,FN
+54,baru,True,adik dibelikan baju baru oleh ayah,ukkui aisaki akek leppei sibau bagi,"adik dibelikan baju barang. oleh ayah, Ukkui aisaki akek leppei sibau bagi","semua barang nya sudah terjual, sangamberi bibilet atu sakiakeat ba.ru a sibau:",False,False,False,0.394,0.083,True,FN
+54,baskom,True,ambil baskom itu untuk tempat air,alak baskom nera lelengan oinan,"n uremen: ambilah buah yang baik untuk bengong, alak guah simeru untuk uremen","para penonton terbengong-bengong melihat permainan sulap itu, sipanonton masiiccok permainan sulap nera be.nih",False,False,False,0.122,0.078,True,FN
+54,basuh,True,basuh tanganmu dengan air ini,bui kabeimu samba oinan nenek,toga nedda pat langok nanganniankalulun apapingsan jabou sia,anak itu sampai pingsan karena benturan dalam kecelakaan,False,False,False,0.065,0.067,True,FN
+54,batang,True,batang kayu ini menghalangi jalan,loinak nera masisaila enungan,kau taagaikan tanggung jawab tanggung jawab ta sene sene,kita harus menyadari tanggung jawab masingtanggung jawabinasing,False,False,False,0.069,0.074,True,FN
+54,batuk,True,batuknya sudah parah,kokkloni ama kopek,galukkopi nera sabbat gulo,campur kopi itu den gan gula,False,False,False,0.05,0.051,False,FN
+54,bawah,True,ambil buku yang di bawah meja itu,alak buku nera karepek meja nera,alak buku nedda,buku itu,False,False,False,0.1,0.1,False,FN
+54,bebek,True,kami memelihara bebek dan ayam,kai masijago bebek samba gou-gou,toga nera aipeilek mabebesik,anak itu masih sakit,False,False,False,0.08,0.093,False,FN
+54,becek,True,jalan ini selalu becek kalau hari hujan,enungan nenek malotik kalulut urat,"halaman ruiantar inah sudah iantar karena hujan, haiantar laman rumah nera maloppak kalulut urat","dia daiantar tang = = dipaksa, nia moi kalulut tupaksa Ia.nyah a maloppak:",False,False,False,0.121,0.116,True,FN
+54,beda,True,beda harga baju ini dan baju itu tidak banyak,tak makerek saki leppei nenek samba nera,"beker: letakkan v tuburut itu dekat tempat tidur, galag akek beker nera ka bebet pereman","v tuburut lu/ca kakinya masih tampak, balak bongbong karere nia tuiccok peilek be.ker n",False,False,False,0.073,0.065,True,FN
+54,bedak,True,pakailah bedak ini untuk merawat wajahmu,pake ian nenek untuk sipasilakgek,galai kure simabuat nanam untuk kai,lah kue yang enak untuk kami,False,False,False,0.109,0.118,False,FN
+54,bedil,True,tentara itu slalu membawa bedil,tentara nera seget iabbit,"masuk wakru sembahyang beda itu dipukul, sebeda nen tubuluk gogoi sumbayang beduk nera tubobok","tenrara itu selalu membawa beda, tentara nera seget iabbit be.duk n beduk: setiap",False,False,False,0.105,0.319,True,FN
+54,beduk,True,setiap masuk waktu sembahyang beduk itu dipukul,senen tubuluk gogoi sumbahyang beduk nera tubobok,"masuk wakru sembahyang beda itu dipukul, sebeda nen tubuluk gogoi sumbayang beduk nera tubobok","tenrara itu selalu membawa beda, tentara nera seget iabbit be.duk n beduk: setiap",False,False,False,0.384,0.108,False,FN
+54,bedung,True,toga bayi itu perlu dicuci,toga nera perlu tulinakek,aku perlu buko surat,saya perlu bukti tulis,False,False,False,0.167,0.265,False,FN
+54,bega,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,bekal,True,ini bekalmu untuk perjalanan besok,nenek balutmui untuk muenung kam maccep,galai kure simabuat nanam untuk kai,lah kue yang enak untuk kami,False,False,False,0.143,0.145,False,FN
+54,bekas,True,bekas luka kakinya masih tampak,balak bongbong karere nia tuiccok peilek,nia masitektek loina telle,dia memotong kavu dengan —,False,False,False,0.083,0.091,False,FN
+54,beker,True,letakkan beker itu dekat tempat tidur,galag akek beker nera ka bebet pereman,"beker: letakkan v tuburut itu dekat tempat tidur, galag akek beker nera ka bebet pereman","v tuburut lu/ca kakinya masih tampak, balak bongbong karere nia tuiccok peilek be.ker n",False,False,False,0.378,0.106,True,FN
+54,belah,True,belahlah kelapa itu,silak toitet nera,membelah masisilaic pembelah pasisila; sebelah sangasila,"lah kelapa itu, silak toitet nera,",False,False,False,0.085,0.484,True,FN
+54,berbahasa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,berbaju,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,berbaling,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,berbantal,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,berbedak,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,berbega,True,elang itu terbang berbega,makgok nera tuburut,"loinak: meja itu terbuat dan kawin, meja nedda atu galai loinak","saudagar itu sangat kawin, saudagar nera sima kayo ka.yu n",False,False,False,0.108,0.068,True,FN
+54,berbekal,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,dibagi,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,dibantu,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,kebaikan,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,membagi,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,membagi-bagikan,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,membalut,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,membanggakan,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,membantah,True,dia suka membantah perintah ayahnya,nia obak gugulat ukkuinia,rempah gulei nenek ka antara simatdak,rempah gulai mi di anzaranya ruku-ruku,False,False,False,0.083,0.057,False,FN
+54,membantai,True,kami membantai dua ekor sapi untuk pesta,kai rua ngamuneng sapi untuk punen,galai kure simabuat nanam untuk kai,lah kue yang enak untuk kami,False,False,False,0.092,0.12,False,FN
+54,membanting,True,dia membaning tikus itu sampai mati,nia bitut nera tetret matei,"pa.ting n zuluplup: kakak membuat patah tikus, kebbu masigalai zuluplup birut","patah kerajaan itu sangatarzfdan bijaksana, rimata nera seget arif clan bijaksana",False,False,False,0.125,0.099,True,FN
+54,membantu,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,membanyakkan,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,membaptis,True,pendeta sudah membaptis anak itu,pandita alepakan masilappeni toga nera,"n ekeu: kampung orang yang sudah men gerti, ekeu sirimanua sikampung maagai","dia sudah lama meninggalkan kampung, ia ama bukampung rukan masikaddivakek laggai ka.mu",False,False,False,0.098,0.081,True,FN
+54,membedaki,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,memperbaiki,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,memperbanyak,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,pembaptisan,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,perbaikan,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,sebagai,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,sebagaimana,True,-,-,,,False,False,False,0.0,0.0,False,FN
+54,terbanyak,True,-,-,,,False,False,False,0.0,0.0,False,FN

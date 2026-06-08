@@ -1,169 +1,169 @@
-dict_id,kata_asal,c_has_pair,a_has_pair,c_kalimat_asal,a_kalimat_asal,c_kalimat_tujuan,a_kalimat_tujuan,match_asal_strict,match_asal_normalized,match_asal_fuzzy,match_asal_fuzzy_score,match_tujuan_strict,match_tujuan_normalized,match_tujuan_fuzzy,match_tujuan_fuzzy_score,concatenation_candidate,outcome
-68,aaddoaa,True,False,Aaddoaa su medda wiakka ua!,,Letakkan makanan itu di meja!,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aadduanna,True,True,I tou tawe nasau buan aadduanna su hatine,tou tawe nasau buan ~ su,Ia tidak marah walaupun diludahi wajahnya,hatine Ia tidak marah walaupun diludahi diwajahnya,False,False,False,0.463,False,False,True,0.771,False,wrong_extraction
-68,aaggahhanna,True,True,Taiyakki tuariu indi aaggahhanna mappiapia,aiyakki tuariu indi aaggassanna mappiapia.,Tangan adik sedang dipegang oleh saya erat-erat,Tangan adik sedang saya pegang erat-erat,False,False,True,0.791,False,False,False,0.651,False,wrong_extraction
-68,aaggahhante,True,True,ate ledane aaggahhante?,ate ledane ~?,Apakah kakinya sudah dipegang?,Apakah kakinya sudah dipegang,False,False,False,0.429,False,True,True,1.0,False,wrong_extraction
-68,aaggasanni,True,False,Darotongngu riamaata aaggasanni huru ndiamaatta,,Harta benda jemaat gereja dipegang oleh guru jemaat,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aaggasannu,True,True,Darotongngu aaggasannu taumata aapangimananna,harta,Harta benda jemaat dipegang oleh orang yang dipercayai,benda warisan,False,False,False,0.0,False,False,False,0.077,False,wrong_extraction
-68,addoaa,True,True,Indi ama wua niwati addoaa su woboa,Indi ama wua niwati ~ su woboa. Kasur yang baru dijemur letakkan di,Kasur yang baru dijemur letakkan di kamar,kamar; Roitta nianggilli yamangngu addoaa su patoa. Uang yang ayah berikan simpan di kantong,False,False,False,0.357,False,False,False,0.133,True,wrong_extraction
-68,addoaa,True,True,Roitta nianggilli yamangngu addoaa su patoa,Indi ama wua niwati ~ su woboa. Kasur yang baru dijemur letakkan di,Uang yang ayah berikan simpan di kantong,kamar; Roitta nianggilli yamangngu addoaa su patoa. Uang yang ayah berikan simpan di kantong,False,False,False,0.073,False,False,False,0.415,True,wrong_extraction
-68,addu,True,True,Manga timmadde nallewa addu ne nipangngu tawe mamala ndroa mabbale,Manga timmadde nallewa addu ne nipangngu tawe mamala ndroa mabbale. Para,Para orang tua seolah menjilat ludahnya sendiri jika tidak mengizinkan anak-anak bermain bola,orang tua seolah menjilat ludahnya sendiri jika tidak mengizinkan anak-anak bermain bola,False,False,True,0.909,False,False,True,0.94,False,wrong_extraction
-68,aggahha,True,True,Aggahha liman tuarrinu!,Aggahha liman tuarrinu!,Pegang tangan adikmu!,Pegang tangan adikmu,True,True,True,1.0,False,True,True,1.0,False,TP
-68,aggahhangku,True,True,Tatummainna indite aggahhangku,atummainna indite ~.,Tongkatnya sudah aku pegang,Tongkatnya sudah aku pegang,False,False,False,0.552,True,True,True,1.0,False,wrong_extraction
-68,aggahhanni,True,True,Suratta ua aggahhanni tou su lempanganni tou mialo-mialo,Suratta ua ~ tou su lempanganni tou mialo- mialo. Kemana pun dia pergi,"Kemanapun dia pergi, surat itu dia pegang",surat itu dia pegang,False,False,False,0.486,False,False,False,0.529,False,wrong_extraction
-68,aggahhannu,True,True,"Buatte ni paatta, tue ua tae aggahhannu","uatte ni paatta, tue ua tae ~.","Sudah selesai digunakan, tetapi sendoknya","Sudah selesai digunakan, tetapi sendoknya tetap kau pegang",False,False,False,0.676,False,False,False,0.745,False,wrong_extraction
-68,aggahhante,True,True,Limane aggahhante arawe itou tae mabbinsolokka,imane ~ arawe itou tae mabbinsolokka.,Tangannya sudah dipegang tetapi dia tetap meronta-ronta,Tangannya sudah dipegang tetapi dia tetap meronta-ronta,False,False,False,0.674,True,True,True,1.0,False,wrong_extraction
-68,aggassa,True,False,aggassa liman tuarrinu!,,pegang tangan adikmu!,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangaddo,True,True,Iyau inai mangaddo ndoitta su wale asue,akan menyimpan Iyau inai mangaddo ndoi cu,Saya akan menyimpan uang dahulu di rumah,wal᷊e asue Saya akan menyimpan uang di rumah,False,False,False,0.389,False,False,False,0.625,False,wrong_extraction
-68,mangaddu,True,True,I yau iani mangaddu,yau iani mangaddu.,Saya mau meludah,aya mau meludah,False,False,True,0.882,False,False,True,0.929,False,wrong_extraction
-68,mangaggahha,True,False,I yau mangaggahha limane,,Saya yang pegang tangannya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangngaddo,True,False,I mama mangngaddo n sinangngo su lamari,,Ibu sedang menyimpan makanan di lemari,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangngaddu,True,False,I tou mangngaddu,,Ia sedang meludah,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangngaggahha,True,True,"Paellegga, indi i yau mangngaggahha limane","aellegga, indi i yau mangngaggahha","Lihatlah, saya sedang memegang tangannya","limane Lihatlah, saya sedang memegang tangannya",False,False,True,0.816,False,False,True,0.829,False,wrong_extraction
-68,naiaggahha,True,True,Inene naiaggahha si omma tuttumbe salukka,Inene,Nenek minta dituntun oleh paman untuk menyeberang sungai,~ u,False,False,False,0.077,False,False,False,0.0,False,wrong_extraction
-68,nangaddo,True,True,Isai nangaddo tabbao su ayananna?,duduk,Siapa yang meletakkan tembakau di tempat duduk?,kembali,False,False,False,0.0,False,False,False,0.044,False,wrong_extraction
-68,nangaddu,True,False,Taumata wagansinangngone nangaddu su saruannu tembonanne,,"Orang itu tidak tahu tatakrama, meludah di depan pejabat",,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,nangaggahha,True,False,I yau suete nangaggahha limane,,Saya sudah menjabat tangannya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niaddo,True,True,Araposa u niaddo suapa?,disimpan Araposa u niaddo suapa?,Topi saya diletakkan di mana?,Topi saya diletakkan di mana,False,False,False,0.69,False,True,True,1.0,False,wrong_extraction
-68,niadduanna,True,False,I yassa niadduanna mai,,"Kasihan, dia diludahi",,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niaggahhi,True,False,Lima u niaggahhi papa,,Tanganku dipegang oleh ayah,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niaggahhu,True,False,Pua u niaggahhu presidenna,,Kepalaku dipegang oleh presiden,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niapaaddo,True,False,Roiu niapaaddo si o anu o anggila ci mama,,Uang yang saya suruh kamu simpan tolong diambil dan serahkan kepada ibu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niapaaddu,True,True,Itete niapaaddu wakkute ua niapawisara,wisara,Kakek disuruh meludahkan pinang baru boleh berbicara,kata-kata,False,False,False,0.129,False,False,False,0.0,False,wrong_extraction
-68,niapaaggahha,True,False,Roitta wurru wulawanna niapaaggahha su tuari u wawine,,Uang dan emas disuruh pegang oleh adik perempuan],,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,paiaggahha,True,False,Tuari paiaggahha siaangngu,,Adik minta dipegang sama kakak,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,pangaggahha,True,False,Su amatanna pangaggahha tantiro Mawu,,"Di perjalanan saat merantau, peganglah firman Tuhan",,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,papaaddoaa,True,False,Laubbi papa wakku niwallianna papaaddoaa si mamanu,,Baju ayah yang baru dibeli minta disimpan ibu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,papaadduaa,True,False,Ipapa papaadduaa su lima anasee pulung galele aaggasanna mapia,,Ayah meludahi telapak tangannya sebelum ia memegang parang agar erat pegangannya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,uaaaddu,True,True,Elle wowa pulunna rarua uaaaddu!,Elle wowa pulunna rarua uaaaddu!,Lihat kedua cucumu saling meludahi!,Lihat kedua cucumu saling meludahi,True,True,True,1.0,False,True,True,1.0,False,TP
-68,uaaaggahha,True,False,Iyaha rua tatuari wuahhu hiola naoma mbale uaaaggahha,,Lima kakak-beradik itu sejak keluar sekolah sampai di rumah saling berpegangan tangan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,uaaggahha,True,True,Isai uaaggahha roittu awadaalla?,Isai uaaggahha roittu awadaalla?,Siapa yang memegang uang warga?,Siapa yang memegang uang warga,True,True,True,1.0,False,True,True,1.0,False,TP
-68,yappaaddo,True,False,Araposa I yappaaddo mpapa su woboa ntou,,Topi ini ayah suruh simpan di kamarnya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,yappaaggahha,True,True,Darorongngu timmadde roittu awadaalla yappaaggahha si nora,Darorongngu timmadde roittu awadaalla yappaaggahha si nora. Sesuai permintaan,Sesuai permintaan para tetua uang warga diminta istri guru yang memegang,para tetua uang warga diminta istri guru yang memegang,False,False,False,0.747,False,False,True,0.766,False,wrong_extraction
-68,aaggassalima,True,True,Indi roitta marasutta aaggassalima lima suandeangngu anai turangngu.,Indi roitta marasutta ~ lima su andeangngu anai turangngu. Uang seratus ribu rupiah,uang seratus ribu rupiah ini sebagai buah tangan untuk anak saudaramu yang berpesta,ini sbgbuah tangan untuk anak saudaramu yang berpesta,False,False,False,0.524,False,False,False,0.575,False,wrong_extraction
-68,aahe,True,True,"i tou mai, namile aahe marruala",tou mai,dia memilih ajakan anak gadis,namile ~ marruala. ia memilih ajakan anak gadis,False,False,False,0.179,False,False,False,0.578,False,wrong_extraction
-68,aahei,True,False,aahei ude tuarinu,,ajaklah adikmu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aahutan,True,False,Mangga sambau aahutan gngu sire tallu.,,Sebutir mangga dimakan bersama oleh tiga orang dengan mengeratnya secara bergiliran,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aahutta,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aai,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ahe,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ahe,True,False,ahe nu poite mammanara,,orang yang kau ajak sudah bekerja,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ahhanna,True,True,Ahhanni hai poi hu tatul᷊iangku,perahu bercadik. Ahhanni hai poi hu,siapa yang ada di tempat sampanku?,tatul᷊iangku siapa yang ada di tempat sampanku,False,False,False,0.364,False,False,False,0.714,False,wrong_extraction
-68,ahi,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ahian,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ahiangnga,True,False,yami taumata ahiangnga,,kami orang miskin,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ahianna,True,True,peddettu ahianna rarua parrala piane,Peddettu ~ rarua parrala piane.,pakaian kedua pengantin sangat indah,Pakaian kedua pengantin sangat indah,False,False,False,0.686,False,True,True,1.0,False,wrong_extraction
-68,ahidda,True,True,ariewe paabuliane ahidi papa inawa tumondo,Ariewe paabul᷊iane ahidi papa inawa,jangan lupa perlengkapan ayah melaut,tumondo. Jangan lupa perlengkapan ayah melaut,False,False,False,0.69,False,False,True,0.786,False,wrong_extraction
-68,ahingnga,True,True,panganu watuline papaolaaa ahingnga,permainan anak-anak yang terbuat dari kayu keras dan diputar dengan bantuan seutas,ambil kayu eboni (kayu hitam) buatkan gasing,tali. Panganu watul᷊ine papaolaaa ahingnga ambil kayu eboni (kayu hitam) buatkan gasing,False,False,False,0.029,False,False,False,0.5,True,wrong_extraction
-68,aho,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ahonggo,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ahonggola,True,False,ahonggala sai ude?,,pemberian siapakah itu?,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ahutta,True,False,Isai nangahutta mangga u?,,siapa yang mengerat manggaku,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ai,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ai,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aian,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aianna,True,False,"aianna asue, wakkute ude panassu ngkamatanna.",,Duduk dahulu baru lanjutkan perjalanan,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aita,True,True,-,Arie pa′pakeng aitta.,-,Jangan pakai kait atau gancu,False,False,False,0.0,False,False,False,0.0,True,wrong_extraction
-68,aita,True,True,Arie pa′pakeng aitta,Arie pa′pakeng aitta.,Jangan pakai kait atau gancu,Jangan pakai kait atau gancu,False,True,True,1.0,True,True,True,1.0,False,TP
-68,maionggo,True,False,ipapa maionggo u araposa,,ayah minta diberi topi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangaggassa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangahe,True,False,i yami mangahe si papa huru,,kami mau mengajak pak guru,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangahutta,True,False,Anang-ngu mappulu mangahutta manga.,,Anakmu mau mengerat buah manga,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangai,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,manggahu,True,False,Tuari u apulune manggahu mangga tala iiang,,Adikku makan buah mangga dengan mengeratnya tanpa dikupas dahulu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangngahe,True,False,i papa mangngahe si ya u manu su wailla,,ayah mengajak saya ke kebun,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangngahu,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangngahutta,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangonggo,True,False,iyau mangonggo angngu manu,,saya mau memberi makanan ayam,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangonggo,True,False,Inene mangonggo u wusa lahane su manga pulungnge.,,Nenek sedang memberi pisang masak kpd cucu-cucunya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,naionggo,True,False,Anerra mabbawale naionggo u uae si mama.,,Kemarin anak-anak bermain bola dan minta diberi air minum sama ibu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,nangaggassa,True,True,-,menjabat,-,tangannya,False,False,False,0.0,False,False,False,0.0,True,wrong_extraction
-68,nangahe,True,False,tuarinu nangahe si sai?,,siapa yang diajak adikmu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,nangahu,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,nangahutta,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,nangai,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,nangonggo,True,False,Isai nangonggo u roi ci tou?,,Siapa yang memberi uang padanya?,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niaggassa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niaggassi,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niaggassu,True,True,-,disuruh atau,-,diminta untuk memegang,False,False,False,0.0,False,False,False,0.0,True,wrong_extraction
-68,niaheanna,True,True,i yau wuatte niaheanna,kerja,saya sudah diajak bekerja,yang lamban,False,False,False,0.0,False,False,False,0.0,False,wrong_extraction
-68,niahutta,True,False,Manggau tatallu niahutta abbi ruam baa.,,Manggaku tiga biji dikerat habis sebelah menyebelah,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niai,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niapaahu,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niapaonggo,True,False,Roiu niapaonggo I tete si tou.,,Uang itu disuruh oleh kakek agar diberikan kepadanya,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,nionggo,True,False,Manuu nionggo ci nene.,,Ayamku diberikan kepada nenek,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,paiaggassa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,pangaggassa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,pangahe,True,False,pangahe turangu anu su wailla,,ajak saudaramu ke kebun,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,pangahutta,True,False,lote pangahutta rorone,,kau keratlah dahulu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,pangonggo,True,False,I o pangonggou ina iyau mangonggo u woha ci mangitou.,,"Kau berikan ikan, saya akan memberikan beras kpd mereka",,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,papaahuta,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,papaaita,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,uaaaggassa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,uaaahutta,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,uaaggassa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,uaai,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,uaangonggo,True,False,Iyammi tarruari ninarangngu haggurangngi yammi uaangonggo,,Kami kakak-beradik dibiasakan oleh orang tua kami untuk saling memberi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,yappaaggassa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,yappaaggassa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,yappaahutta,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,yappaai,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,yappaonggo,True,False,Iyau nirolo i cama yappaonggo u woha ciamiu.,,Saya disuruh camat untuk memberikan beras ini kepada kalian,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aakkeanna,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aakkudda,True,True,aakkudda udde manggantuarinu anasee itou tawe mangahutta ere walawo,udde manggantuarinu anasee itou tawe mangahutta ere walawo.,Kupaslah mangga adikmu supaya tidak mengerat saat memakananya,Kupaslah mangga adikmu supaya tidak mengerat saat memakananya,False,False,True,0.867,True,True,True,1.0,False,wrong_extraction
-68,aianaa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aianante,True,True,Adera ua aianante ntaumata waine.,Adera ua ~ ntaumata waine. Kursi,Kursi itu sudah diduduki oleh orang lain,itu sudah diduduki oleh orang lain,False,False,False,0.5,False,False,True,0.842,False,wrong_extraction
-68,aiape,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aikkatanna,True,False,Lima u aikkatanna na lessa,,Tangan kananku terluka,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aillrihha,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aillrissa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aillulrunan,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aillulrunanna,True,False,Tase laubba niola i tou aillulrunanna,,Dia menjadikan tas pakaian sebagai bantal kepala,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aillulrunna,True,True,Pulunna matii aillulrunna su taiakki yupungnge.,Pulunna matii ~ su taiakki,Cucunya tidur berbantalkan lengan kakeknya,yupungnge. Cucunya tidur berbantalkan lengan kakeknya,False,False,False,0.477,False,False,True,0.776,False,wrong_extraction
-68,ailratan,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ailratan,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ailri,True,True,Limantou ailri napaddi,Limantou – napaddi.,Tangan kirinya patah,Tangan kirinya patah,False,False,False,0.565,True,True,True,1.0,False,wrong_extraction
-68,ailu,True,True,-,daun atau kertas bekas yang digunakan untuk membersihkan lubang,-,dubur sesudah buang air besar (seperti tissue masa kini,False,False,False,0.0,False,False,False,0.0,True,wrong_extraction
-68,aimbu,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aimpalru,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aimpalrucca,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aimpalrukka,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aimu,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aimudda,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aimudde,True,True,Asunu maitumma aimudde mauatta,Asunu maitumma ~ mauatta. Anjingmu,Anjingmu yang berwarna hitam penciumannya tajam,yang berwarna hitam penciumannya tajam,False,False,False,0.45,False,False,True,0.8,False,wrong_extraction
-68,airaen,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,airaenna,True,False,Pabballassa airaenna si yaangngu,,Pinjamlah kukuran kelapa sama kakakmu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aitaa,True,True,aitaa tali ua su alu,tali ua su alu,Kaitkan talinya pada batang pohon,Kaitkan talinya pada batang pohon,False,False,False,0.667,True,True,True,1.0,False,wrong_extraction
-68,aitta,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,aiyape,True,False,Sassimbarre poi aiyape ntantenu su apalla,,Balaslah lambaian tangan tantemu di atas kapal,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,akke,True,False,akke ua maatilla,,Kudis itu terasa gatal,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,akkoa,True,True,Akkoa udde potolli tuarinu!,Akkoa udde potolli tuarinu!,Raut pensil adikmu!,Raut pensil adikmu,True,True,True,1.0,False,True,True,1.0,False,TP
-68,akkoanna,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,akkudda,True,False,akkudda ude mangga ntuarinu,,Kupas mangga adikmu,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,iapaakkoa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,ipangaitta,True,True,Panganu yawanna i ipangaitta puso,Panganu yawanna i ~ puso.,Ambil bambu untuk mengait jantung pisang,Ambil bambu untuk mengait jantung pisang,False,False,False,0.613,True,True,True,1.0,False,wrong_extraction
-68,mangaitta,True,True,Mangaittu paruru su peanna,Mangaittu paruru su peanna.,Mengaitkan umpan di mata kail,Mengaitkan umpan di mata kail,False,True,True,1.0,True,True,True,1.0,False,TP
-68,mangakkoa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangimpalrukka,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangngaitta,True,False,I yupungngu mangngaitta apa poi su alungngu wusaa,,Kakekmu sedang mengaitkan apa di bawah pohon pisang?,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangngakkoa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mangngimpalrukka,True,False,I papa ratumbanua mangngimpalrukka su awingngu ana′a rarua,,Bapak Ratumbanua (tokoh adat) mendaraskan sastra lisan pada perkawinan kedua anak,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,mappaaianna,True,False,I papa mappaaianna tuari su Adera.,,Ayah mendudukkan adik di kursi,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,naaianna,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,nangaitta,True,False,"Oh, i yupungngu nangaitta rongngu wusaa",,"Oh, kakekmu mengait daun pisang",,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,nangimpalrukka,True,False,Isai nangimpalrukka su awingngu anaa rarua naallawa?,,Siapa yang mendaraskan kata-kata sastra berupa doa restu dl upacara perkawinan kedua anak semalam?,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niaitta,True,False,niaitta suapa udde kabellu televisi?,,Kabel televisi itu dikaitkan di mana?,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niakkeanna,True,True,-,Bailla nituwoannu akke.,-,ebun ditumbuhi ilalang,False,False,False,0.0,False,False,False,0.0,True,wrong_extraction
-68,niakkeanna,True,True,Bailla nituwoannu akke,Bailla nituwoannu akke.,Kebun ditumbuhi ilalang,ebun ditumbuhi ilalang,False,True,True,1.0,False,False,True,0.952,False,wrong_extraction
-68,niakkoa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niapaaianna,True,False,Anangnge niapaaianna su ayananna mawawo.,,Anaknya didudukkan di bangku rendah,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,niapaimpalrukka,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,pangakkoa,True,False,Panganu ghalele i pangakkoa alu,,Ambil parang untuk menajamkan kayu manga,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,papaaitaa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,uaaitta,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,uaakkoa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,uaianna,True,True,Itou uaianna su adera mukane.,Itou uaianna su adera mukane.,Ia menduduki kursi paling depan,Ia menduduki kursi paling depan,True,True,True,1.0,True,True,True,1.0,False,TP
-68,umaillulrnna,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,yappaaitta,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,yappaakkoa,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
-68,yappaimpalrukka,True,False,-,,-,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+dict_id,kata_asal,c_has_pair,c_kalimat_asal,c_kalimat_tujuan,best_a_kalimat_asal,best_a_kalimat_tujuan,match_strict,match_normalized,match_fuzzy,best_asal_fuzzy_score,best_tuj_fuzzy_score,concatenation_candidate,outcome
+68,aaddoaa,True,Aaddoaa su medda wiakka ua!,Letakkan makanan itu di meja!,wia nasaddiate su medda.,Makanan sudah tersaji di meja,False,False,False,0.25,0.308,False,FN
+68,aadduanna,True,I tou tawe nasau buan aadduanna su hatine,Ia tidak marah walaupun diludahi wajahnya,tou tawe nasau buan ~ su,hatine Ia tidak marah walaupun diludahi diwajahnya,False,False,False,0.463,0.771,False,FN
+68,aaggahhanna,True,Taiyakki tuariu indi aaggahhanna mappiapia,Tangan adik sedang dipegang oleh saya erat-erat,aiyakki tuariu indi aaggassanna mappiapia.,Tangan adik sedang saya pegang erat-erat,False,False,False,0.791,0.651,False,FN
+68,aaggahhante,True,ate ledane aaggahhante?,Apakah kakinya sudah dipegang?,ate ledane ~?,Apakah kakinya sudah dipegang,False,False,False,0.429,1.0,False,FN
+68,aaggasanni,True,Darotongngu riamaata aaggasanni huru ndiamaatta,Harta benda jemaat gereja dipegang oleh guru jemaat,Darotongngu aaggasannu taumata aapangimananna. Harta benda,jemaat dipegang oleh orang yang dipercayai,False,False,False,0.288,0.305,False,FN
+68,aaggasannu,True,Darotongngu aaggasannu taumata aapangimananna,Harta benda jemaat dipegang oleh orang yang dipercayai,Darotongngu aaggasannu taumata aapangimananna. Harta benda,jemaat dipegang oleh orang yang dipercayai,False,False,False,0.774,0.733,False,FN
+68,addoaa,True,Indi ama wua niwati addoaa su woboa,Kasur yang baru dijemur letakkan di kamar,Pulunnu niwalongnga su woboa. Cucumu,ditidurkan dalam ayunan di kamar,False,False,False,0.2,0.182,False,FN
+68,addoaa,True,Roitta nianggilli yamangngu addoaa su patoa,Uang yang ayah berikan simpan di kantong,buniaa su patoa.,Sembunyikan di kantong,False,False,False,0.233,0.293,False,FN
+68,addu,True,Manga timmadde nallewa addu ne nipangngu tawe mamala ndroa mabbale,Para orang tua seolah menjilat ludahnya sendiri jika tidak mengizinkan anak-anak bermain bola,Manga timmadde nallewa addu ne nipangngu tawe mamala ndroa mabbale. Para,orang tua seolah menjilat ludahnya sendiri jika tidak mengizinkan anak-anak bermain bola,False,False,True,0.909,0.94,False,FN
+68,aggahha,True,Aggahha liman tuarrinu!,Pegang tangan adikmu!,Aggahha liman tuarrinu!,Pegang tangan adikmu,False,True,True,1.0,1.0,False,TP
+68,aggahhangku,True,Tatummainna indite aggahhangku,Tongkatnya sudah aku pegang,atummainna indite ~.,Tongkatnya sudah aku pegang,False,False,False,0.552,1.0,False,FN
+68,aggahhanni,True,Suratta ua aggahhanni tou su lempanganni tou mialo-mialo,"Kemanapun dia pergi, surat itu dia pegang",Suratta ua ~ tou su lempanganni tou mialo- mialo. Kemana pun dia pergi,surat itu dia pegang,False,False,False,0.486,0.529,False,FN
+68,aggahhannu,True,"Buatte ni paatta, tue ua tae aggahhannu","Sudah selesai digunakan, tetapi sendoknya","uatte ni paatta, tue ua tae ~.","Sudah selesai digunakan, tetapi sendoknya tetap kau pegang",False,False,False,0.676,0.745,False,FN
+68,aggahhante,True,Limane aggahhante arawe itou tae mabbinsolokka,Tangannya sudah dipegang tetapi dia tetap meronta-ronta,imane ~ arawe itou tae mabbinsolokka.,Tangannya sudah dipegang tetapi dia tetap meronta-ronta,False,False,False,0.674,1.0,False,FN
+68,aggassa,True,aggassa liman tuarrinu!,pegang tangan adikmu!,Aggahha liman tuarrinu!,Pegang tangan adikmu,False,False,False,0.667,1.0,False,FN
+68,mangaddo,True,Iyau inai mangaddo ndoitta su wale asue,Saya akan menyimpan uang dahulu di rumah,yau inai mangaddo ndoitta su wale asue.,Saya akan menyimpan uang dahulu di rumah,False,False,True,0.973,1.0,False,FN
+68,mangaddu,True,I yau iani mangaddu,Saya mau meludah,yau iani mangaddu.,aya mau meludah,False,False,True,0.882,0.929,False,FN
+68,mangaggahha,True,I yau mangaggahha limane,Saya yang pegang tangannya,yau mangaggahhalimane.,Saya yang pegang tangannya,False,False,False,0.696,1.0,False,FN
+68,mangngaddo,True,I mama mangngaddo n sinangngo su lamari,Ibu sedang menyimpan makanan di lemari,mama mangngaddo n sinangngo su lamari.,Ibu sedang menyimpan makanan di lemari,False,False,True,0.969,1.0,False,FN
+68,mangngaddu,True,I tou mangngaddu,Ia sedang meludah,tou mangngaddu,Ia sedang meludah,False,False,True,0.857,1.0,False,FN
+68,mangngaggahha,True,"Paellegga, indi i yau mangngaggahha limane","Lihatlah, saya sedang memegang tangannya","aellegga, indi i yau mangngaggahha","limane Lihatlah, saya sedang memegang tangannya",False,False,True,0.816,0.829,False,FN
+68,naiaggahha,True,Inene naiaggahha si omma tuttumbe salukka,Nenek minta dituntun oleh paman untuk menyeberang sungai,Inene naiaggahha si omma tuttumbe sal᷊ukka Nenek,minta dituntun oleh paman untuk menyeberang sungai,False,False,True,0.804,0.9,False,FN
+68,nangaddo,True,Isai nangaddo tabbao su ayananna?,Siapa yang meletakkan tembakau di tempat duduk?,Isai nangaddo tabbao su ayananna?,Siapa yang meletakkan tembakau di tempat duduk,False,True,True,1.0,1.0,False,TP
+68,nangaddu,True,Taumata wagansinangngone nangaddu su saruannu tembonanne,"Orang itu tidak tahu tatakrama, meludah di depan pejabat",Ana’a wagansinangone ṛatangu inangnge rua namangnge babuhanna. Anak yang,tidak tahu tatakrama itu dimarahi habis-habisan oleh ibu dan ayahnya,False,False,False,0.241,0.244,False,FN
+68,nangaggahha,True,I yau suete nangaggahha limane,Saya sudah menjabat tangannya,yau mangaggahhalimane.,Saya yang pegang tangannya,False,False,False,0.438,0.306,False,FN
+68,niaddo,True,Araposa u niaddo suapa?,Topi saya diletakkan di mana?,disimpan Araposa u niaddo suapa?,Topi saya diletakkan di mana,False,False,False,0.69,1.0,False,FN
+68,niadduanna,True,I yassa niadduanna mai,"Kasihan, dia diludahi",yassa niadduanna mai. Kasihan,dia diludahi,False,False,False,0.621,0.556,False,FN
+68,niaggahhi,True,Lima u niaggahhi papa,Tanganku dipegang oleh ayah,yau mangaggahhalimane.,Saya yang pegang tangannya,False,False,False,0.194,0.229,False,FN
+68,niaggahhu,True,Pua u niaggahhu presidenna,Kepalaku dipegang oleh presiden,Sabua u niapaolaa si,tete. Pondokku dikerjakan oleh kakek,False,False,False,0.167,0.125,False,FN
+68,niapaaddo,True,Roiu niapaaddo si o anu o anggila ci mama,Uang yang saya suruh kamu simpan tolong diambil dan serahkan kepada ibu,alralruassa u mawu nianggi ci ite.,Berkat Tuhan yang diberikan kepada kita,False,False,False,0.158,0.179,False,FN
+68,niapaaddu,True,Itete niapaaddu wakkute ua niapawisara,Kakek disuruh meludahkan pinang baru boleh berbicara,Itete niapaaddu wakkute ua niapawisara Kakek,disuruh meludahkan pinang baru boleh berbicara,False,False,True,0.838,0.88,False,FN
+68,niapaaggahha,True,Roitta wurru wulawanna niapaaggahha su tuari u wawine,Uang dan emas disuruh pegang oleh adik perempuan],Tuari u niapaawitta su rangketta.,Adikku disuruh naik ke loteng,False,False,False,0.3,0.169,False,FN
+68,paiaggahha,True,Tuari paiaggahha siaangngu,Adik minta dipegang sama kakak,Aggahha liman tuarrinu!,Pegang tangan adikmu,False,False,False,0.222,0.194,False,FN
+68,pangaggahha,True,Su amatanna pangaggahha tantiro Mawu,"Di perjalanan saat merantau, peganglah firman Tuhan",amatta su lalannu mawu.,Jalanlah di jalan Tuhan,False,False,False,0.152,0.226,False,FN
+68,papaaddoaa,True,Laubbi papa wakku niwallianna papaaddoaa si mamanu,Baju ayah yang baru dibeli minta disimpan ibu,Laubbi papa wakku niwallianna papaaddoaa si mamanu.,Baju ayah yang baru dibeli minta disimpan ibu,False,True,True,1.0,1.0,False,TP
+68,papaadduaa,True,Ipapa papaadduaa su lima anasee pulung galele aaggasanna mapia,Ayah meludahi telapak tangannya sebelum ia memegang parang agar erat pegangannya,Ipapa papaadduaa su lima anasee pulung galele aaggasanna mapia. Ayah,meludahi telapak tangannya sebelum dia memegang parang agar erat pegangannya,False,False,True,0.906,0.866,False,FN
+68,uaaaddu,True,Elle wowa pulunna rarua uaaaddu!,Lihat kedua cucumu saling meludahi!,Elle wowa pulunna rarua uaaaddu!,Lihat kedua cucumu saling meludahi,False,True,True,1.0,1.0,False,TP
+68,uaaaggahha,True,Iyaha rua tatuari wuahhu hiola naoma mbale uaaaggahha,Lima kakak-beradik itu sejak keluar sekolah sampai di rumah saling berpegangan tangan,Aggahha liman tuarrinu!,Pegang tangan adikmu,False,False,False,0.129,0.141,False,FN
+68,uaaggahha,True,Isai uaaggahha roittu awadaalla?,Siapa yang memegang uang warga?,Isai uaaggahha roittu awadaalla?,Siapa yang memegang uang warga,False,True,True,1.0,1.0,False,TP
+68,yappaaddo,True,Araposa I yappaaddo mpapa su woboa ntou,Topi ini ayah suruh simpan di kamarnya,Araposa yappaaddo mpapa su woboa ntou.,Topi ini ayah suruh simpan di kamarnya,False,False,True,0.895,1.0,False,FN
+68,yappaaggahha,True,Darorongngu timmadde roittu awadaalla yappaaggahha si nora,Sesuai permintaan para tetua uang warga diminta istri guru yang memegang,Darorongngu timmadde roittu awadaalla yappaaggahha si nora. Sesuai permintaan,para tetua uang warga diminta istri guru yang memegang,False,False,False,0.747,0.766,False,FN
+68,aaggassalima,True,Indi roitta marasutta aaggassalima lima suandeangngu anai turangngu.,uang seratus ribu rupiah ini sebagai buah tangan untuk anak saudaramu yang berpesta,Indi roitta marasutta ~ lima su andeangngu anai turangngu. Uang seratus ribu rupiah,ini sbgbuah tangan untuk anak saudaramu yang berpesta,False,False,False,0.524,0.575,False,FN
+68,aahe,True,"i tou mai, namile aahe marruala",dia memilih ajakan anak gadis,tou mai,namile ~ marruala. ia memilih ajakan anak gadis,False,False,False,0.179,0.578,False,FN
+68,aahei,True,aahei ude tuarinu,ajaklah adikmu,aahei ude tuarinu,ajaklah adikmu,True,True,True,1.0,1.0,False,TP
+68,aahutan,True,Mangga sambau aahutan gngu sire tallu.,Sebutir mangga dimakan bersama oleh tiga orang dengan mengeratnya secara bergiliran,Mangga sambau aahutangngu sire tallu. Sebutir mangga dimakan,bersama oleh tiga orang dengan mengeratnya secara bergiliran,False,False,False,0.582,0.74,False,FN
+68,aahutta,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aai,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,ahe,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,ahe,True,ahe nu poite mammanara,orang yang kau ajak sudah bekerja,yau wuatte niaheanna mammanara.,Saya sudah diajak bekerja,False,False,False,0.297,0.368,False,FN
+68,ahhanna,True,Ahhanni hai poi hu tatul᷊iangku,siapa yang ada di tempat sampanku?,perahu bercadik. Ahhanni hai poi hu,tatul᷊iangku siapa yang ada di tempat sampanku,False,False,False,0.364,0.714,False,FN
+68,ahi,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,ahian,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,ahiangnga,True,yami taumata ahiangnga,kami orang miskin,Yami taumata ahiangnga.,Kami orang miskin,False,True,True,1.0,1.0,False,TP
+68,ahianna,True,peddettu ahianna rarua parrala piane,pakaian kedua pengantin sangat indah,Peddettu ~ rarua parrala piane.,Pakaian kedua pengantin sangat indah,False,False,False,0.686,1.0,False,FN
+68,ahidda,True,ariewe paabuliane ahidi papa inawa tumondo,jangan lupa perlengkapan ayah melaut,Ariewe paabul᷊iane ahidi papa inawa,tumondo. Jangan lupa perlengkapan ayah melaut,False,False,False,0.69,0.786,False,FN
+68,ahingnga,True,panganu watuline papaolaaa ahingnga,ambil kayu eboni (kayu hitam) buatkan gasing,Panganu watu l ine papaolaaa asingnga.,Ambil kayu eboni (kayu hitam) buatkan gasing,False,False,False,0.65,1.0,False,FN
+68,aho,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,ahonggo,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,ahonggola,True,ahonggala sai ude?,pemberian siapakah itu?,ahonggolla sai ude?,emberian siapakah itu,False,False,False,0.632,0.95,False,FN
+68,ahutta,True,Isai nangahutta mangga u?,siapa yang mengerat manggaku,sai nangahutta mangga u?,siapa yang mengerat manggaku,False,False,True,0.952,1.0,False,FN
+68,ai,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,ai,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aian,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aianna,True,"aianna asue, wakkute ude panassu ngkamatanna.",Duduk dahulu baru lanjutkan perjalanan,anna we asue wakkute ude,pammanara. Makan dahulu baru bekerja,False,False,False,0.348,0.308,False,FN
+68,aita,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aita,True,Arie pa′pakeng aitta,Jangan pakai kait atau gancu,Arie pa′pakeng aitta.,Jangan pakai kait atau gancu,False,True,True,1.0,1.0,False,TP
+68,maionggo,True,ipapa maionggo u araposa,ayah minta diberi topi,Ipapa maionggo u araposa.,Ayah minta diberi topi,False,True,True,1.0,1.0,False,TP
+68,mangaggassa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,mangahe,True,i yami mangahe si papa huru,kami mau mengajak pak guru,yami mangahe si papa huru.,Kami mau mengajak pak guru,False,False,True,0.92,1.0,False,FN
+68,mangahutta,True,Anang-ngu mappulu mangahutta manga.,Anakmu mau mengerat buah manga,Anang-ngu mappulu mangahutta manga.,Anakmu mau mengerat buah manga,True,True,True,1.0,1.0,False,TP
+68,mangai,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,manggahu,True,Tuari u apulune manggahu mangga tala iiang,Adikku makan buah mangga dengan mengeratnya tanpa dikupas dahulu,Tuari u apulune mangahu mangga tala iiang. Adikku,makan buah mangga dengan mengeratnya tanpa dikupas dahulu,False,False,True,0.791,0.912,False,FN
+68,mangngahe,True,i papa mangngahe si ya u manu su wailla,ayah mengajak saya ke kebun,papa mangngahe si ya u manu,su wailla. yah mengajak saya ke kebun,False,False,False,0.657,0.676,False,FN
+68,mangngahu,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,mangngahutta,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,mangonggo,True,iyau mangonggo angngu manu,saya mau memberi makanan ayam,Iyau mangonggo angngu manu.,Saya mau memberi makanan ayam,False,True,True,1.0,1.0,False,TP
+68,mangonggo,True,Inene mangonggo u wusa lahane su manga pulungnge.,Nenek sedang memberi pisang masak kpd cucu-cucunya,Inene mangngala talattu tete.,Nenek sedang mengipasi punggung kakek,False,False,False,0.196,0.226,False,FN
+68,naionggo,True,Anerra mabbawale naionggo u uae si mama.,Kemarin anak-anak bermain bola dan minta diberi air minum sama ibu,Ipapa maionggo u araposa.,Ayah minta diberi topi,False,False,False,0.208,0.185,False,FN
+68,nangaggassa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,nangahe,True,tuarinu nangahe si sai?,siapa yang diajak adikmu,aahei ude tuarinu,ajaklah adikmu,False,False,False,0.207,0.259,False,FN
+68,nangahu,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,nangahutta,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,nangai,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,nangonggo,True,Isai nangonggo u roi ci tou?,Siapa yang memberi uang padanya?,sai nangahutta mangga u?,siapa yang mengerat manggaku,False,False,False,0.184,0.268,False,FN
+68,niaggassa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,niaggassi,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,niaggassu,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,niaheanna,True,i yau wuatte niaheanna,saya sudah diajak bekerja,yau wuatte niaheanna mammanara.,Saya sudah diajak bekerja,False,False,False,0.6,1.0,False,FN
+68,niahutta,True,Manggau tatallu niahutta abbi ruam baa.,Manggaku tiga biji dikerat habis sebelah menyebelah,Manggau tatallu niahutta abbi ruam baa.,Manggaku tiga biji dikerat habis sebelah menyebelah,True,True,True,1.0,1.0,False,TP
+68,niai,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,niapaahu,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,niapaonggo,True,Roiu niapaonggo I tete si tou.,Uang itu disuruh oleh kakek agar diberikan kepadanya,Sabua u niapaolaa si,tete. Pondokku dikerjakan oleh kakek,False,False,False,0.189,0.186,False,FN
+68,nionggo,True,Manuu nionggo ci nene.,Ayamku diberikan kepada nenek,Ipapa manganggi u ina ci nenenu.,Ayah mau memberi ikan kepada nenekmu,False,False,False,0.211,0.419,False,FN
+68,paiaggassa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,pangaggassa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,pangahe,True,pangahe turangu anu su wailla,ajak saudaramu ke kebun,pangahe turangngu anu su,wailla. Ajak saudaramu ke kebun,False,False,False,0.679,0.714,False,FN
+68,pangahutta,True,lote pangahutta rorone,kau keratlah dahulu,Iote pangahutta rorone.,Kau keratlah dahulu,False,False,True,0.905,1.0,False,FN
+68,pangonggo,True,I o pangonggou ina iyau mangonggo u woha ci mangitou.,"Kau berikan ikan, saya akan memberikan beras kpd mereka",Iyau mangonggo angngu manu.,Saya mau memberi makanan ayam,False,False,False,0.271,0.25,False,FN
+68,papaahuta,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,papaaita,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,uaaaggassa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,uaaahutta,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,uaaggassa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,uaai,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,uaangonggo,True,Iyammi tarruari ninarangngu haggurangngi yammi uaangonggo,Kami kakak-beradik dibiasakan oleh orang tua kami untuk saling memberi,Iyammi taruari ninarangngu hagu-rangngi yammi uaaanggi u sinangngo. Kami,kakak-beradik dididik oleh orang tua kami untuk saling memberi makanan,False,False,False,0.578,0.739,False,FN
+68,yappaaggassa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,yappaaggassa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,yappaahutta,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,yappaai,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,yappaonggo,True,Iyau nirolo i cama yappaonggo u woha ciamiu.,Saya disuruh camat untuk memberikan beras ini kepada kalian,Iyau nirolo i cama ~ u woha ciamiu.,Saya disuruh camat untuk memberikan beras ini kepada kalian,False,False,False,0.659,1.0,False,FN
+68,aakkeanna,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aakkudda,True,aakkudda udde manggantuarinu anasee itou tawe mangahutta ere walawo,Kupaslah mangga adikmu supaya tidak mengerat saat memakananya,udde manggantuarinu anasee itou tawe mangahutta ere walawo.,Kupaslah mangga adikmu supaya tidak mengerat saat memakananya,False,False,True,0.867,1.0,False,FN
+68,aianaa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aianante,True,Adera ua aianante ntaumata waine.,Kursi itu sudah diduduki oleh orang lain,Adera ua ~ ntaumata waine. Kursi,itu sudah diduduki oleh orang lain,False,False,False,0.5,0.842,False,FN
+68,aiape,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aikkatanna,True,Lima u aikkatanna na lessa,Tangan kananku terluka,Lima u aikkatanna maraddaa .,Tangan sebelah kanan saya sakit,False,False,False,0.516,0.243,False,FN
+68,aillrihha,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aillrissa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aillulrunan,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aillulrunanna,True,Tase laubba niola i tou aillulrunanna,Dia menjadikan tas pakaian sebagai bantal kepala,Itou walrullre laubba mawira,. Dia mengenakan baju putih,False,False,False,0.196,0.153,False,FN
+68,aillulrunna,True,Pulunna matii aillulrunna su taiakki yupungnge.,Cucunya tidur berbantalkan lengan kakeknya,Pulunna matii ~ su taiakki,yupungnge. Cucunya tidur berbantalkan lengan kakeknya,False,False,False,0.477,0.776,False,FN
+68,ailratan,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,ailratan,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,ailri,True,Limantou ailri napaddi,Tangan kirinya patah,Limantou – napaddi.,Tangan kirinya patah,False,False,False,0.565,1.0,False,FN
+68,ailu,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aimbu,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aimpalru,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aimpalrucca,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aimpalrukka,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aimu,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aimudda,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aimudde,True,Asunu maitumma aimudde mauatta,Anjingmu yang berwarna hitam penciumannya tajam,Asunu maitumma ~ mauatta. Anjingmu,yang berwarna hitam penciumannya tajam,False,False,False,0.45,0.8,False,FN
+68,airaen,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,airaenna,True,Pabballassa airaenna si yaangngu,Pinjamlah kukuran kelapa sama kakakmu,Pabballassa airaenna si yaangngu.,Pinjamlah kukuran kelapa sama kakakmu,False,True,True,1.0,1.0,False,TP
+68,aitaa,True,aitaa tali ua su alu,Kaitkan talinya pada batang pohon,tali ua su alu,Kaitkan talinya pada batang pohon,False,False,False,0.667,1.0,False,FN
+68,aitta,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,aiyape,True,Sassimbarre poi aiyape ntantenu su apalla,Balaslah lambaian tangan tantemu di atas kapal,Sassimbarre poi aiyape ntantenu su apalla.,Balaslah lambaian tangan tantemu di atas kapal,False,True,True,1.0,1.0,False,TP
+68,akke,True,akke ua maatilla,Kudis itu terasa gatal,akke ua maatilla.,Kudis itu terasa gatal,False,True,True,1.0,1.0,False,TP
+68,akkoa,True,Akkoa udde potolli tuarinu!,Raut pensil adikmu!,Akkoa udde potolli tuarinu!,Raut pensil adikmu,False,True,True,1.0,1.0,False,TP
+68,akkoanna,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,akkudda,True,akkudda ude mangga ntuarinu,Kupas mangga adikmu,akkudda ude mangga,ntuarinu. Kupas mangga adikmu,False,False,False,0.64,0.63,False,FN
+68,iapaakkoa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,ipangaitta,True,Panganu yawanna i ipangaitta puso,Ambil bambu untuk mengait jantung pisang,Panganu yawanna i ~ puso.,Ambil bambu untuk mengait jantung pisang,False,False,False,0.613,1.0,False,FN
+68,mangaitta,True,Mangaittu paruru su peanna,Mengaitkan umpan di mata kail,Mangaittu paruru su peanna.,Mengaitkan umpan di mata kail,False,True,True,1.0,1.0,False,TP
+68,mangakkoa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,mangimpalrukka,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,mangngaitta,True,I yupungngu mangngaitta apa poi su alungngu wusaa,Kakekmu sedang mengaitkan apa di bawah pohon pisang?,yupungngu mangngaitta apa poi su al᷊ungngu wusaa.,Kakekmu sedang mengaitkan apa di bawah pohon pisang,False,False,True,0.837,1.0,False,FN
+68,mangngakkoa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,mangngimpalrukka,True,I papa ratumbanua mangngimpalrukka su awingngu ana′a rarua,Bapak Ratumbanua (tokoh adat) mendaraskan sastra lisan pada perkawinan kedua anak,papa ratumbanua mangngimpalrukka su awingngu ana′a rarua. Bapak Ratumbanua,(tokoh adat) mendaraskan sastra lisan pada perkawinan kedua anak,False,False,True,0.831,0.773,False,FN
+68,mappaaianna,True,I papa mappaaianna tuari su Adera.,Ayah mendudukkan adik di kursi,papa mappaaianna tuari su Adera.,Ayah mendudukkan adik di kursi,False,False,True,0.935,1.0,False,FN
+68,naaianna,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,nangaitta,True,"Oh, i yupungngu nangaitta rongngu wusaa","Oh, kakekmu mengait daun pisang","Oh, i yupungngu nangaitta rongngu","wusaa. Oh, kakekmu mengait daun pisang",False,False,True,0.848,0.806,False,FN
+68,nangimpalrukka,True,Isai nangimpalrukka su awingngu anaa rarua naallawa?,Siapa yang mendaraskan kata-kata sastra berupa doa restu dl upacara perkawinan kedua anak semalam?,Isai nangimpalrukka su awingngu anaa rarua naallawa?,Siapa yang mendaraskan kata-kata sastra berupa doa restu dalam upacara perkawinan kedua anak semalam,False,False,True,1.0,0.923,False,FN
+68,niaitta,True,niaitta suapa udde kabellu televisi?,Kabel televisi itu dikaitkan di mana?,niaitta suapa udde kabellu televisi ? Kabel televisi itu,dikaitkan di mana,False,False,False,0.786,0.455,False,FN
+68,niakkeanna,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,niakkeanna,True,Bailla nituwoannu akke,Kebun ditumbuhi ilalang,Bailla nituwoannu akke.,ebun ditumbuhi ilalang,False,False,True,1.0,0.952,False,FN
+68,niakkoa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,niapaaianna,True,Anangnge niapaaianna su ayananna mawawo.,Anaknya didudukkan di bangku rendah,nangnge niapaaianna su ayananna mawawo.,Anaknya didudukkan di bangku rendah,False,False,True,1.0,1.0,False,FN
+68,niapaimpalrukka,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,pangakkoa,True,Panganu ghalele i pangakkoa alu,Ambil parang untuk menajamkan kayu manga,Panganu ghalele i pangakkoa alu.,Ambil parang untuk menajamkan kayu manga,False,True,True,1.0,1.0,False,TP
+68,papaaitaa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,uaaitta,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,uaakkoa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,uaianna,True,Itou uaianna su adera mukane.,Ia menduduki kursi paling depan,Itou uaianna su adera mukane.,Ia menduduki kursi paling depan,True,True,True,1.0,1.0,False,TP
+68,umaillulrnna,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,yappaaitta,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,yappaakkoa,True,-,-,,,False,False,False,0.0,0.0,False,FN
+68,yappaimpalrukka,True,-,-,,,False,False,False,0.0,0.0,False,FN

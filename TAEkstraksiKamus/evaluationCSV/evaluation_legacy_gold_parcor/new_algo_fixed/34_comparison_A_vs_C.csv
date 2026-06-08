@@ -1,2 +1,2 @@
-dict_id,kata_asal,c_has_pair,a_has_pair,c_kalimat_asal,a_kalimat_asal,c_kalimat_tujuan,a_kalimat_tujuan,match_asal_strict,match_asal_normalized,match_asal_fuzzy,match_asal_fuzzy_score,match_tujuan_strict,match_tujuan_normalized,match_tujuan_fuzzy,match_tujuan_fuzzy_score,concatenation_candidate,outcome
-34,la.da,True,False,sas yadiapin cerik sakewala wanen,,belum tahu dipedas,,False,False,False,0.0,False,False,False,0.0,False,missed_lemma
+dict_id,kata_asal,c_has_pair,c_kalimat_asal,c_kalimat_tujuan,best_a_kalimat_asal,best_a_kalimat_tujuan,match_strict,match_normalized,match_fuzzy,best_asal_fuzzy_score,best_tuj_fuzzy_score,concatenation_candidate,outcome
+34,la.da,True,sas yadiapin cerik sakewala wanen,belum tahu dipedas,tusing nawang anaké cerik ené ubuh,sava tidak tahu anak ii--. icang,False,False,False,0.107,0.098,False,FN
