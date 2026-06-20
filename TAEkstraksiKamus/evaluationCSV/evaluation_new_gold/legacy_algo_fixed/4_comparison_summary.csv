@@ -1,4 +1,0 @@
-match_level,tp,fn,tn,fp,precision,recall,f1
-strict,0,81,2,,,0.0,
-normalized,20,61,2,,,0.2469,
-fuzzy,41,40,2,,,0.5062,
